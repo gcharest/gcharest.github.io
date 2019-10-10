@@ -1,0 +1,82 @@
+
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+baseurl: ""
+url: "https://gcharest.github.io/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
+
+# i18n
+description:
+  en: Personal Website, Open Source Software, Diabetes, Blog Posts
+  fr: Site web personnel, Logiciels libres, Diabète, Blog
+categoriesList:
+  en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
+  fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
+docsTitle:
+  en: My Documents
+  fr: Mes documents
+home:
+  en: Home
+  fr: Accueil
+index:
+  en: home.html
+  fr: accueil.html
+language:
+  en: English
+  fr: Français
+mandate:
+  en: Mandate
+  fr: Mandat
+presentations:
+  en: Our Presentations
+  fr: Nos présentations
+pagesAbout:
+  en: About us
+  fr: À propos de nous
+pagesWIP:
+  en: Work In Progress
+  fr: Travaux en cours
+pagesReview:
+  en: Under Review
+  fr: En révision
+pagesArchive:
+  en: Archives
+  fr: Archives
+pagesOther:
+  en: Other
+  fr: Autre
+subtitle:
+  en: Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility.
+  fr: Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
+thisPageHasMoved:
+  en: "This page has been modified and can now be found at the following link:"
+  fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
+title:
+  en: Guillaume Charest
+  fr: Guillaume Charest
+viewOnGithub:
+  en: View on GitHub
+  fr: Voir dans GitHub
+writtenBy:
+  en: Written by
+  fr: Écrit par
+lastModified:
+  en: Last modified
+  fr: Dernière modification
+blogPosts:
+  en: Blog Posts
+  fr: Billets
+notice:
+  en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
+  fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
+feedback:
+  en: I encourage you to send me feedback on <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> through Issues or Pull Requests. Look here on <a href="how-to-contribute.html">how to contribute</a>.
+  fr: Je vous encourage à m'envoyer de la rétroaction dans <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests".
