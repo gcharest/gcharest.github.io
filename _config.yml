@@ -15,8 +15,8 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 
 # i18n
 description:
-  en: Personal Website, Open Source Software, Diabetes, Blog Posts
-  fr: Site web personnel, Logiciels libres, Diabète, Blog
+  en: Open Source Software, Diabetes, Blog Posts
+  fr: Logiciels libres, Diabète, Blog
 categoriesList:
   en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
   fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
