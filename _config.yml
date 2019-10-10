@@ -21,11 +21,14 @@ categoriesList:
   en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
   fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
 docsTitle:
-  en: My Documents
-  fr: Mes documents
+  en: Documents
+  fr: Documents
 home:
   en: Home
   fr: Accueil
+aPropos:
+  en: About
+  fr: À propos
 index:
   en: home.html
   fr: accueil.html
