@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+node_modules/
+.vscode/
+*.db
+*.log
+.DS_Store
+Gemfile.lock
