@@ -15,8 +15,8 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 
 # i18n
 description:
-  en: Open Source Software, Diabetes, Blog Posts
-  fr: Logiciels libres, Diabète, Blog
+  en: Open Source Software & Diabetes
+  fr: Logiciels libres & Diabète
 categoriesList:
   en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
   fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
@@ -35,9 +35,6 @@ index:
 language:
   en: English
   fr: Français
-mandate:
-  en: Mandate
-  fr: Mandat
 presentations:
   en: Our Presentations
   fr: Nos présentations
@@ -56,9 +53,6 @@ pagesArchive:
 pagesOther:
   en: Other
   fr: Autre
-subtitle:
-  en: Enable the strategic value of IT within ESDC by reducing its risks to accelerate business flexibility.
-  fr: Favoriser la valeur stratégique des TI au sein de EDSC en réduisant leurs risques afin d'accélérer la flexibilité de l'entreprise.
 thisPageHasMoved:
   en: "This page has been modified and can now be found at the following link:"
   fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
@@ -77,9 +71,18 @@ lastModified:
 blogPosts:
   en: Blog Posts
   fr: Billets
-notice:
-  en: All work found on this site are ideas and proposals from the IT Strategy team within ESDC. Content here does not represent the official stance of ESDC nor the Government of Canada at large.
-  fr: Tous les travaux présentés sur ce site sont des idées et des propositions de l'équipe de la stratégie informatique de EDSC. Le contenu présenté ici ne représente pas la position officielle de EDSC ni celle du gouvernement du Canada en général.
+ccby1:
+  en: This site
+  fr: Ce site
+ccby2:
+  en: from
+  fr: de
+ccby3:
+  en: is provided under the terms of the
+  fr: est mis à disposition selon les termes de la
+ccby4:
+  en: Creative Commons Attribution 4.0 International licence
+  fr: licence Creative Commons Attribution 4.0 International
 feedback:
   en: I encourage you to send me feedback on <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> through Issues or Pull Requests. Look here on <a href="how-to-contribute.html">how to contribute</a>.
   fr: Je vous encourage à m'envoyer de la rétroaction dans <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests".
