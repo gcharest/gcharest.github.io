@@ -5,21 +5,17 @@ ref: apropos
 lang: en
 status: posted
 ---
-Comme je le mentionne en ouverture, j'ai conçu ce site dans le but de rassembler diverses informations utiles pour la gestion du diabète de type 1 et de les rendre rapidement utilisables. 
-Il y a de nombreuses ressources fiables disponibles sur le Web mais j'ai trouvé que celles-ci étaient parfois peu accessibles ou qu'elles n'étaient disponibles qu'en anglais.
-Mon objectif est donc de regrouper le tout dans un format qui soit facile à utiliser pour tous au quotidien. 
+As I mentioned in the home page, I designed this site to bring together my work on open source software and other useful information for the management of type 1 diabetes in order to make it quickly usable.
+There are many reliable resources available on the web but I found that they were sometimes not very accessible or that they were only available in English.
+My goal is to bring it all together in a format that is easy for everyone to use on a daily basis.
 
-Je tiendrai également une liste des projets de logiciels libres qui semblent intéressants.
-J'ai déjà réuni quelques-uns de ceux-ci et ils semblent tous être organisés en fonction de sauvegarder l'information plutôt que de faciliter la planification proactive, surtout au niveau de la gestion de la diète conjointement avec le traitement.
-Il y a peut-être une opportunité d'amener la communauté à améliorer cette dimension.
+I will also keep a list of free software projects that seem interesting, especially around diabetes management.
+I have already gathered some of these and they all seem to be designed to save information rather than facilitate proactive planning, especially in terms of diet management in conjunction with patient treatment.
+There may be an opportunity to engage the community in improving this dimension.
 
-## Mon parcours:
+## My journey
 
-Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernment pendant plus de 10 ans ainsi que pour des petites entreprises et des organismes à but non lucratif. 
-Depuis mes tous débuts, je partage mon enthousiasme pour les logiciels libres avec mes différentes équipes et mes clients.
+I am an information technology (IT) professional who has worked for the government for over 10 years as well as for small businesses and non-profit organizations.
+Since the very beginning, I have shared my enthusiasm for free software with my various teams and customers.
 
 ~ Guillaume
-
-<!---->
-
-{%- include licence.html -%}
