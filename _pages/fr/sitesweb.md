@@ -3,6 +3,7 @@ layout: default
 title:  Sites Web
 ref: diabete
 lang: fr
+sections: Diabète
 ---
 Voici une série de sites Web offrant beaucoup de ressources pour gérer le diabète.
 À noter que beaucoup des ressources sont sous forme de PDF ce qui est parfois plus compliqué à accéder via un mobile ou si vous êtes une personne nécessitant un format plus accessible (handicap ou autre raisons).

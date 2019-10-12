@@ -3,6 +3,7 @@ layout: default
 title:  Projets
 ref: diabete
 lang: fr
+sections: Diabète
 ---
 
 > Dans cette page

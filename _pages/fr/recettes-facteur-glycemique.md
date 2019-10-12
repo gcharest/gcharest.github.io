@@ -3,7 +3,7 @@ layout: default
 title:  Facteur glycémique de recettes
 ref: facteur-glycémique
 lang: fr
-categories: Diabète
+sections: Diabète
 ---
 > Dans cette page
 1. [Méthode](#m%c3%a9thode)

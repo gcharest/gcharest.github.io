@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nos billets
+title: Mes billets
 lang: fr
 ref: blog-posts
 status: posted
