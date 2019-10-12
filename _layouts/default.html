@@ -8,6 +8,9 @@
     {% include header.html %}
 
     <main class="container">
+      {%- if page.ref != "home" -%}
+      <h3>{{ page.title }}</h3>
+      {%- endif -%}
       {{ content }}
     </main>
     
