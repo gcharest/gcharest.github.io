@@ -17,7 +17,7 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 description:
   en: Open Source Software & Diabetes
   fr: Logiciels libres & Diabète
-categoriesList:
+sectionsList:
   en: ["General", "Open Source Software", "Diabetes"]
   fr: ["Général", "Logiciels libres", "Diabète"]
 docsTitle:
