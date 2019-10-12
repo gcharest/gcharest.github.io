@@ -18,8 +18,8 @@ description:
   en: Open Source Software & Diabetes
   fr: Logiciels libres & Diabète
 categoriesList:
-  en: ["About us", "Work In Progress", "IT Picture", "Trends", "Under Review", "Archives"]
-  fr: ["À propos de nous", "Travaux en cours", "Image de la TI", "Tendances", "En révision", "Archives"]
+  en: ["General", "Open Source Software", "Diabetes"]
+  fr: ["Général", "Logiciels libres", "Diabète"]
 docsTitle:
   en: Documents
   fr: Documents
