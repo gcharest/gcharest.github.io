@@ -3,17 +3,16 @@ layout: default
 title: Page d'accueil
 ref: home
 lang: fr
-permalink: /accueil.html
+permalink: /index.html
 ---
-Bienvenue sur mon site personnel !
-La raison pour laquelle je crée ce site est que je me suis rendu compte avoir créé beaucoup de contenu au cours des dernières années et qu'il est vraiment temps pour moi de rassembler le tout dans un endroit un peu plus central.
+Bienvenue sur mon site personnel!
+La raison pour laquelle j'ai créé ce site est que j'ai produit beaucoup de contenu au cours des dernières années et je voudrais essayer de rassembler le tout dans un endroit un peu plus central.
 
 J'ai actuellement deux domaines d'intérêt principaux : Les logiciels libres et le diabète, qui ne s'excluent pas mutuellement lorsque l'on plonge un peu dans les sujets.
 
-Le premier sujet, les logiciels libres, m'intéresse depuis de nombreuses années, depuis l'université.
-Récemment, j'ai également eu l'honneur d'être le chef de file des logiciels libres pour le Secrétariat du Conseil du Trésor du Canada.
-Pour ce rôle, j'ai dû travailler avec les ministères, le secteur privé et les citoyens pour les aider à élaborer des exigences et des lignes directrices sur l'utilisation, la contribution et la publication des logiciels libres.
-C'était un temps incroyable et je suis vraiment impressionné par tout le travail accompli par toute la communauté !
+Le premier sujet, les logiciels libres, m'intéresse depuis de nombreuses années. Récemment, j'ai également eu le privilège d'être le lead pour l'adoption des logiciels libres pour le Secrétariat du Conseil du Trésor du Canada.
+Pour ce rôle, j'ai dû travailler avec les ministères, le secteur privé et les citoyens pour aider à élaborer des exigences et des lignes directrices sur l'utilisation, la contribution et la publication des logiciels libres au gouvernement du Canada.
+Ce fut une expérience incroyable et je suis vraiment impressionné par tout le travail accompli par toute la communauté !
 
 Le deuxième sujet, le diabète, est quelque peu nouveau pour moi et est lié au fait que mon fils ainé a développé le diabète de type 1 en novembre 2018.
 Cela m'a ouvert les yeux sur une réalité qui m'était étrangère auparavant et je pense que cela m'a rendu une meilleure personne, plus consciente des défis auxquels les gens doivent faire face chaque jour.

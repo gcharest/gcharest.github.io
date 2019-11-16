@@ -15,8 +15,8 @@ exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js
 
 # i18n
 description:
-  en: Open Source Software & Diabetes
-  fr: Logiciels libres & Diabète
+  en: Resources and blog posts
+  fr: Ressources et billets
 sectionsList:
   en: ["General", "Open Source Software", "Diabetes"]
   fr: ["Général", "Logiciels libres", "Diabète"]
@@ -31,7 +31,7 @@ aPropos:
   fr: À propos
 index:
   en: home.html
-  fr: accueil.html
+  fr: index.html
 language:
   en: English
   fr: Français
@@ -57,8 +57,8 @@ thisPageHasMoved:
   en: "This page has been modified and can now be found at the following link:"
   fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
 title:
-  en: Guillaume Charest
-  fr: Guillaume Charest
+  en: Open Source Software & Diabetes
+  fr: Logiciels libres & Diabète
 viewOnGithub:
   en: View on GitHub
   fr: Voir dans GitHub
