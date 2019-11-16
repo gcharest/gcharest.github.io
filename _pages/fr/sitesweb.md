@@ -23,7 +23,7 @@ Offre de nombreuses ressources pour les parents.
 
 ## Hôpital de Montréal pour enfants
 
-Section du site de l'Hôpital de Montréal pour enfants sur le diabète. 
+Section du site de l'Hôpital de Montréal pour enfants sur le diabète.
 À noter qu'il y a plus de ressources offertes dans la version anglaise du site que la version française.
 
 [https://www.thechildren.com/departments-and-staff/departments/department-of-diabetes](https://www.thechildren.com/departments-and-staff/departments/department-of-diabetes)

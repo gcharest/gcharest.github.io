@@ -5,7 +5,8 @@ ref: facteur-glycémique
 lang: fr
 sections: Diabète
 ---
-> Dans cette page
+Dans cette page
+
 1. [Méthode](#m%c3%a9thode)
 2. [Recettes fréquentes](#recettes-fr%c3%a9quentes)
 3. [Recettes génériques](#recettes-g%c3%a9n%c3%a9riques)

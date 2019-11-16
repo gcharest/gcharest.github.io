@@ -15,7 +15,7 @@ En effet, si on regarde quelques sites spécialisés dans le marketing, on const
 * [Les chiffres du numérique au Canada en 2017](https://www.kabane.ca/chiffres-numerique-canada-2017), Kabane, agence marketing.
 * [Mobile vs Desktop Usage in 2018: Mobile takes the lead](https://www.stonetemple.com/mobile-vs-desktop-usage-study/), Stone Temple, Digital Marketing.
 
-Avant même de considérer l'accessibilité comme un besoin pour les personnes ayant un handicap ou des besoins spécifiques, il faut voir l'accessibilité comme la possibilité pour toutes personnes à utiliser le service ou à consulter l'information. 
+Avant même de considérer l'accessibilité comme un besoin pour les personnes ayant un handicap ou des besoins spécifiques, il faut voir l'accessibilité comme la possibilité pour toutes personnes à utiliser le service ou à consulter l'information.
 Je dois dire que le fait d'accéder à des fichiers PDF pour consulter de l'information m'horripile si ce n'était pas l'intention de l'imprimer.
 
 Je vais donc m'efforcer de non seulement rendre les informations facilement accessibles sur différents types d'appareils lorsque vous consultez ce site, mais je vais m'assurer que les données brutes peuvent être lues également par les machines.

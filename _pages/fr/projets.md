@@ -6,7 +6,8 @@ lang: fr
 sections: Diabète
 ---
 
-> Dans cette page
+Dans cette page
+
 1. [Outils](#outils)
    1. [Canevas](#canevas)
    2. [Outils](#outils-1)
@@ -51,7 +52,7 @@ Voici des projets que j'ai trouvés intéressants et qui semblent avoir une appr
   * Organisation à but non-lucratif américaine visant à développer des outils d'analyse et de visualisation des données du diabète type 1. Ils travaillent avec les diabétiques, les cliniciens et les chercheurs.
   * Projet logiciel libre ouvert aux développeurs: https://developer.tidepool.org/
 * [Glucosio](https://www.glucosio.org/)
-  * Projet sous logiciel libre (GPL 3.0) ayant pour objectif d'offrir une expérience utilisateur hors paire et offrir la possibilité de supporter la recherche. 
+  * Projet sous logiciel libre (GPL 3.0) ayant pour objectif d'offrir une expérience utilisateur hors paire et offrir la possibilité de supporter la recherche.
 * [Glukit](https://mygluk.it/)
   * Ce projet nouvellement relâché sous licence libre (MIT) semble intéressant mais je dois y jeter un oeil plus attentif car le développeur est un diabétique de type 1 ayant supposément réussi à maintenir un taux de glucide moyen de 4.4, ce qui est très bas même si possible.
 * [DJ-Diabetes](https://github.com/push-things/dj-diabetes)
