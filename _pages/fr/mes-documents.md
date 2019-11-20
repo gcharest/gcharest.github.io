@@ -9,4 +9,4 @@ permalink: /documents-et-presentations.html
 
 {% include listPages.md %}
 
-{% include listPresentations.md %}
+{%- include listPresentations.md -%}
