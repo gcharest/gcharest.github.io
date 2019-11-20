@@ -19,9 +19,8 @@
     "url": "git+https://github.com/gcharest/gcharest.github.io.git"
   },
   "keywords": [
-    "strategy",
-    "documentation",
-    "collaboration"
+    "blogs",
+    "references"
   ],
   "author": "Guillaume Charest",
   "license": "MIT",
