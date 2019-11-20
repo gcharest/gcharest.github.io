@@ -4,6 +4,7 @@ title:  "Le temps passe vite!"
 ref: temps
 lang: fr
 date:   2019-10-03 20:30:00 -0500
+excerpt_separator: <!--more-->
 ---
 Wow...
 Dans mon dernier [billet]({{ site.baseurl }}/2019/02/15/équilibre.html) datant d'il y a près de 7 mois, je mentionnais que d'avoir un enfant diabétique nécessite non seulement un excellent réseau d'aide, mais aussi un travail qui nous permet de trouver un équilire.
