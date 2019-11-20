@@ -48,8 +48,39 @@ body {
   line-height: 2;
 }
 
+/*Navigation links for accessibility*/
+
+#Menu1 .nav-link {
+  color: #EDEEEE;
+}
+
+.alert a {
+  color: #004DA3;
+}
+
+.alert-success {
+  background-color: #E2F3E7;
+}
+
+.footer a {
+  color: #004FA8;
+}
+
 /* Homepage styles*/
 
 #homepage {
   text-align: center;
+}
+
+/*Blockquotes*/
+/*Adapted from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote */
+blockquote {
+  margin: 0;
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
+}
+
+.blockquote {
+  font-size: 1rem;
 }
