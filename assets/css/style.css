@@ -50,6 +50,12 @@ body {
   line-height: 2;
 }
 
+/*Navigation links*/
+
+#Menu1 .nav-link {
+  color: #EDEEEE;
+}
+
 /* Homepage styles*/
 
 #homepage {
