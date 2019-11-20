@@ -4,6 +4,8 @@ title:  "Lune de miel"
 date:   2018-12-26 14:21:56 -0500
 ref: diabete
 lang: fr
+author: Guillaume Charest
+excerpt_separator: <!--more-->
 ---
 Les célébrations de Noël sont passées et depuis quelques semaines on constate un phénomène particulier : il faut de moins en moins d'insuline pour que mon fils puisse conserver un faible taux de sucre dans le sang.
 
