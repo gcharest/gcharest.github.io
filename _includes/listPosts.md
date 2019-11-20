@@ -7,7 +7,10 @@
         <strong>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a>
         </strong>
-        <p>{{ post.date | date: "%Y-%M-%d" }}</p>
+        <br>{{ post.date | date: "%Y-%m-%d"}}
+        <p>
+        {{ post.excerpt | strip_html}}
+        </p>
       </li>
     {% endfor %}
   </ul>

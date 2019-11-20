@@ -36,11 +36,11 @@ language:
   en: English
   fr: Français
 presentations:
-  en: Our Presentations
-  fr: Nos présentations
+  en: My Presentations
+  fr: Mes présentations
 pagesAbout:
-  en: About us
-  fr: À propos de nous
+  en: About me
+  fr: À propos de moi
 pagesWIP:
   en: Work In Progress
   fr: Travaux en cours
@@ -86,3 +86,12 @@ ccby4:
 feedback:
   en: I encourage you to send me feedback on <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> through Issues or Pull Requests. Look here on <a href="how-to-contribute.html">how to contribute</a>.
   fr: Je vous encourage à m'envoyer de la rétroaction dans <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests".
+printPDF:
+  en: Printable version
+  fr: Version imprimable
+printPDFNotes:
+  en: with notes
+  fr: avec notes
+printPDFNotice:
+  en: Note that the printable version only works with modern browsers. Internet Explorer is not supported.
+  fr: Notez que la version imprimable ne fonctionne qu'avec des navigateurs modernes. Internet Explorer n'est pas supporté.
