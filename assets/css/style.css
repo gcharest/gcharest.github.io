@@ -50,10 +50,22 @@ body {
   line-height: 2;
 }
 
-/*Navigation links*/
+/*Navigation links for accessibility*/
 
 #Menu1 .nav-link {
   color: #EDEEEE;
+}
+
+.alert a {
+  color: #004DA3;
+}
+
+.alert-success {
+  background-color: #E2F3E7;
+}
+
+.footer a {
+  color: #004FA8;
 }
 
 /* Homepage styles*/
