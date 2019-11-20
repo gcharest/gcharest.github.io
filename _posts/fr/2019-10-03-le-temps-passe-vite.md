@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 Wow...
 Dans mon dernier [billet]({{ site.baseurl }}/2019/02/15/équilibre.html) datant d'il y a près de 7 mois, je mentionnais que d'avoir un enfant diabétique nécessite non seulement un excellent réseau d'aide, mais aussi un travail qui nous permet de trouver un équilire.
 Ça devrait être un objectif pour chacune et chacun d'entre nous mais cela prend une toute autre dimension lorsqu'il faut en plus prendre soin d'une personne proche, que ce soit de son enfant ou d'un parent.
+<!--more-->
 
 Du mois de février à mai 2019, j'ai eu à passer de très nombreuses heures à travailler sur un superbe projet libre, l'[Évaluation de l'incidence algorithmique](https://github.com/canada-ca/aia-eia-js) en compagnie d'excellents camarades au bureau.
 Ce fût une expérience unique et notre travail est maintenant utilisé un peu partout dans le monde.

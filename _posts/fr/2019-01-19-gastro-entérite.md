@@ -3,9 +3,12 @@ layout: post
 title:  "Gastro-Entérite"
 date:   2019-01-19 20:14:00 -0500
 ref: infections
+author: Guillaume Charest
 lang: fr
+excerpt_separator: <!--more-->
 ---
 La semaine qui vient de se terminer a été plutôt rocambolesque, les 3 garçons attrapant chacun leur tour la gastro-entérite...
+<!--more-->
 
 Mon plus vieux, atteint de diabète, a dû être suivi de près pour nous assurer qu'il n'y ait pas de complications avec sa condition.
 En effet, puisqu'il n'arrivait pas à garder sa nourriture, il fallait faire très attention à ce qu'il ne tombe pas en hypoglycémie.

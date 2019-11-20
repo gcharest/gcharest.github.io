@@ -3,9 +3,12 @@ layout: post
 title:  "Accessibilité"
 date:   2019-01-07 19:56:00 -0500
 ref: accessibilité
+author: Guillaume Charest
 lang: fr
+excerpt_separator: <!--more-->
 ---
 Lorsque l'on met des ressources en ligne, l'objectif final est, à mon humble avis, de rendre celles-ci accessibles à d'autres personnes afin qu'elles soient utilisées. Et je dirais même plus: afin qu'elles soient utilisées facilement.
+<!--more-->
 
 Au cours des dernières semaines, j'ai passé un bon bout de temps à naviguer les sites spécialisés sur le diabète afin de trouver de l'information qui pourrait nous aider au quotidien.
 
