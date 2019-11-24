@@ -17,16 +17,16 @@ Ce fut une expérience incroyable et je suis vraiment impressionné par tout le 
 Le deuxième sujet, le diabète, est quelque peu nouveau pour moi et est lié au fait que mon fils ainé a développé le diabète de type 1 en novembre 2018.
 Cela m'a ouvert les yeux sur une réalité qui m'était étrangère auparavant et je pense que cela m'a rendu une meilleure personne, plus consciente des défis auxquels les gens doivent faire face chaque jour.
 
-J'ai développé des outils et recuillit de l'information à gauche et à droite.
+J'ai développé des outils et recuilli de l'information à gauche et à droite.
 C'est un projet personnel pour m'aider à gérer les changements qui sont survenus avec le diagnostic de diabète de type 1 de mon fils.
-Et je n'ai vraiment pas la présomption d'être un spécialiste en matière de santé.
-
-En revanche, je suis un professionnel des technologies et me tourner vers celles-ci est un réflexe rassurant dans cette transition familiale.
+Et je tiens d'ailleurs à préciser que je ne suis pas un spécialiste en matière de santé.
 
 D'ailleurs une note:
 
 >Je n'ai pas de formation médicale ou en science de la santé.
 >Les informations recueillies ici proviennent de sources que je considère fiables mais j'encourage toute personne intéressée par le diabète de type 1 à consulter son équipe médicale avant de suivre les informations trouvées sur mon site.
+
+En revanche, je suis un professionnel des technologies et me tourner vers celles-ci est un réflexe rassurant dans cette transition familiale.
 
 De plus, ce site est créé de façon ouverte et est généré automatiquement à partir du contenu situé dans ce [dépôt de projet](https://github.com/gcharest/gcharest.github.io)!
 
