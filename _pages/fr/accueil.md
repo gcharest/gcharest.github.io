@@ -17,7 +17,7 @@ Ce fut une expérience incroyable et je suis vraiment impressionné par tout le 
 Le deuxième sujet, le diabète, est quelque peu nouveau pour moi et est lié au fait que mon fils ainé a développé le diabète de type 1 en novembre 2018.
 Cela m'a ouvert les yeux sur une réalité qui m'était étrangère auparavant et je pense que cela m'a rendu une meilleure personne, plus consciente des défis auxquels les gens doivent faire face chaque jour.
 
-J'ai développé des outils et recuilli de l'information à gauche et à droite.
+J'ai développé des outils et recueilli de l'information à gauche et à droite.
 C'est un projet personnel pour m'aider à gérer les changements qui sont survenus avec le diagnostic de diabète de type 1 de mon fils.
 Et je tiens d'ailleurs à préciser que je ne suis pas un spécialiste en matière de santé.
 
