@@ -23,6 +23,9 @@ sectionsList:
 docsTitle:
   en: Documents
   fr: Documents
+resources:
+  en: Resources
+  fr: Ressources
 home:
   en: Home
   fr: Accueil
@@ -36,8 +39,8 @@ language:
   en: English
   fr: Français
 presentations:
-  en: My Presentations
-  fr: Mes présentations
+  en: Presentations
+  fr: Présentations
 pagesAbout:
   en: About me
   fr: À propos de moi

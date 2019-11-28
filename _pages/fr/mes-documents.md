@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Documents et Présentations
+title: Ressources
 lang: fr
 ref: documents
 status: posted
-permalink: /documents-et-presentations.html
+permalink: /ressources.html
 ---
 
 {% include listPages.md %}
