@@ -54,7 +54,7 @@ Il avait résumé en quelques mots le fait qu'il comprenait en effet l'étendue 
 Ce fut bouleversant comme expérience.
 Nous avions vécu une situation tellement similaire il y a un an et nous devions de nouveau accompagner un de nos enfants dans cette série d'épreuves.
 
-Malgré tout, il a réussi à passer au travers de cette première grande étape et nous aide déjà
+Malgré tout, il a réussi à passer au travers de cette première grande étape et nous aide déjà avec la préparation de son insuline!
 
 ## Conférence et coïncidence
 
