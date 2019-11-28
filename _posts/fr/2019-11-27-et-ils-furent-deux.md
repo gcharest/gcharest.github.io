@@ -7,7 +7,7 @@ date:   2019-11-27 22:45:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
-Cette fin de semaine a été tout un choc.
+Cette fin de semaine nous a fait vivre tout un choc.
 <!--more-->
 En effet, pendant un bref séjour dans notre famille de la région de Québec, nous avons observé un comportement inquiétant de notre deuxième fils: il buvait beaucoup plus d'eau qu'à l'habitude et allait très souvent aux toilettes...
 
