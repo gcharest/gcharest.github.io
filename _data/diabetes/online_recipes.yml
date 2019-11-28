@@ -1,0 +1,18 @@
+- recipe:
+  name:
+    fr: Mijoté de boeuf à la bière
+    en: Beef and Beer Stew
+  author: Ricardo Larrivé
+  link:
+    fr: https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere
+    en: https://www.ricardocuisine.com/en/recipes/5056-beef-and-beer-stew
+  factor: 0.07
+- recipe:
+  name:
+    fr: Tofu Général Tao
+    en: General Tso’s Tofu
+  author: Jean-Philippe Cyr
+  link:
+    fr: https://www.lacuisinedejeanphilippe.com/recipe/tofu-general-tao/
+    en: https://www.thebuddhistchef.com/recipe/general-tsos-tofu/
+  factor: 0.11
