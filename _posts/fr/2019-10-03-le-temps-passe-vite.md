@@ -4,6 +4,7 @@ title:  "Le temps passe vite!"
 ref: temps
 lang: fr
 date:   2019-10-03 20:30:00 -0500
+author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
 Wow...

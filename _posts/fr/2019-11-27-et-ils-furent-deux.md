@@ -4,6 +4,7 @@ title:  "Et ils furent deux"
 ref: temps
 lang: fr
 date:   2019-11-27 22:45:00 -0500
+author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
 Cette fin de semaine a été tout un choc.
