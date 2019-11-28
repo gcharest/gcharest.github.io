@@ -9,11 +9,12 @@ excerpt_separator: <!--more-->
 ---
 Depuis maintenant près de 3 mois, notre fils vit avec le diabète de type 1.
 Bien qu'il se soit relativement bien adapté à sa condition, la pression exercée sur la famille est notable.
+<!--more-->
 Il n'a pas encore appris à faire les équations nécessaires pour calculer son insuline mais il devrait être en mesure d'y arriver sous peu.
 De plus, avec les petits outils que nous nous sommes dotés, nous réussissons à accélérer un peu la préparation du repas.
 
 Une chose cependant fait toute la différence: le réseau de soutien.
-<!--more-->
+
 
 ## La famille
 

@@ -8,6 +8,7 @@ author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
 Les célébrations de Noël sont passées et depuis quelques semaines on constate un phénomène particulier : il faut de moins en moins d'insuline pour que mon fils puisse conserver un faible taux de sucre dans le sang.
+<!--more-->
 
 Serait-il en rémission? Malheureusement non, il est en "lune de miel", une période de quelques mois pendant laquelle son corps sécrète toujours de l'insuline.
 
