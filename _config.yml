@@ -21,8 +21,8 @@ sectionsList:
   en: ["General", "Open Source Software", "Diabetes"]
   fr: ["Général", "Logiciels libres", "Diabète"]
 docsTitle:
-  en: Documents
-  fr: Documents
+  en: Sections
+  fr: Sections
 resources:
   en: Resources
   fr: Ressources
