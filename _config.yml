@@ -41,6 +41,9 @@ language:
 presentations:
   en: Presentations
   fr: Présentations
+blogTranslated:
+  en: Translation date
+  fr: Date de traduction
 pagesAbout:
   en: About me
   fr: À propos de moi
