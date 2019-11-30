@@ -2,7 +2,7 @@
 layout: post
 title:  "Tout un changement"
 date: 2018-12-16 14:21:56 -0500
-ref: diabete
+ref: billet-changement
 lang: fr
 author: Guillaume Charest
 excerpt_separator: <!--more-->

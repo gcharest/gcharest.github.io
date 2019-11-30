@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le temps passe vite!"
-ref: temps
+ref: billet-temps-vite
 lang: fr
 date:   2019-10-03 20:30:00 -0500
 author: Guillaume Charest

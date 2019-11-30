@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Et ils furent deux"
-ref: temps
+ref: billet-ils-furent-deux
 lang: fr
 date:   2019-11-27 22:45:00 -0500
 author: Guillaume Charest

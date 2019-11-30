@@ -2,7 +2,7 @@
 layout: post
 title:  "Il faut un village"
 date:   2019-02-09 10:30:00 -0500
-ref: diabete reseau
+ref: billet-village
 author: Guillaume Charest
 lang: fr
 excerpt_separator: <!--more-->

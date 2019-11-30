@@ -2,7 +2,7 @@
 layout: post
 title:  "Lune de miel"
 date:   2018-12-26 14:21:56 -0500
-ref: diabete
+ref: billet-lune-miel
 lang: fr
 author: Guillaume Charest
 excerpt_separator: <!--more-->

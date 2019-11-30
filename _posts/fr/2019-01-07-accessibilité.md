@@ -2,7 +2,7 @@
 layout: post
 title:  "Accessibilité"
 date:   2019-01-07 19:56:00 -0500
-ref: accessibilité
+ref: billet-accessibilité
 author: Guillaume Charest
 lang: fr
 excerpt_separator: <!--more-->

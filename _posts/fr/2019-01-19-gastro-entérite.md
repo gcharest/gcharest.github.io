@@ -2,7 +2,7 @@
 layout: post
 title:  "Gastro-Entérite"
 date:   2019-01-19 20:14:00 -0500
-ref: infections
+ref: billet-gastro-enterite
 author: Guillaume Charest
 lang: fr
 excerpt_separator: <!--more-->
