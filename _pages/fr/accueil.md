@@ -32,4 +32,8 @@ De plus, ce site est créé de façon ouverte et est généré automatiquement �
 
 J'ai aussi commencé à écrire des [billets de blogue]({{ site.baseurl }}/mes-billets.html) sur divers sujets pour partager mes découvertes sur la recherche documentaire, la lecture de livres ou simplement pour découvrir des choses qui pourraient m'intéresser.
 
-S'il vous plaît n'hésitez pas à sauter dans les [Enjeux (Issues)](https://github.com/gcharest/gcharest.github.io/issues) et commencer à échanger avec moi!
+S'il vous plaît n'hésitez pas à me rejoindre dans les [Enjeux (Issues)](https://github.com/gcharest/gcharest.github.io/issues) et commencer à échanger avec moi!
+
+~ [Guillaume](https://twitter.com/GuillCharest)
+
+{% include construction-notice.html %}

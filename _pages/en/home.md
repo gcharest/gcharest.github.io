@@ -36,4 +36,6 @@ I also started writing [blog posts]({{ site.baseurl }}/blog-posts.html) on vario
 
 Please feel free to jump in the [Issues](https://github.com/gcharest/gcharest.github.io/issues) and start exchanging with me!
 
-~ Guillaume
+~ [Guillaume](https://twitter.com/GuillCharest)
+
+{% include construction-notice.html %}
