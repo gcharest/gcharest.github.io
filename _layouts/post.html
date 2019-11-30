@@ -3,6 +3,10 @@ layout: default
 ---
 <p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.writtenBy[page.lang] }} {{ page.author }}</p>
 
+{%- if page.translation_date -%}
+ <p class="font-italic">{{ site.blogTranslated[page.lang] }}: {{ page.translation_date }}</p>
+{%- endif -%}
+
 {% assign pageDate = page.date | date: "%Y-%m-%d" %}
 {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
 
