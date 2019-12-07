@@ -15,7 +15,6 @@ De plus, avec les petits outils que nous nous sommes dotés, nous réussissons �
 
 Une chose cependant fait toute la différence: le réseau de soutien.
 
-
 ## La famille
 
 Nos familles sont d'un soutien primordial.
