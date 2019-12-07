@@ -1,19 +1,23 @@
 ---
 layout: post
-title:  "Lune de miel"
+title:  "Honeymoon phase"
 date:   2018-12-26 14:21:56 -0500
 ref: billet-lune-miel
-lang: fr
+lang: en
 author: Guillaume Charest
 excerpt_separator: <!--more-->
+translation_date: 2019-11-30
 ---
-Les célébrations de Noël sont passées et depuis quelques semaines on constate un phénomène particulier : il faut de moins en moins d'insuline pour que mon fils puisse conserver un faible taux de sucre dans le sang.
+Christmas celebrations are over and ever since a few weeks, we have observed a new phenomenon: it takes less and less insulin for my son to maintain a lower blood sugar level.
 <!--more-->
 
-Serait-il en rémission? Malheureusement non, il est en "lune de miel", une période de quelques mois pendant laquelle son corps sécrète toujours de l'insuline.
+Is it possible that he is "getting better"?
+Unfortunately not, it is what is called the "honeymoon phase", a period over a few months where his body still produces insulin.
 
-Il faut donc constamment réajuster le traitement avec l'équipe médicale afin de ne pas causer d'hypoglycémie et éviter les hyperglycémies... Le diabète de type 1 est réellement frustrant et les questions de mon fils sont justifiées. Mais il prend le tout très calmement, mentionnant seulement de temps en temps:
+We now have to constantly readjust his treatment with the medical team to not throw him in hypoglycemia and avoid hyperglycemia...
+Diabetes type 1 is a really frustrating condition and my son's many questions are absolutely justified.
+But he nonetheless takes the whole situation incredibly well, only mentioning from time to time:
 
-> "Ce serait bien de pouvoir retourner dans le temps, tu sais, avant que mes cellules blanches attaquent mon pancréas!"
+> "It would be nice to go back in time, you know, before my white blood cells attacked my pancreas!"
 
-Comme parent, c'est vraiment la partie la plus dure.
+As a parent, being powerless is really the hardest part of it.
