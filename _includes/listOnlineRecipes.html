@@ -1,0 +1,20 @@
+<div class="col-md-9 mrgn-bttm-lg">
+  <table class="wb-tables table table-striped table-hover" id="dataset-filter"
+    data-wb-tables='{"order": [1, "asc"], "columnDefs": [{"targets": [0,5,6,8,9,10,11,12], "visible": false}], "paging": true}'>
+    <thead>
+      <tr>
+        <th>{{ site.data.i18n.tables.recipe[page.lang]}}
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+        {% for recipe in site.data.diabetes.online_recipes %}
+      <tr>
+        <td>
+          {{ recipe.name[page.lang] }}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
