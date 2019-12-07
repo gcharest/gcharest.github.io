@@ -1,0 +1,85 @@
+---
+description:
+  en: Resources and blog posts
+  fr: Ressources et billets
+sectionsList:
+  en: ["General", "Open Source Software", "Diabetes"]
+  fr: ["Général", "Logiciels libres", "Diabète"]
+docsTitle:
+  en: Documents
+  fr: Documents
+resources:
+  en: Resources
+  fr: Ressources
+home:
+  en: Home
+  fr: Accueil
+aPropos:
+  en: About
+  fr: À propos
+index:
+  en: home.html
+  fr: index.html
+language:
+  en: English
+  fr: Français
+presentations:
+  en: Presentations
+  fr: Présentations
+pagesAbout:
+  en: About me
+  fr: À propos de moi
+pagesWIP:
+  en: Work In Progress
+  fr: Travaux en cours
+pagesReview:
+  en: Under Review
+  fr: En révision
+pagesArchive:
+  en: Archives
+  fr: Archives
+pagesOther:
+  en: Other
+  fr: Autre
+thisPageHasMoved:
+  en: "This page has been modified and can now be found at the following link:"
+  fr: "Cette page a été modifiée et peut maintenant être trouvée au lien suivant:"
+title:
+  en: Open Source Software & Diabetes
+  fr: Logiciels libres & Diabète
+viewOnGithub:
+  en: View on GitHub
+  fr: Voir dans GitHub
+writtenBy:
+  en: Written by
+  fr: Écrit par
+lastModified:
+  en: Last modified
+  fr: Dernière modification
+blogPosts:
+  en: Blog Posts
+  fr: Billets
+ccby1:
+  en: This site
+  fr: Ce site
+ccby2:
+  en: from
+  fr: de
+ccby3:
+  en: is provided under the terms of the
+  fr: est mis à disposition selon les termes de la
+ccby4:
+  en: Creative Commons Attribution 4.0 International licence
+  fr: licence Creative Commons Attribution 4.0 International
+feedback:
+  en: I encourage you to send me feedback on <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> through Issues or Pull Requests. Look here on <a href="how-to-contribute.html">how to contribute</a>.
+  fr: Je vous encourage à m'envoyer de la rétroaction dans <a href=https://github.com/gcharest/gcharest.github.io>GitHub</a> par le biais d'Enjeux (Issues) ou de "Pull Requests".
+printPDF:
+  en: Printable version
+  fr: Version imprimable
+printPDFNotes:
+  en: with notes
+  fr: avec notes
+printPDFNotice:
+  en: Note that the printable version only works with modern browsers. Internet Explorer is not supported.
+  fr: Notez que la version imprimable ne fonctionne qu'avec des navigateurs modernes. Internet Explorer n'est pas supporté.
