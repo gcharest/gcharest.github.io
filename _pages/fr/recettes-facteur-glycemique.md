@@ -15,7 +15,9 @@ Dans cette page
 
 Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
->**Attention**: Les facteurs glycémiques ici-bas sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes. Ils sont donc offerts sans garanties d'exactitude.
+>**Attention**: Les facteurs glycémiques ici-bas sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes.
+Ils sont donc offerts sans garanties d'exactitude.
+Voir la page [Calcul du facteur glycémique de recettes]({{site.baseurl}}/calcul-facteur-glycemique.html) pour plus de détails sur la méthode utilisée pour calculer les valeurs des facteurs.
 
 {% include listOnlineRecipes.html %}
 
