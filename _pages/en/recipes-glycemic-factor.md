@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  Recipes' Glycemic Index
+title:  Recipes' Glycemic Factor
 ref: facteur-glycémique-recettes
 lang: en
 sections: Diabetes
-permalink: recipes-glycemic-index.html
+permalink: recipes-glycemic-factor.html
 ---
 In this page
 
@@ -15,7 +15,7 @@ In this page
 
 Here's a list of recipes we like to do at home with their approximative glycemic factor.
 
->**Attention**: The glycemic factors found below are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude. See the page [Calculating a recipe's glycemic index]({{site.baseurl}}/calculating-glycemic-factor.html) for more information on the method used to obtain the index values.
+>**Attention**: The glycemic factors found below are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude. See the page [Calculating a recipe's glycemic factor]({{site.baseurl}}/calculating-glycemic-factor.html) for more information on the method used to obtain the factor values.
 
 {% include listOnlineRecipes.html %}
 
