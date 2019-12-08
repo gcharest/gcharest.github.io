@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.writtenBy[page.lang] }} {{ page.author }}</p>
+<p>{{ page.date | date: "%Y-%m-%d" }} - {{ site.data.i18n.general.writtenBy[page.lang] }} {{ page.author }}</p>
 
 {% assign pageDate = page.date | date: "%Y-%m-%d" %}
 {% assign modifiedDate = page.last_modified | date: "%Y-%m-%d" %}
 
 {% if modifiedDate %}
-    <p class="font-italic">{{ site.lastModified[page.lang] }}: {{ modifiedDate }}</p>
+    <p class="font-italic">{{ site.data.i18n.general.lastModified[page.lang] }}: {{ modifiedDate }}</p>
 {% endif %}
 
 {{ content }}
