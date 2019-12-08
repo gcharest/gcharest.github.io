@@ -8,32 +8,23 @@ permalink: recipes-glycemic-factor.html
 ---
 *(Translation coming soon)*
 
-Dans cette page
+In this page
 
-1. [Recettes fréquentes](#recettes-fr%c3%a9quentes)
-2. [Recettes génériques](#recettes-g%c3%a9n%c3%a9riques)
+1. [Frequent recipes](#frequent-recipes)
+2. [Generic recipes](#generic-recipes)
 
-## Recettes fréquentes
+## Frequent recipes
 
-Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
+Here's a list of recipes we like to do at home with their approximative glycemic factor.
 
->**Attention**: Les facteurs glycémiques ici-bas sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes. Ils sont donc offerts sans garanties d'exactitude.
+>**Attention**: The glycemic factors found below are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude.
 
 {% include listOnlineRecipes.html %}
 
-| Recette                          | Facteur Glycémique Approximatif | Auteur/Auteure*            | Source                                                                                         | Notes                                                                                   |
-| -------------------------------- | :-----------------------------: | :----------------- | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| Mijoté de boeuf à la bière       |              0,069              | Ricardo Larrivée   | [Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)            | Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup! |
-| Poulet à l'ananas à la mijoteuse |              0,07               | Ricardo Larrivée   | [Page Web](https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse)      | Recette assez rapide à préparer avec cuisson à la mijoteuse.                            |
-| Pâté chinois réinventé           |             0,1031              | Geneviève O’Gleman | [Page Web](http://cuisinefuteeparentspresses.telequebec.tv/recettes/22/pate-chinois-reinvente) | Recette intéressante et pouvant être congelée.                                          |
-| Tofu épicé sauce aux arachides   |              0,08               | Jean-Philippe Cyr  | [Page Web](https://www.lacuisinedejeanphilippe.com/recipe/tofu-epice-sauce-aux-arachides/)     | Recette facile et rapide. Les épices sont optionnels                                    |
+## Generic recipes
 
-*Auteur/Auteure présumé
+Recipes listed below are pulled from various guides (references to be added shortly).
+They are generic recipes (ex: beef in sauce) that help approximate the glycemic factor of a recipe and save time.
+As you go on and calculate the factor of various recipes, you realize that the generic versions provided by those guides are actually pretty accurate.
 
-## Recettes génériques
-
-Les recettes listées ici-bas sont tirées des guides listés dans les diverses pages (références à venir).
-Il s'agit de recettes génériques (ex.: boeuf en sauce) permettant une approximation du facteur glymique afin de sauver du temps.
-À force de calculer les différentes recettes, on peut s'apercevoir que les facteurs listés ici sont en effet assez proches de la réalité.
-
-(Tableau à venir)
+(Table to be added shortly)
