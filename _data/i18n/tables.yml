@@ -6,8 +6,14 @@ author:
   fr: Auteur/Auteure
   en: Author
 factor:
-  fr: Facteur glycémique approximatif
-  en: Approximative Glycemic Ratio
+  fr: Facteur glycémique*
+  en: Glycemic Ratio*
+source:
+  fr: Source
+  en: Source
 linkURL:
-  fr: Lien
-  en: Link
+  fr: Page web
+  en: Webpage
+notes:
+  fr: Notes
+  en: Notes
