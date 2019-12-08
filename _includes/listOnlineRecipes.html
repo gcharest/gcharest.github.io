@@ -1,10 +1,13 @@
-<div class="col-md-9 mrgn-bttm-lg">
+<tbody>
   <table class="wb-tables table table-striped table-hover" id="dataset-filter"
     data-wb-tables='{"order": [1, "asc"], "columnDefs": [{"targets": [0,5,6,8,9,10,11,12], "visible": false}], "paging": true}'>
     <thead>
       <tr>
-        <th>{{ site.data.i18n.general.tables.recipe[page.lang]}}
-        </th>
+        <th>{{ site.data.i18n.tables.recipe[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.author[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.notes[page.lang]}}</th>
       </tr>
     </thead>
     <tbody>
@@ -13,8 +16,20 @@
         <td>
           {{ recipe.name[page.lang] }}
         </td>
+        <td>
+          {{ recipe.factor }}
+        </td>
+        <td>
+          {{ recipe.author }}
+        </td>
+        <td>
+          <a href="{{ recipe.link[page.lang]}}">{{ site.data.i18n.tables.linkURL[page.lang]}}</a>
+        </td>
+        <td>
+          {{ recipe.notes[page.lang]}}
+        </td>
     </tr>
     {% endfor %}
     </tbody>
   </table>
-</div>
+</tbody>
