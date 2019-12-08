@@ -10,27 +10,31 @@ permalink: calculating-glycemic-factor.html
 *(Translation coming soon)*
 <!-- markdownlint-enable MD036 -->
 
-Le facteur glycémique d'une recette consiste à calculer la quantité totale de sucre de chaque ingrédient consistant le plat cuisiné et d'identifier le facteur de sucre dans un gramme de la recette terminée.
+The glycemic factor of a recipe consists in adding up the total quantity of sugar of each ingredient used in a dish and to divide that number by the recipe's total weight.
+This then gives us the percentage of sugar for any given gram of the dish, which can be used to approximate the quantity of sugar in a person's desired portion.
 
-Cette méthode est pratique pour ne pas avoir à recalculer sans arrêt la quantité de sucre dans un repas, surtout s'il s'agit d'une recette fréquemment cuisinée.
+This method is useful to provide an approximation when calculating the amount of sugar in a dish, especially if you're doing that recipe often.
 
-Néanmoins, les ingrédients qui composeront chaque assiette doivent être calculée pour chaque repas et le facteur glycémique approximatif dépend aussi de votre consistance à refaire la recette.
+Two things to note:
 
-Par exemple, si vous changez la quantité d'un ingrédient quand vous cuisinez une recette pour laquelle vous aviez calculé le facteur glycémique, il est possible que le facteur ne soit plus aussi précis et vous devriez sans doute en tenir compte si vous avez largement dévié de la recette.
+- The approximative glycemic factor of the recipes calculated will be dependent on your consistency when doing the recipe.
+  - For example, if you replace an ingredient with an other or if you change the quantities in your recipe, you will need to recalculate the glycemic factor as they would differ from the original time you calculated it.
+- Any other food not part of the calculated recipe has to be weighted and accounted for in the final countdown of sugar in the whole meal.
+  - For example, if you calculated the glycemic factor for a butter chicken recipe you do often and you have rice on the side, the rice has a different factor and has thus to be calculated separately.
 
-## Méthode
+## Method
 
-À la base, la méthode est relativement simple:
+Basically, the recipe is relatively simple:
 
-* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisé et diviser par le poids total de la recette produite.
+- You have to calculate the total quantity of all ingredients' sugar and divide it by the total weight of the recipe.
 
-**Mais comment calculer la quantité totale de sucre dans la recette?**
+**But how do you calculate the total quantity of sugar in the recipe?**
 
-Le guide offert sur Diabète Québec permet de bien comprendre les nuances qui existent dans le calcul des glucides:
+The guide provided on Diabetes Quebec offers a good way to understand the nuances of the carbohydrates count:
 [Calcul des glucides avancé](https://www.diabete.qc.ca/wp-content/uploads/2014/08/Calcul-glucides-1un-ng-4.pdf)
 
 ----
-Par exemple, pour l'ingrédient fictif ici-bas, on peut identifier les informations suivantes:
+For example, for the fictive ingredient below, you can identify the following information:
 
 ![Exemple de tableau des valeurs nutritives.](../assets/images/tableau-valeur-nutritive.png)
 
@@ -38,30 +42,37 @@ Par exemple, pour l'ingrédient fictif ici-bas, on peut identifier les informati
 *Source: Calcul des glucides avancé, Diabète Québec*
 <!--markdownlint-enable MD036-->
 
-Pour une quantité de 87 g, on retrouve 18 g de glucides, dont 2 g de fibres.
+For a quantity of 87g of that ingredient, there are 18g of carbohydrates and 2g of dietary fibers.
 
-Au total, il y a donc 16 g de glucides qui ont une incidence sur la glycémie d'un diabétique.
+For the purpose of this exercise, dietary fibers have to be substracted so that gives a final count of 16g of sugar to count for the recipe.
 
-Le facteur glycémique est donc 16 g / 87 g:
+The glycemic factor of that ingredient alone would be 16g / 87g:
 
-> 0,183908046 (on peut arrondir ici et utiliser 0,1839)
+> 0,183908046 (on peut arrondir ici et utiliser 0,184)
 
-Pour savoir combien de sucre il y a dans la portion utilisée dans la recette, on multiplie le poids de l'ingrédient dans par le facteur.
+If that was the glycemic factor for a recipe, you could weight the amount of it that you would be eating and multiply it by the factor.
 
-Par exemple, si on avait 200 g de l'ingrédient fictif ici-haut, la quantité de sucre serait de 200 g * 0,1839, soit **36,7816 g de sucre**.
+For example, if you had 200g of that ingredient in your plate, that would essentially count as 200g * 0,18, which is about **36,8g of sugar**.
 
 ----
 
-Lorsque les ingrédients ne contiennent que les valeurs en millilitre ou en tasse à mesurer, il faut faire un peu plus de calculs mais le principe reste le même.
+For the whole recipe, you will need to take proper notes of each the quantity of each individual ingredient.
 
-Lorsqu'on a la quantité individuelle de chaque ingrédient, on additionne le tout pour connaître la quantité totale de sucre dans l'ensemble de la recette.
+When ingredients are in volume (ml, cups, etc.), you may need to do a little more calculating but the principle stays the same.
+This is mostly the case because the nutritional facts are not in weight but rather in volume, while the amount of sugar provided is still in grams.
 
-On cuisine alors le tout et on pèse la recette dans son intégralité.
+>But before going too far in your cooking, make sure you have also taken note of the weight of the final recipient where your recipe will sit in the end.
+The idea here is that most recipes need you to use a variety of tools and receptacles, like pans, cauldrons, etc. and you really want to have the final weight of the recipe, not the recipe **plus** the final recipient because that would give you a skewed factor.
 
->Il ne faut pas inclure le poids du contenant dans lequel on pèse la recette, ça fausserait les résultats!
+When you know the indivual quantity of each ingredient, you can add them all up so that it gives you the total amount of sugar in the recipe.
 
-Finalement, on divise la quantité totale de sucre par le poids total de la recette et on obtient le facteur glycémique approximatif pour la recette!
+You can then cook the meal and weight the final dish, before taking any from it, otherwise you once again skew the result.
 
->On peut aussi suivre cette étape d'un bon verre de vin, on l'a bien mérité...
+Finally, you divide the total quantity of sugar by the weight of the recipe and you obtain the glycemic factor for that dish.
 
-Pas étonnant qu'on ne veuille pas faire l'exercice à chaque fois et c'est également pourquoi j'ai décidé de lister ici les facteurs glycémiques approximatifs des recettes que nous faisons souvent.
+It is a lot of work and that's a good reason to not want to do the exercise every single time.
+On the other end, you have a pretty accurate idea of the amount of sugar in your recipe, which is often not the case when eating in a restaurant or at someone else's place.
+
+I have started [listing recipes](({{site.baseurl}}/recipes-glycemic-factor.html)) we often do at home.
+As for anything on this site, these are provided as is and there are no guarantees of exactitude.
+I can't recommend enought that you do your own calculating to validate that the information is accurate.
