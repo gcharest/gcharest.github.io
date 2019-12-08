@@ -6,19 +6,22 @@ lang: fr
 sections: Diabète
 permalink: calcul-facteurs-glycemique.html
 ---
-Le facteur glycémique d'une recette consiste à calculer la quantité totale de sucre de chaque ingrédient consistant le plat cuisiné et d'identifier le facteur de sucre dans un gramme de la recette terminée.
+Le facteur glycémique d'une recette consiste à calculer la quantité totale de sucre de chaque ingrédient consistant le plat cuisiné et d'ensuite calculer le facteur de sucre dans un gramme de la recette terminée.
 
-Cette méthode est pratique pour ne pas avoir à recalculer sans arrêt la quantité de sucre dans un repas, surtout s'il s'agit d'une recette fréquemment cuisinée.
+Cette méthode est pratique pour avoir à une approximation de la quantité de sucre dans un repas, surtout s'il s'agit d'une recette fréquemment cuisinée.
 
-Néanmoins, les ingrédients qui composeront chaque assiette doivent être calculée pour chaque repas et le facteur glycémique approximatif dépend aussi de votre consistance à refaire la recette.
+Deux choses à noter:
 
-Par exemple, si vous changez la quantité d'un ingrédient quand vous cuisinez une recette pour laquelle vous aviez calculé le facteur glycémique, il est possible que le facteur ne soit plus aussi précis et vous devriez sans doute en tenir compte si vous avez largement dévié de la recette.
+- Le facteur glycémique approximatif des recettes dépendent de votre consistance à refaire la recette.
+  - Par exemple, si vous remplacez un ingrédient avec un autre ou que vous changez les quantités d'ingrédients dans la recette, il sera nécessaire de recalculer le facteur glycémique car il ne s'agira plus des mêmes valeurs que pour la recette originale.
+- Toute nourriture ne faisant par partie de la recette elle-même doit être calculée séparément.
+  - Par exemple, si vous calculez le facteur glycémique d'une recette de poulet au beurre que vous faites souvent et que vous accompagnez celle-ci de riz comme accompagnement, le riz a un facteur glycémique différent et doit être calculé séparément.
 
 ## Méthode
 
 À la base, la méthode est relativement simple:
 
-* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisé et diviser par le poids total de la recette produite.
+- Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisé et diviser par le poids total de la recette produite.
 
 **Mais comment calculer la quantité totale de sucre dans la recette?**
 
@@ -34,30 +37,39 @@ Par exemple, pour l'ingrédient fictif ici-bas, on peut identifier les informati
 *Source: Calcul des glucides avancé, Diabète Québec*
 <!--markdownlint-enable MD036-->
 
-Pour une quantité de 87 g, on retrouve 18 g de glucides, dont 2 g de fibres.
+Pour une quantité de 87g, on retrouve 18g de glucides, dont 2g de fibres.
 
-Au total, il y a donc 16 g de glucides qui ont une incidence sur la glycémie d'un diabétique.
+Au total, il y a donc 16g de glucides qui ont une incidence sur la glycémie d'un diabétique.
 
-Le facteur glycémique est donc 16 g / 87 g:
+Pour les fins de cet exercice, il faut soustraire la quantité de fibre, ce qui donne un total final de glucides de 16.
 
-> 0,183908046 (on peut arrondir ici et utiliser 0,1839)
+Le facteur glycémique est donc 16g / 87g:
+
+> 0,183908046 (on peut arrondir ici et utiliser 0,184)
 
 Pour savoir combien de sucre il y a dans la portion utilisée dans la recette, on multiplie le poids de l'ingrédient dans par le facteur.
 
-Par exemple, si on avait 200 g de l'ingrédient fictif ici-haut, la quantité de sucre serait de 200 g * 0,1839, soit **36,7816 g de sucre**.
+Par exemple, si on avait 200 g de l'ingrédient fictif ici-haut, la quantité de sucre serait de 200 g * 0,184, soit **36,8 g de sucre**.
 
 ----
 
-Lorsque les ingrédients ne contiennent que les valeurs en millilitre ou en tasse à mesurer, il faut faire un peu plus de calculs mais le principe reste le même.
+Pour la recette complète, il faut prendre en note la quantité individuelle de chaque ingrédient.
 
-Lorsqu'on a la quantité individuelle de chaque ingrédient, on additionne le tout pour connaître la quantité totale de sucre dans l'ensemble de la recette.
+Lorsque les ingrédients ne contiennent que les valeurs en volume (millilitre,tasse à mesurer, etc.), il faut faire un peu plus de calculs mais le principe reste le même.
+La complexité réside dans le fait que les valeurs nutritives sont offertes par rapport au volume mais que la quantité de sucre est néanmoins sous forme grammes.
 
-On cuisine alors le tout et on pèse la recette dans son intégralité.
+>Avant de se lancer dans la préparation de la recette elle-même, il faut prendre le temps de noter le poids du contenant dans lequel on pèsera la recette à la fin, sinon cela fausserait les résultats.
+En effet, on veut connaître le poids total de la recette et non pas le poids de la recette **plus** le contenant.
 
->Il ne faut pas inclure le poids du contenant dans lequel on pèse la recette, ça fausserait les résultats!
+Lorsque la quantité de chaque ingrédient est connu, on additionne le tout pour connaitre la quantité totale de sucre dans la recette.
 
-Finalement, on divise la quantité totale de sucre par le poids total de la recette et on obtient le facteur glycémique approximatif pour la recette!
+On cuisine alors le tout et on pèse la recette dans son intégralité (toujours en soustrayant le poids du contenant).
 
->On peut aussi suivre cette étape d'un bon verre de vin, on l'a bien mérité...
+Finalement, on divise la quantité totale de sucre par le poids total de la recette et on obtient le facteur glycémique approximatif pour la recette.
 
-Pas étonnant qu'on ne veuille pas faire l'exercice à chaque fois et c'est également pourquoi j'ai décidé de lister ici les facteurs glycémiques approximatifs des recettes que nous faisons souvent.
+Tout cela est beaucoup de travail et c'est une très bonne raison pour ne pas vouloir le refaire à chaque fois.
+D'un autre côté, c'est une façon très efficace d'avoir une bonne approximation de la quantité de sucre dans une recette, ce qui n'est souvent pas le cas lorsque l'on mange au restaurant ou chez quelqu'un d'autre.
+
+J'ai commencé une [liste de recettes](({{site.baseurl}}/recettes-facteur-glycemique.html)) que nous faisons fréquemment à la maison.
+Comme pour toute information trouvée sur ce site, ces facteurs sont offerts sans guarantie d'exactitude.
+Je vous recommande fortement de faire vos propres calculs afin de confirmer la précision des facteurs que j'ai calculés ici.
