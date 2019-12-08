@@ -35,3 +35,27 @@
   notes:
     fr: Recette revisitée que les enfants aiment beaucoup. Peut se congeler.
     en: Revisited recipe really liked by the kids. Can be frozen.
+- recipe:
+  name:
+    fr: Poulet à l’ananas à la mijoteuse
+    en: Slow Cooker Pineapple Chicken
+  author: Ricardo Larrivé
+  link:
+    fr: https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse
+    en: https://www.ricardocuisine.com/en/recipes/5609-slow-cooker-pineapple-chicken
+  factor: 0.07
+  notes:
+    fr: Recette assez rapide à préparer avec cuisson à la mijoteuse.
+    en: Quick to setup slow cooker recipe. 
+- recipe:
+  name:
+    fr: Tofu épicé sauce aux arachides
+    en: Tofu with Spicy Peanut Sauce
+  author: Jean-Philippe Cyr
+  link:
+    fr: https://www.lacuisinedejeanphilippe.com/recipe/tofu-epice-sauce-aux-arachides/
+    en: https://www.thebuddhistchef.com/recipe/tofu-peanut-sauce/
+  factor: 0.08
+  notes:
+    fr: Recette facile et rapide. Les épices sont optionnels.
+    en: Quick and easy recipe. Spices are optional.
