@@ -1,0 +1,13 @@
+---
+recipe:
+  fr: Recette
+  en: Recipe
+author:
+  fr: Auteur/Auteure
+  en: Author
+factor:
+  fr: Facteur glycémique approximatif
+  en: Approximative Glycemic Ratio
+linkURL:
+  fr: Lien
+  en: Link

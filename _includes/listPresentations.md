@@ -1,6 +1,6 @@
-### {{ site.presentations[page.lang] }}
+### {{ site.data.i18n.general.presentations[page.lang] }}
 
-_{{ site.printPDFNotice[page.lang] }}_
+_{{ site.data.i18n.general.printPDFNotice[page.lang] }}_
 
 <ul class="post-list">
 {%- if page.lang == "fr" -%}
@@ -13,10 +13,10 @@ _{{ site.printPDFNotice[page.lang] }}_
         </a>
       </strong>
       (<a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          {{ site.printPDF[page.lang] }}/
+          {{ site.data.i18n.general.printPDF[page.lang] }}/
       </a>
       <a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&shownotes&print-pdf">
-          {{ site.printPDFNotes[page.lang] }}
+          {{ site.data.i18n.general.printPDFNotes[page.lang] }}
       </a>)
     </li>
     {%- endif -%}
@@ -31,10 +31,10 @@ _{{ site.printPDFNotice[page.lang] }}_
         </a>
       </strong>
       (<a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&print-pdf">
-          {{ site.printPDF[page.lang] }}
+          {{ site.data.i18n.general.printPDF[page.lang] }}
       </a>
       <a target="_blank" href="presentation.html?markdown=en/{{ pres.path | replace: "/presentations/en/", ""  }}&shownotes&print-pdf">
-          / {{ site.printPDFNotes[page.lang] }}
+          / {{ site.data.i18n.general.printPDFNotes[page.lang] }}
       </a>)
     </li>
     {%- endif -%}

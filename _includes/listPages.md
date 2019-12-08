@@ -1,6 +1,6 @@
-### {{ site.docsTitle[page.lang] }}
+### {{ site.data.i18n.general.docsTitle[page.lang] }}
 
-{% assign sections = site.sectionsList[page.lang] %}
+{% assign sections = site.data.i18n.general.sectionsList[page.lang] %}
 {% for section in sections %}
 {% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
