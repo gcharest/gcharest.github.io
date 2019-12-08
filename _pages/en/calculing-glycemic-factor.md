@@ -36,7 +36,7 @@ The guide provided on Diabetes Quebec offers a good way to understand the nuance
 ----
 For example, for the fictive ingredient below, you can identify the following information:
 
-![Exemple de tableau des valeurs nutritives.](../assets/images/tableau-valeur-nutritive.png)
+![Example of nutrition facts table.](../assets/images/tableau-valeur-nutritive.png)
 
 <!--markdownlint-disable MD036-->
 *Source: Calcul des glucides avancé, Diabète Québec*
@@ -44,11 +44,11 @@ For example, for the fictive ingredient below, you can identify the following in
 
 For a quantity of 87g of that ingredient, there are 18g of carbohydrates and 2g of dietary fibers.
 
-For the purpose of this exercise, dietary fibers have to be substracted so that gives a final count of 16g of sugar to count for the recipe.
+For the purpose of this exercise, dietary fibers have to be subtracted so that gives a final count of 16g of sugar to count for the recipe.
 
 The glycemic factor of that ingredient alone would be 16g / 87g:
 
-> 0,183908046 (on peut arrondir ici et utiliser 0,184)
+> 0,183908046 (you can round up here and use 0,184)
 
 If that was the glycemic factor for a recipe, you could weight the amount of it that you would be eating and multiply it by the factor.
 
@@ -64,7 +64,7 @@ This is mostly the case because the nutritional facts are not in weight but rath
 >But before going too far in your cooking, make sure you have also taken note of the weight of the final recipient where your recipe will sit in the end.
 The idea here is that most recipes need you to use a variety of tools and receptacles, like pans, cauldrons, etc. and you really want to have the final weight of the recipe, not the recipe **plus** the final recipient because that would give you a skewed factor.
 
-When you know the indivual quantity of each ingredient, you can add them all up so that it gives you the total amount of sugar in the recipe.
+When you know the individual quantity of each ingredient, you can add them all up so that it gives you the total amount of sugar in the recipe.
 
 You can then cook the meal and weight the final dish, before taking any from it, otherwise you once again skew the result.
 
@@ -75,4 +75,4 @@ On the other end, you have a pretty accurate idea of the amount of sugar in your
 
 I have started [listing recipes](({{site.baseurl}}/recipes-glycemic-factor.html)) we often do at home.
 As for anything on this site, these are provided as is and there are no guarantees of exactitude.
-I can't recommend enought that you do your own calculating to validate that the information is accurate.
+I can't recommend enough that you do your own calculating to validate that the information is accurate.
