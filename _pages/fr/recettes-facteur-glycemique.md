@@ -19,15 +19,6 @@ Voici une liste de recettes que nous faisons fréquemment à la maison avec le c
 
 {% include listOnlineRecipes.html %}
 
-| Recette                          | Facteur Glycémique Approximatif | Auteur/Auteure*            | Source                                                                                         | Notes                                                                                   |
-| -------------------------------- | :-----------------------------: | :----------------- | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| Mijoté de boeuf à la bière       |              0,069              | Ricardo Larrivée   | [Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)            | Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup! |
-| Poulet à l'ananas à la mijoteuse |              0,07               | Ricardo Larrivée   | [Page Web](https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse)      | Recette assez rapide à préparer avec cuisson à la mijoteuse.                            |
-| Pâté chinois réinventé           |             0,1031              | Geneviève O’Gleman | [Page Web](http://cuisinefuteeparentspresses.telequebec.tv/recettes/22/pate-chinois-reinvente) | Recette intéressante et pouvant être congelée.                                          |
-| Tofu épicé sauce aux arachides   |              0,08               | Jean-Philippe Cyr  | [Page Web](https://www.lacuisinedejeanphilippe.com/recipe/tofu-epice-sauce-aux-arachides/)     | Recette facile et rapide. Les épices sont optionnels                                    |
-
-*Auteur/Auteure présumé
-
 ## Recettes génériques
 
 Les recettes listées ici-bas sont tirées des guides listés dans les diverses pages (références à venir).
