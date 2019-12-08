@@ -1,11 +1,13 @@
 ---
 layout: default
-title:  Facteur glycémique de recettes
+title:  Recipes' Glycemic Factor
 ref: facteur-glycémique-recettes
-lang: fr
-sections: Diabète
-permalink: recettes-facteurs-glycemique.html
+lang: en
+sections: Diabetes
+permalink: recipes-glycemic-factor.html
 ---
+*(Translation coming soon)*
+
 Dans cette page
 
 1. [Recettes fréquentes](#recettes-fr%c3%a9quentes)

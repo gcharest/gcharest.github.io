@@ -1,11 +1,13 @@
 ---
 layout: default
-title:  Calcul du facteur glycémique de recettes
+title:  Calculing a recipe's glycemic factor
 ref: calcul-facteur-glycémique
-lang: fr
-sections: Diabète
-permalink: calcul-facteurs-glycemique.html
+lang: en
+sections: Diabetes
+permalink: calculing-glycemic-factor.html
 ---
+*(Translation coming soon)*
+
 Le facteur glycémique d'une recette consiste à calculer la quantité totale de sucre de chaque ingrédient consistant le plat cuisiné et d'identifier le facteur de sucre dans un gramme de la recette terminée.
 
 Cette méthode est pratique pour ne pas avoir à recalculer sans arrêt la quantité de sucre dans un repas, surtout s'il s'agit d'une recette fréquemment cuisinée.
