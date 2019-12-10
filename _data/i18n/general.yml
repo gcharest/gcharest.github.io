@@ -83,3 +83,6 @@ printPDFNotes:
 printPDFNotice:
   en: Note that the printable version only works with modern browsers. Internet Explorer is not supported.
   fr: Notez que la version imprimable ne fonctionne qu'avec des navigateurs modernes. Internet Explorer n'est pas supporté.
+construction:
+  en: Please note that I'm currently working on restructuring the site and adding more translated content. Links may go dead but I'll try to minimize disruption. Thanks!
+  fr: Je vous prie de noter que je suis en train de travailler sur la structure du site ainsi que sur la traduction de son contenu. Certains liens pourraient ne plus fonctionner mais je vais tenter d'éviter que cela se produise! Merci!
