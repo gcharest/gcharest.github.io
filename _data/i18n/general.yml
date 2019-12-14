@@ -8,6 +8,9 @@ sectionsList:
 docsTitle:
   en: Documents
   fr: Documents
+topicsTitle:
+  en: Topics
+  fr: Sujets
 resources:
   en: Resources
   fr: Ressources

@@ -1,4 +1,4 @@
-### {{ site.data.i18n.general.docsTitle[page.lang] }}
+### {{ site.data.i18n.general.topicsTitle[page.lang] }}
 
 {% assign sections = site.data.i18n.general.sectionsList[page.lang] %}
 {% for section in sections %}
