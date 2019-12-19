@@ -1,0 +1,36 @@
+<tbody>
+  <table class="wb-tables table table-striped table-hover" id="dataset-filter"
+    data-wb-tables='{"order": [0, "asc"], "columnDefs": [{"targets": [3,4], "visible": false}], "paging": true}'>
+    <thead>
+      <tr>
+        <th>{{ site.data.i18n.tables.recipe[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.author[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.notes[page.lang]}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for recipe_hash in site.data.diabetes.recipes %}
+      {% assign recipe = recipe_hash[1] %}
+      <tr>
+        <td>
+          {{ recipe.name[page.lang] }}
+        </td>
+        <td>
+          {{ recipe.factor }}
+        </td>
+        <td>
+          {{ recipe.author }}
+        </td>
+        <td>
+          <a href="{{ recipe.link[page.lang]}}">{{ site.data.i18n.tables.linkURL[page.lang]}}</a>
+        </td>
+        <td>
+          {{ recipe.notes[page.lang]}}
+        </td>
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</tbody>
