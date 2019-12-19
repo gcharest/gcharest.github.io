@@ -17,7 +17,7 @@ Here's a list of recipes we like to do at home with their approximative glycemic
 
 >**Attention**: The glycemic factors found below are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude. See the page [Calculating a recipe's glycemic factor]({{site.baseurl}}/calculating-glycemic-factor.html) for more information on the method used to obtain the factor values.
 
-{% include listOnlineRecipes.html %}
+{% include listRecipes.html %}
 
 ## Generic recipes
 
