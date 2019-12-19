@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Recipes' Glycemic Factor
+title:  Glycemic Factors
 ref: facteur-glycémique-recettes
 lang: en
 sections: Diabetes

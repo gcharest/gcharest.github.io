@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Facteur glycémique de recettes
+title:  Facteurs glycémiques
 ref: facteur-glycémique-recettes
 lang: fr
 sections: Diabète
@@ -19,7 +19,7 @@ Voici une liste de recettes que nous faisons fréquemment à la maison avec le c
 Ils sont donc offerts sans garanties d'exactitude.
 Voir la page [Calcul du facteur glycémique de recettes]({{site.baseurl}}/calcul-facteur-glycemique.html) pour plus de détails sur la méthode utilisée pour calculer les valeurs des facteurs.
 
-{% include listOnlineRecipes.html %}
+{% include listRecipes.html %}
 
 ## Recettes génériques
 
