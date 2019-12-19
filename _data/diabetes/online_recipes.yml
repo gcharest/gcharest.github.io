@@ -4,6 +4,7 @@
     fr: Mijoté de boeuf à la bière
     en: Beef and Beer Stew
   author: Ricardo Larrivé
+  source: website
   link:
     fr: https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere
     en: https://www.ricardocuisine.com/en/recipes/5056-beef-and-beer-stew
@@ -16,6 +17,7 @@
     fr: Tofu Général Tao
     en: General Tso’s Tofu
   author: Jean-Philippe Cyr
+  source: website
   link:
     fr: https://www.lacuisinedejeanphilippe.com/recipe/tofu-general-tao/
     en: https://www.thebuddhistchef.com/recipe/general-tsos-tofu/
@@ -28,6 +30,7 @@
     fr: Pâté chinois réinventé
     en: Reinvented Shepperd's Pie (FR)
   author: Geneviève O’Gleman - Cuisine futée, parents pressés
+  source: website
   link:
     fr: https://cuisinez.telequebec.tv/recettes/2315/pate-chinois-reinvente
     en: https://cuisinez.telequebec.tv/recettes/2315/pate-chinois-reinvente
@@ -40,6 +43,7 @@
     fr: Poulet à l’ananas à la mijoteuse
     en: Slow Cooker Pineapple Chicken
   author: Ricardo Larrivé
+  source: website
   link:
     fr: https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse
     en: https://www.ricardocuisine.com/en/recipes/5609-slow-cooker-pineapple-chicken
@@ -52,6 +56,7 @@
     fr: Tofu épicé sauce aux arachides
     en: Tofu with Spicy Peanut Sauce
   author: Jean-Philippe Cyr
+  source: website
   link:
     fr: https://www.lacuisinedejeanphilippe.com/recipe/tofu-epice-sauce-aux-arachides/
     en: https://www.thebuddhistchef.com/recipe/tofu-peanut-sauce/
