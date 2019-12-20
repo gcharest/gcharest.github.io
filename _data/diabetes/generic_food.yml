@@ -1,0 +1,44 @@
+---
+- source:
+    name:
+      en: Montreal Children's Hospital - McGill Univerity Health Center
+      fr: Hôpital de Montréal pour enfants - Centre universitaire de santé McGill
+    link:
+      en: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
+      fr: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
+    date: 2019-12-20
+    categories:
+    - categorie:
+      name:
+        en: Beverages
+        fr: Breuvages
+      food:
+        - name:
+            en: Soft Drinks
+            fr: Boissons gazeuses
+          factor: 0.10
+        - name:
+            en: Chocolate Milk
+            fr: Lait au chocolat
+          factor: 0.10
+        - name:
+            en: Eggnog
+            fr: Lait de poule
+          factor: 0.14
+        - name:
+            en: Milk
+            fr: Lait
+          factor: 0.05
+        - name:
+            en: Fruit Punch
+            fr: Punch aux fruits
+          factor: 0.13
+    - categorie:
+      name:
+        en: Alcoholic Beverages
+        fr: Breuvages alcoolisés
+      food:
+        - name:
+            en: Beer, de-alcoholized
+            fr: Bière désalcoolisée
+          factor: 0.13
