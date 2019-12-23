@@ -9,7 +9,7 @@ permalink: recettes-facteurs-glycemique.html
 Dans cette page
 
 1. [Recettes fréquentes](#recettes-fr%c3%a9quentes)
-2. [Recettes génériques](#recettes-g%c3%a9n%c3%a9riques)
+2. [Facteurs génériques](#facteurs-g%c3%a9n%c3%a9riques)
 
 ## Recettes fréquentes
 
@@ -21,7 +21,7 @@ Voir la page [Calcul du facteur glycémique de recettes]({{site.baseurl}}/calcul
 
 {% include listRecipes.html %}
 
-## Recettes génériques
+## Facteurs génériques
 
 Les recettes listées ici-bas sont tirées des guides listés dans les diverses pages (références à venir).
 Il s'agit de recettes génériques (ex.: boeuf en sauce) permettant une approximation du facteur glymique afin de sauver du temps.

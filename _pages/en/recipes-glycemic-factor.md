@@ -9,7 +9,7 @@ permalink: recipes-glycemic-factor.html
 In this page
 
 1. [Frequent recipes](#frequent-recipes)
-2. [Generic recipes](#generic-recipes)
+2. [Generic factors](#generic-factors)
 
 ## Frequent recipes
 
@@ -19,7 +19,7 @@ Here's a list of recipes we like to do at home with their approximative glycemic
 
 {% include listRecipes.html %}
 
-## Generic recipes
+## Generic factors
 
 Recipes listed below are pulled from various guides (references to be added shortly).
 They are generic recipes (ex: beef in sauce) that help approximate the glycemic factor of a recipe and save time.

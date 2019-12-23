@@ -6,10 +6,6 @@ lang: en
 sections: Diabetes
 permalink: calculating-glycemic-factor.html
 ---
-<!-- markdownlint-disable MD036 -->
-*(Translation coming soon)*
-<!-- markdownlint-enable MD036 -->
-
 The glycemic factor of a recipe consists in adding up the total quantity of sugar of each ingredient used in a dish and to divide that number by the recipe's total weight.
 This then gives us the percentage of sugar for any given gram of the dish, which can be used to approximate the quantity of sugar in a person's desired portion.
 
