@@ -84,3 +84,9 @@ blockquote {
 .blockquote {
   font-size: 1rem;
 }
+
+/*Tables*/
+
+table{
+  width: 100% !important;
+}
