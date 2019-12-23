@@ -4,6 +4,7 @@ title: About
 ref: apropos
 lang: en
 status: posted
+permalink: about.html
 ---
 As I mentioned in the home page, I designed this site to bring together my work on open source software and other useful information for the management of type 1 diabetes in order to make it quickly usable.
 There are many reliable resources available on the web but I found that they were sometimes not very accessible or that they were only available in English.
