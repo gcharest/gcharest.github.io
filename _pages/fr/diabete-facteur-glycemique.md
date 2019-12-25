@@ -27,4 +27,4 @@ Les aliments et recettes listées ici-bas sont tirées de guides et ressources l
 Il s'agit de recettes génériques (ex.: boeuf en sauce) permettant une approximation du facteur glymique afin de sauver du temps.
 À force de calculer les différentes recettes, on peut s'apercevoir que les facteurs listés ici sont en effet assez proches de la réalité.
 
-(Tableau à venir)
+{% include listGenericFood.html %}

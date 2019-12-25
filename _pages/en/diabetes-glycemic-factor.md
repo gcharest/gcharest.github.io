@@ -25,4 +25,4 @@ Recipes listed below are pulled from various guides (references to be added shor
 They are generic recipes (ex: beef in sauce) that help approximate the glycemic factor of a recipe and save time.
 As you go on and calculate the factor of various recipes, you realize that the generic versions provided by those guides are actually pretty accurate.
 
-(Table to be added shortly)
+{% include listGenericFood.html %}
