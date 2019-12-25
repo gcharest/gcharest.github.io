@@ -1,0 +1,35 @@
+<tbody>
+  <table class="wb-tables table table-striped table-hover" id="dataset-filter2"
+    data-wb-tables='{"order": [0, "asc"], "paging": false}'>
+    <thead>
+      <tr>
+        <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.food[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+        <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for entry in site.data.diabetes.generic_food %}
+      {% for category in entry.source.categories %}
+      {% for food in category.food %}
+      <tr>
+        <td>
+          {{ category.name[page.lang] }}
+        </td>
+        <td>
+          {{ food.name[page.lang] }}
+        </td>
+        <td>
+          {{ food.factor }}
+        </td>
+        <td>
+          <a href="{{ source.link[page.lang]}}">{{ site.data.i18n.tables.linkURL[page.lang]}}</a>
+        </td>
+      </tr>
+      {% endfor %}
+      {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+</tbody>
