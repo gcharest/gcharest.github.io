@@ -3,6 +3,7 @@
     name:
       en: Montreal Children's Hospital - McGill Univerity Health Center
       fr: Hôpital de Montréal pour enfants - Centre universitaire de santé McGill
+    type: PDF
     link:
       en: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
       fr: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
@@ -112,3 +113,112 @@
             en: Cream of Wheat, quick
             fr: Crème de maïs, rapide
           factor: 0.10
+    - categorie:
+      name:
+        en: Grains and Cereals
+        fr: Grains et céréales
+      food:
+        - name:
+            en: Bagel
+            fr: Bagel
+          factor: 0.51
+        - name:
+            en: Bread, Crumbs
+            fr: Chapelure 
+          factor: 0.67
+        - name:
+            en: Bread, French
+            fr: Pain, Français
+          factor: 0.49
+        - name:
+            en: Bread, Italian
+            fr: Pain, Italien
+          factor: 0.47
+        - name:
+            en: Pita, White
+            fr: Pain pita, blanc
+          factor: 0.54
+        - name:
+            en: Pita, Whole Wheat
+            fr: Pain pita, blé entier
+          factor: 0.48
+        - name:
+            en: Bread, Rye
+            fr: Pain de seigle
+          factor: 0.43
+        - name:
+            en: Bread, Sticks
+            fr: Bâtonnets de pain
+          factor: 0.65
+        - name:
+            en: Bread, White
+            fr: Pain blanc
+          factor: 0.52
+        - name:
+            en: Bread, Whole Wheat
+            fr: Pain blé entier
+          factor: 0.39
+        - name:
+            en: Cornstarch
+            fr: Fécule de maïs
+          factor: 0.90
+        - name:
+            en: Flour, Wheat, All-purpose
+            fr: Farine de blé, tout usage
+          factor: 0.73
+        - name:
+            en: French Toast
+            fr: Pain doré
+          factor: 0.29
+        - name:
+            en: Kasha (Buckwheat groats)
+            fr: Gruau de sarrasin
+          factor: 0.17
+        - name:
+            en: Matzo
+            fr: Matza
+          factor: 0.81
+        - name:
+            en: Muffin, English
+            fr: Muffin anglais
+          factor: 0.43
+        - name:
+            en: Muffin, commercial
+            fr: Muffin commercial
+          factor: 0.45
+        - name:
+            en: Pancake, buttermilk mix, alone
+            fr: Mélange de crêpe, sec
+          factor: 0.69
+        - name:
+            en: Pancake, buttermilk mix, prepared
+            fr: Mélange de crêpe, préparé
+          factor: 0.42
+        - name:
+            en: Rice, Long or Short Grain, Cooked
+            fr: Riz, long ou court, cuit
+          factor: 0.26
+        - name:
+            en: Rice, Wild, Cooked
+            fr: Riz sauvage, cuit
+          factor: 0.42
+        - name:
+            en: Pasta, Cooked, Plain 
+            fr: Pâtes cuites, sans sauce
+          factor: 0.26
+        - name:
+            en: Pasta, Cooked with Sauce
+            fr: Pâtes cuites, avec sauce
+          factor: 0.15
+        - name:
+            en: Tortellini, Cheese
+            fr: Tortellini au fromage
+          factor: 0.30
+        - name:
+            en: Tortillas, Corn
+            fr: Tortillas, maïs
+          factor: 0.40
+        - name:
+            en: Tortillas, Wheat
+            fr: Tortillas, blé
+          factor: 0.52
