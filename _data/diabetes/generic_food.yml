@@ -42,3 +42,73 @@
             en: Beer, de-alcoholized
             fr: Bière désalcoolisée
           factor: 0.13
+        - name:
+            en: Beer, Light
+            fr: Bière, Légère
+          factor: 0.01
+        - name:
+            en: Beer, Regular
+            fr: Bière, Régulière
+          factor: 0.03
+        - name:
+            en: Liquor
+            fr: Spiritueux
+          factor: 0.45
+        - name:
+            en: Wine, Sweet
+            fr: Vin, Sucré
+          factor: 0.14
+    - categorie:
+      name:
+        en: Cereal, cold, ready-to-eat
+        fr: Céréales, froides, prêtes à manger
+      food:
+        - name:
+            en: All Bran
+            fr: All Bran
+          factor: 0.42
+        - name:
+            en: Cheerios, regular
+            fr: Cheerios, régulières
+          factor: 0.64
+        - name:
+            en: Corn Flakes
+            fr: Corn Flakes
+          factor: 0.84
+        - name:
+            en: Granola, Harvest Crunch
+            fr: Granola, Harvest Crunch
+          factor: 0.68
+        - name:
+            en: Grape-Nuts
+            fr: Grape-Nuts
+          factor: 0.70
+        - name:
+            en: Raisin Bran
+            fr: Raisin Bran
+          factor: 0.68
+        - name:
+            en: Rice Krispies
+            fr: Rice Krispies
+          factor: 0.85
+        - name:
+            en: Shredded Wheat
+            fr: Shredded Wheat
+          factor: 0.69
+        - name:
+            en: Special K
+            fr: Special K
+          factor: 0.74
+    - categorie:
+      name:
+        en: Cereal, hot, cooked in water
+        fr: Céréales, froides, prêtes à manger
+      food:
+        - name:
+            en: Oatmeal, minute
+            fr: Gruau, minute
+          factor: 0.10
+        - name:
+            en: Cream of Wheat, quick
+            fr: Crème de maïs, rapide
+          factor: 0.10
