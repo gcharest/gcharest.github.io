@@ -3,19 +3,19 @@
     data-wb-tables='{"order": [0, "asc"], "columnDefs": [{"targets": [3,4], "visible": false}], "paging": true}'>
     <thead>
       <tr>
-        <th>{{ site.data.i18n.tables.recipe[page.lang]}}</th>
-        <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
-        <th>{{ site.data.i18n.tables.author[page.lang]}}</th>
-        <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
-        <th>{{ site.data.i18n.tables.notes[page.lang]}}</th>
+        <th scope="col">{{ site.data.i18n.tables.recipe[page.lang]}}</th>
+        <th scope="col">{{ site.data.i18n.tables.factor[page.lang]}}</th>
+        <th scope="col">{{ site.data.i18n.tables.author[page.lang]}}</th>
+        <th scope="col">{{ site.data.i18n.tables.source[page.lang]}}</th>
+        <th scope="col">{{ site.data.i18n.tables.notes[page.lang]}}</th>
       </tr>
     </thead>
     <tbody>
         {% for recipe in site.data.diabetes.online_recipes %}
       <tr>
-        <td>
+        <th scope="row">
           {{ recipe.name[page.lang] }}
-        </td>
+        </th>
         <td>
           {{ recipe.factor }}
         </td>
