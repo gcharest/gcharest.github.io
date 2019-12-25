@@ -1,6 +1,6 @@
 <tbody>
   <table class="wb-tables table table-striped table-hover" id="dataset-filter2"
-    data-wb-tables='{"order": [0, "asc"], "paging": false}'>
+    data-wb-tables='{"order": [0, "asc"], "paging": true}'>
     <thead>
       <tr>
         <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
@@ -24,7 +24,12 @@
           {{ food.factor }}
         </td>
         <td>
-          <a href="{{ entry.source.link[page.lang]}}">{{ site.data.i18n.tables.linkURL[page.lang]}}</a>
+          <a href="{{ entry.source.link[page.lang]}}">{{ entry.source.name[page.lang] }}
+            {%- if entry.source.type == "PDF"-%}
+            {%- assign suffix = " (PDF)" -%}
+            {{ suffix }}
+            {%- endif -%}
+          </a>
         </td>
       </tr>
       {% endfor %}
