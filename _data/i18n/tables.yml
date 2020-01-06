@@ -2,6 +2,9 @@
 recipe:
   fr: Recette
   en: Recipe
+calculatedRecipe:
+  fr: Recette calculée
+  en: Calculated Recipe
 author:
   fr: Auteur/Auteure
   en: Author
@@ -11,9 +14,19 @@ factor:
 source:
   fr: Source
   en: Source
-linkURL:
-  fr: Page web
-  en: Webpage
+sourceType:
+  onlinePDF:
+    fr: PDF en ligne
+    en: Online PDF
+  website:
+    fr: Page web
+    en: Webpage
+  book:
+    fr: Livre
+    en: Book
+  document:
+    fr: Document
+    en: Document
 notes:
   fr: Notes
   en: Notes
