@@ -3,11 +3,12 @@
     name:
       en: Montreal Children's Hospital - McGill Univerity Health Center
       fr: Hôpital de Montréal pour enfants - Centre universitaire de santé McGill
-    type: PDF
-    link:
+    sourceType: onlinePDF
+    URL:
       en: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
       fr: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
-    date: 2019-12-20
+    date:
+      access: 2019-12-20
     categories:
     - categorie:
       name:
