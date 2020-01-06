@@ -3,7 +3,9 @@ name:
   fr: Pâté chinois réinventé
   en: Reinvented Shepperd's Pie (FR)
 author: Geneviève O’Gleman - Cuisine futée, parents pressés
-source: website
+sourceType: website
+date:
+  access: null
 link:
   fr: https://cuisinez.telequebec.tv/recettes/2315/pate-chinois-reinvente
   en: https://cuisinez.telequebec.tv/recettes/2315/pate-chinois-reinvente
@@ -11,3 +13,6 @@ factor: 0.10
 notes:
   fr: Recette revisitée que les enfants aiment beaucoup. Peut se congeler.
   en: Revisited recipe really liked by the kids. Can be frozen.
+tags:
+  en: beef, potatoes, corn
+  fr: boeuf, patates, maïs
