@@ -6,23 +6,11 @@ lang: en
 sections: Diabetes
 permalink: diabetes/glycemic-factor.html
 ---
-In this page
+In the table below, I have put together glycemic factors for various food that I have found consulting sources I trust online or that I have calculated from recipes we are doing at home.
 
-1. [Frequent recipes](#frequent-recipes)
-2. [Generic factors](#generic-factors)
+>**Attention**: The glycemic factors found below for recipes that I calculated are approximative and may vary based on quantities used.
+They are offered without any guarantee of exactitude.
+See the page [Calculating a recipe's glycemic factor]({{site.baseurl}}/calculating-glycemic-factor.html) for more information on the method used to obtain the factor values.
+All other glycemic factors have their source identified as well for you to validate.
 
-## Frequent recipes
-
-Here's a list of recipes we like to do at home with their approximative glycemic factor.
-
->**Attention**: The glycemic factors found below are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude. See the page [Calculating a recipe's glycemic factor]({{site.baseurl}}/calculating-glycemic-factor.html) for more information on the method used to obtain the factor values.
-
-{% include listRecipes.html %}
-
-## Generic factors
-
-Recipes listed below are pulled from various guides (references to be added shortly).
-They are generic recipes (ex: beef in sauce) that help approximate the glycemic factor of a recipe and save time.
-As you go on and calculate the factor of various recipes, you realize that the generic versions provided by those guides are actually pretty accurate.
-
-{% include listGenericFood.html %}
+{% include tableFoodFactors.html %}
