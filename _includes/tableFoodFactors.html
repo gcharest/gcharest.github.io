@@ -1,0 +1,48 @@
+<div class="row">
+  <!--Filters-->
+  <div class="col-md-3"></div>
+  <!--Data Table-->
+  <div class="col-md-9 mrgn-bttm-lg">
+    <tbody>
+      <table class="wb-tables table table-striped table-hover" id="dataset-filter"
+        data-wb-tables='{"order": [0, "asc"], "paging": false}'>
+        <thead>
+          <tr>
+            <th>{{ site.data.i18n.tables.food[page.lang]}}</th>
+            <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+            <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
+            <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for entry in site.data.diabetes.generic_food %}
+          {% for category in entry.source.categories %}
+          {% for food in category.food %}
+          <tr>
+            <td>
+              {{ food.name[page.lang] }}
+            </td>
+            <td>
+              {{ food.factor }}
+            </td>
+            <td>
+              {{ category.name[page.lang] }}
+            </td>
+            <td>
+              <a href="{{ entry.source.link[page.lang]}}">{{ entry.source.name[page.lang] }}
+                {%- if entry.source.type == "PDF"-%}
+                {%- assign suffix = " (PDF)" -%}
+                {{ suffix }}
+                {%- endif -%}
+              </a>
+            </td>
+          </tr>
+          {% endfor %}
+          {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </tbody>
+  </div>
+  <!--Modal Lightboxes-->
+</div>
