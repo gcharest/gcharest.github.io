@@ -1,10 +1,8 @@
 $(document).ready(function () {
-  var language = document.getElementsByTagName("html")[0].getAttribute('lang');
-
   /*Setting parameters based on page lang*/
-  const parameters = (language) =>{
-    var parametersValues = 
-    {
+  const parameters = (pageLang) => {
+    var pageLang = document.getElementsByTagName("html")[0].getAttribute('lang');
+    var parametersValues = {
       "columnDefs": [{
         "visible": false,
         "targets": groupColumn
@@ -12,7 +10,29 @@ $(document).ready(function () {
       "order": [
         [groupColumn, 'asc']
       ],
-      "language": {
+      "displayLength": 25,
+      "drawCallback": function (settings) {
+        var api = this.api();
+        var rows = api.rows({
+          page: 'current'
+        }).nodes();
+        var last = null;
+
+        api.column(groupColumn, {
+          page: 'current'
+        }).data().each(function (group, i) {
+          if (last !== group) {
+            $(rows).eq(i).before(
+              '<tr class="group"><td colspan="5">' + group + '</td></tr>'
+            );
+
+            last = group;
+          }
+        });
+      }
+    }
+    if (pageLang == 'fr') {
+      parametersValues.language = {
         "sEmptyTable": "Aucune donnée disponible dans le tableau",
         "sInfo": "Affichage de l'élément _START_ à _END_ sur _TOTAL_ éléments",
         "sInfoEmpty": "Affichage de l'élément 0 à 0 sur 0 élément",
@@ -41,32 +61,13 @@ $(document).ready(function () {
             "1": "1 ligne sélectionnée"
           }
         }
-      },
-      "displayLength": 25,
-      "drawCallback": function (settings) {
-        var api = this.api();
-        var rows = api.rows({
-          page: 'current'
-        }).nodes();
-        var last = null;
-
-        api.column(groupColumn, {
-          page: 'current'
-        }).data().each(function (group, i) {
-          if (last !== group) {
-            $(rows).eq(i).before(
-              '<tr class="group"><td colspan="5">' + group + '</td></tr>'
-            );
-
-            last = group;
-          }
-        });
       }
     }
     return parametersValues;
   };
+  console.log(parameters())
   var groupColumn = 2;
-  var table = $('#tableFoodFactors').DataTable(parameters);
+  var table = $('#tableFoodFactors').DataTable(parameters());
 
   // Order by the grouping
   $('#example tbody').on('click', 'tr.group', function () {
