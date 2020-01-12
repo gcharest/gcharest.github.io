@@ -1,8 +1,9 @@
 <div class="row">
   <!--Filters-->
-  <div class="col-md-3"></div>
+  <!--<div class="col-md-3"></div>
+  -->
   <!--Data Table-->
-  <div class="col-md-9 mrgn-bttm-lg">
+  <div class="col mrgn-bttm-lg">
     <tbody>
       <table class="display" id="tableFoodFactors">
         <thead>
@@ -28,7 +29,7 @@
               {{ category.name[page.lang] }}
             </td>
             <td>
-              <a href="{{ entry.source.link[page.lang]}}">{{ entry.source.name[page.lang] }}
+              <a href="{{ entry.source.URL[page.lang]}}">{{ entry.source.name[page.lang] }}
                 {%- if entry.source.type == "PDF"-%}
                 {%- assign suffix = " (PDF)" -%}
                 {{ suffix }}
