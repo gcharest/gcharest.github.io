@@ -3,11 +3,16 @@ name:
   fr: Poulet à l’ananas à la mijoteuse
   en: Slow Cooker Pineapple Chicken
 author: Ricardo Larrivé
-source: website
+sourceType: website
+date:
+  access: null
 link:
   fr: https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse
   en: https://www.ricardocuisine.com/en/recipes/5609-slow-cooker-pineapple-chicken
 factor: 0.07
 notes:
   fr: Recette assez rapide à préparer avec cuisson à la mijoteuse.
-  en: Quick to setup slow cooker recipe. 
+  en: Quick to setup slow cooker recipe.
+tags:
+  en: null
+  fr: null
