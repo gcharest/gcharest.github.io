@@ -18,7 +18,18 @@
     "glycemiques",
     "diabete",
     "Maman",
-    "PDFs"
+    "PDFs",
+    "Tidepool",
+    "glucosio",
+    "glukit",
+    "charest",
+    "greger's",
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Kabane",
+    "lorsqu'il",
+    "lorsqu'arrive",
+    "puisqu'il"
   ],
   "flagWords": [],
   "import": ["./node_modules/cspell-dict-fr-fr/cspell-ext.json"],
@@ -27,5 +38,9 @@
       "en-gb",
       "html",
       "css"
-  ]
+  ],
+    "ignoreRegExpList": [
+      "]\\(([^\\)]+)\\)",
+      "ref\\:\\s[\\-éàêç[a-z]+"
+    ]
 }
