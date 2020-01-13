@@ -3,8 +3,8 @@ recipe:
   fr: Recette
   en: Recipe
 calculatedRecipe:
-  fr: Recette calculée
-  en: Calculated Recipe
+  fr: Recettes calculées
+  en: Calculated Recipes
 author:
   fr: Auteur/Auteure
   en: Author
