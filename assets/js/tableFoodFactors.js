@@ -65,7 +65,7 @@ $(document).ready(function () {
     }
     return parametersValues;
   };
-  console.log(parameters())
+  
   var groupColumn = 2;
   var table = $('#tableFoodFactors').DataTable(parameters());
 
