@@ -16,7 +16,7 @@ Il y a peut-être une opportunité d'amener la communauté à améliorer cette d
 
 ## Mon parcours
 
-Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernment pendant plus de 14 ans ainsi que pour des petites entreprises et des organismes à but non lucratif.
+Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernement pendant plus de 14 ans ainsi que pour des petites entreprises et des organismes à but non lucratif.
 Depuis mes tous débuts, je partage mon enthousiasme pour les logiciels libres avec mes différentes équipes et mes clients.
 
 ~ Guillaume

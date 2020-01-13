@@ -32,7 +32,7 @@ Always consult your medical team before making decisions based on information fo
 ### Change of routine
 
 As parents, until our son is completely independent, we must now take into account all the food he eats in order to properly administer the insulin in his treatment.
-We must also carefully monitor the fluctation of his blood sugar level to avoid hypoglycemia and minimize hyperglycemia.
+We must also carefully monitor the fluctuation of his blood sugar level to avoid hypoglycemia and minimize hyperglycemia.
 The first few weeks were quite a change in our routine for a family with three young children (2, 3 and 8 year old).
 
 Calculating the exact amount of sugar in a meal requires a certain amount of care and a precise calculation method to be able to administer the right amount of insulin.

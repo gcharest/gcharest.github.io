@@ -7,7 +7,7 @@ lang: fr
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
-Novembre 2018, le diagostic tombe: mon fils de 8 ans a le diabète de type 1.
+Novembre 2018, le diagnostic tombe: mon fils de 8 ans a le diabète de type 1.
 <!--more-->
 
 ### Changement de réalité
@@ -24,7 +24,7 @@ Il y a plusieurs formes de diabète et s'improviser spécialiste peut être **tr
 
 ### Changement de routine
 
-En tant que parents, en attendant que notre fils soit complètement autonome, il nous faut maintenant prendre en compte chaque aliment consommé afin de bien administrer l'insuline de son traitement. Nous devons également suivre avec attention la fluctation de son taux de sucre dans le sang pour éviter les hypoglycémies et minimiser les hyperglycémies. Les premières semaines ont présenté tout un changement de routine pour une famille avec trois enfants en bas âge.
+En tant que parents, en attendant que notre fils soit complètement autonome, il nous faut maintenant prendre en compte chaque aliment consommé afin de bien administrer l'insuline de son traitement. Nous devons également suivre avec attention la fluctuation de son taux de sucre dans le sang pour éviter les hypoglycémies et minimiser les hyperglycémies. Les premières semaines ont présenté tout un changement de routine pour une famille avec trois enfants en bas âge.
 
 Calculer la quantité exacte de sucre ingérée dans un repas demande une certaine minutie et une méthode de calcul précise pour pouvoir administrer la bonne dose d'insuline. Il faut également prendre de nombreuses notes (taux de sucre dans le sang, quantité de sucre aux repas, insuline administrée, etc.) afin de pouvoir fournir de l'information pertinente à l'équipe médicale pour l'ajustement du traitement en fonction du corps de mon fils.
 

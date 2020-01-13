@@ -34,7 +34,7 @@ Malgré leur pression, leur horaire chargé et le nombre de patients à gérer, 
 ## L'école
 
 Encore une fois, nous sommes extrêmement chanceux de pouvoir compter sur une équipe qui nous supporte au quotidien à l'école.
-Lorsque le diagnostic est tombé, l'école a mis en place un protocole et identifié des personnes volontaires qui allaient appuyer ǹotre fils dans le suivi de son diabète et pour ses injections.
+Lorsque le diagnostic est tombé, l'école a mis en place un protocole et identifié des personnes volontaires qui allaient appuyer notre fils dans le suivi de son diabète et pour ses injections.
 Nous savons que ce ne sont pas toutes les écoles qui fournissent un tel encadrement alors nous ne pouvons exprimer à quel point nous sommes reconnaissants.
 
 ## Il faut un village

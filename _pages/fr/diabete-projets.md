@@ -55,11 +55,11 @@ Voici des projets que j'ai trouvés intéressants et qui semblent avoir une appr
 * [Glucosio](https://www.glucosio.org/)
   * Projet sous logiciel libre (GPL 3.0) ayant pour objectif d'offrir une expérience utilisateur hors paire et offrir la possibilité de supporter la recherche.
 * [Glukit](https://mygluk.it/)
-  * Ce projet nouvellement relâché sous licence libre (MIT) semble intéressant mais je dois y jeter un oeil plus attentif car le développeur est un diabétique de type 1 ayant supposément réussi à maintenir un taux de glucide moyen de 4.4, ce qui est très bas même si possible.
+  * Ce projet nouvellement relâché sous licence libre (MIT) semble intéressant mais je dois y jeter un œil plus attentif car le développeur est un diabétique de type 1 ayant supposément réussi à maintenir un taux de glucide moyen de 4.4, ce qui est très bas même si possible.
 * [DJ-Diabetes](https://github.com/push-things/dj-diabetes)
   * Application web pour le suivi du diabète sous licence libre (BSD 3-Clauses)
 
 ## Nutrition
 
 * [Dr. Greger's Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android)
-  * Cette application sous licence libre (GPL 3.0) vise à offrir de saines habitudes alimentaires. Il se pourrait que l'amalgame des fonctionalités de cette application avec une sur le suivi du diabète puisse fournir des données pertinentes pour les diabétiques, les cliniciens et les chercheurs.
+  * Cette application sous licence libre (GPL 3.0) vise à offrir de saines habitudes alimentaires. Il se pourrait que l'amalgame des fonctionnalités de cette application avec une sur le suivi du diabète puisse fournir des données pertinentes pour les diabétiques, les cliniciens et les chercheurs.

@@ -14,7 +14,7 @@ Le premier sujet, les logiciels libres, m'intéresse depuis de nombreuses année
 Pour ce rôle, j'ai dû travailler avec les ministères, le secteur privé et les citoyens pour aider à élaborer des exigences et des lignes directrices sur l'utilisation, la contribution et la publication des logiciels libres au gouvernement du Canada.
 Ce fut une expérience incroyable et je suis vraiment impressionné par tout le travail accompli par toute la communauté !
 
-Le deuxième sujet, le diabète de type 1, est quelque peu nouveau pour moi et est lié au fait que mon fils ainé a développé le diabète de type 1 en novembre 2018.
+Le deuxième sujet, le diabète de type 1, est quelque peu nouveau pour moi et est lié au fait que mon fils aîné a développé le diabète de type 1 en novembre 2018.
 (Note: Mon second fils âgé de 4 ans et demi a reçu à son tour le même diagnostic un an presque jour pour jour, en novembre 2019)
 Cela m'a ouvert les yeux sur une réalité qui m'était étrangère auparavant et je pense que cela m'a rendu une meilleure personne, plus consciente des défis auxquels les gens doivent faire face à chaque jour.
 

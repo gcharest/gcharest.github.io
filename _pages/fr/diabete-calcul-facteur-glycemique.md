@@ -61,7 +61,7 @@ La complexité réside dans le fait que les valeurs nutritives sont offertes par
 >Avant de se lancer dans la préparation de la recette elle-même, il faut prendre le temps de noter le poids du contenant dans lequel on pèsera la recette à la fin, sinon cela fausserait les résultats.
 En effet, on veut connaître le poids total de la recette et non pas le poids de la recette **plus** le contenant.
 
-Lorsque la quantité de chaque ingrédient est connu, on additionne le tout pour connaitre la quantité totale de sucre dans la recette.
+Lorsque la quantité de chaque ingrédient est connu, on additionne le tout pour connaître la quantité totale de sucre dans la recette.
 
 On cuisine alors le tout et on pèse la recette dans son intégralité (toujours en soustrayant le poids du contenant).
 
@@ -71,5 +71,5 @@ Tout cela est beaucoup de travail et c'est une très bonne raison pour ne pas vo
 D'un autre côté, c'est une façon très efficace d'avoir une bonne approximation de la quantité de sucre dans une recette, ce qui n'est souvent pas le cas lorsque l'on mange au restaurant ou chez quelqu'un d'autre.
 
 J'ai commencé une [liste de recettes](({{site.baseurl}}/recettes-facteur-glycemique.html)) que nous faisons fréquemment à la maison.
-Comme pour toute information trouvée sur ce site, ces facteurs sont offerts sans guarantie d'exactitude.
+Comme pour toute information trouvée sur ce site, ces facteurs sont offerts sans garantie d'exactitude.
 Je vous recommande fortement de faire vos propres calculs afin de confirmer la précision des facteurs que j'ai calculés ici.

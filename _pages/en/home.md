@@ -12,7 +12,7 @@ The reason I'm putting this site together is that I realize I've been creating a
 I currently have two main areas of interest: Open Source Software and Diabetes Type 1, which turn out to not be mutually exclusive when you dive a bit into the subjects.
 
 The first topic, Open Source Software, has been of interest to me for many years, all the way back in university.
-I also recently had the honor to be the Lead of Open Source Software for the Treasury Board of Canada Secretariat.
+I also recently had the honour to be the Lead of Open Source Software for the Treasury Board of Canada Secretariat.
 For that role, I had to work with departments, private sector and citizens alike to help come up with policy requirements and guidelines on the use, contribution and publication of Open Source Software.
 It was an amazing time and I am really impressed by all the work done by the entire community!
 

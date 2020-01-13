@@ -30,7 +30,7 @@ Pas facile de comprendre "pourquoi" on doit absolument faire ces choses douloure
 Nous sommes ensuite passés d'une étape à l'autre jusqu'au diagnostic: Diabète de Type 1.
 Encore.
 
-Et oui, il semblerait que le sort veuille que les frères et soeurs d'un enfant diabétique aient une chance assez élevée d'aussi développer cette maladie.
+Et oui, il semblerait que le sort veuille que les frères et sœurs d'un enfant diabétique aient une chance assez élevée d'aussi développer cette maladie.
 
 ## La première fois
 
@@ -70,6 +70,6 @@ En tant que parent, je dois dire que nous sommes choyés dans nos défis de pouv
 
 Et j'espère que nos fils pourront à leur tour nouer de belles relations avec les membres de cette équipe, composée de personnes attentionnées et passionnées, qui nous donnent le goût de nous surpasser.
 
-Je suis tellement fier de mes garçons, de leur attitude fonçeuse face à cette situation frustrante et tellement difficile à intégrer dans leur vie.
+Je suis tellement fier de mes garçons, de leur attitude fonceuse face à cette situation frustrante et tellement difficile à intégrer dans leur vie.
 Et je suis vraiment content qu'ils soient toujours aussi intenses et remplis d'énergie!
 C'est de la gestion au quotidien pour nous, les parents, mais c'est un signe qu'ils sont toujours aussi plein de vie et de passion!
