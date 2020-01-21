@@ -31,11 +31,13 @@ Imaginez devoir coller un objet d'un diamètre équivalent à un 2 dollars canad
 L'installation consiste à prendre un appareil doté d'une aiguille suffisamment large pour faire pénétrer une micro "paille" dans la peau.
 Puis, on recommence à la fin de vie de chaque capteur.
 
-Si la lecture par le capteur n'est pas suffisante, il faut alors se piquer le doigt pour prendre une prise de sang.
+Si la lecture par le capteur n'est pas suffisante, soit parce que celui-ci ne fonctionne pas ou encore que les symptômes semblent ne pas refléter la lecture, nos garçons doivent alors se piquer le doigt pour prendre une prise de sang.
+
+Et nous, les parents et bons anges-gardiens que nous sommes, allons prendre des lectures de glycémie durant la nuit afin de nous assurer qu'ils ne sont pas en situation d'hypoglycémie.
+S'ils le sont, il nous faut alors les réveiller et leur donner à manger, ce qui affecte nécessairement leur sommeil.
 
 Disons que c'est une expérience assez invasive et il n'y a pas de fin.
 C'est ainsi pour la vie ou jusqu'à ce qu'une percée fulgurante de la science voit le jour...
 
 ## Pour les parents
-
 
