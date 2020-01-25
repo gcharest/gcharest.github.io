@@ -73,6 +73,9 @@ Mais comme nous devons prendre beaucoup plus de temps à préparer et gérer les
 
 De plus, en grandissant, il est fort possible qu'il commence à ressentir des émotions négatives par rapport à l'attention portée à ses frères.
 Il faudra donc porter une [grande attention](http://www.contact.ulaval.ca/article_magazine/5-besoins-de-fratrie-dun-enfant-malade/) à son développement émotionnel afin de l'accompagner dans son propre épanouissement.
+C'est également sans compter le stress qu'il pourrait vivre à l'idée de possiblement être diagnostiqué avec le diabète de type 1 à son tour.
+Après tout, il y a bien un dicton à cet effet: *Jamais deux sans trois...*
+(Je touche du bois ici pour ce ne soit vraiment qu'un dicton.)
 
 Pour les grands-parents, les tantes et les oncles, la venue de cette nouvelle condition a nécessairement été un choc.
 De savoir qu'une personne chère soit atteinte d'une maladie incurable est difficile et nous fait passer par toute une gamme d'émotions.
@@ -86,4 +89,4 @@ C'est une source de stress supplémentaire, même s'ils ne le voient pas ainsi.
 
 En plus d'être des grands-parents, des oncles et des tantes, ces personnes chères à nos coeurs sont maintenant également des intervenants dans la gestion du diabète de nos petits coeurs.
 
-Les membres de notre famille sont précieux et c'est essentiel de comprendre à quel point nous ne serions pas capable de vivre aussi bien 
+Les membres de notre famille sont précieux et c'est essentiel de comprendre à quel point nous ne serions pas capable de vivre aussi bien tous ses défis sans leur appui continu.
