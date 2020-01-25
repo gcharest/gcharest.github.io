@@ -24,12 +24,12 @@ En ajoutant en plus le haut niveau de surveillance qu'apporte le diabète de typ
 Non seulement on leur demande d'estimer avec le plus de précision possible ce qu'ils vont manger au repas (pour pouvoir calculer les bonnes doses d'insulines), ils doivent maintenant être à l'écoute de leur corps pour tenter de déceler des signes d'hypoglycémies en continue.
 
 Bien sûr, il existe des outils pour nous aider dans la gestion de cette condition.
-Des capteurs collés sur la peau permettent de faire une lecture de façon presque continue ou même en temps réel, dépendant de la solution retenue.
+Des capteurs collés sur la peau permettent de faire une lecture de façon presque continue ou même en continue, selon la solution retenue.
 Mais même ces outils sont une source de stress...
 
 Imaginez devoir coller un objet d'un diamètre équivalent à un 2 dollars canadien et d'une épaisseur équivalent à trois 2 dollars superposés pour une durée d'environ 2 semaines à la fois.
-L'installation consiste à prendre un appareil doté d'une aiguille suffisamment large pour faire pénétrer une micro "paille" dans la peau.
-Puis, on recommence à la fin de vie de chaque capteur.
+L'installation consiste à prendre un appareil doté d'une aiguille suffisamment grosse pour faire pénétrer une micro "paille" dans la peau.
+Puis, on recommence à la fin de vie de chaque capteur, soit entre 10 et 14 jours.
 
 Si la lecture par le capteur n'est pas suffisante, soit parce que celui-ci ne fonctionne pas ou encore que les symptômes semblent ne pas refléter la lecture, nos garçons doivent alors se piquer le doigt pour prendre une prise de sang.
 
@@ -39,5 +39,51 @@ S'ils le sont, il nous faut alors les réveiller et leur donner à manger, ce qu
 Disons que c'est une expérience assez invasive et il n'y a pas de fin.
 C'est ainsi pour la vie ou jusqu'à ce qu'une percée fulgurante de la science voit le jour...
 
-## Pour les parents
+## Pour les adultes intervenants
 
+Nos enfants doivent également compter sur tout un réseau d'intervenants et d'intervenantes incroyables à longueure de journée.
+Lorsqu'ils sont à la garderie ou à l'école, le diabète ne reste pas à la maison...
+
+Toutes les personnes qui entourent nos garçons ont dûes être familiarisées et formées sur le diabète de type 1 ainsi qu'avec les méthodes et protocoles de traitements spécifiques à nos enfants.
+
+Au centre de la petite enfance où nos plus jeunes garçons vont, la cuisinière nous aide donc à bien calculer les glucides qui feront partie de ce que notre garçon de 4 ans va consommer comme repas.
+Nous avons établis un gabarit permettant de bien noter les informations et nous pouvons donc tout calculer le soir.
+(Pour le moment, notre garçon de 4 ans est sur régime "fixe", ce qui veut dire que le calcul est fait seulement en fonction du taux de sucre dans le sang et non par rapport aux glucides mangés directement.)
+
+L'éducatrice et toutes ses remplaçantes, la directrice générale et l'équipe de soutien ont toutes été formées et nous avons mis ensemble un protocole d'intervention avec des graphiques spécifiquement conçus pour notre fils.
+
+Il n'empêche, apprendre un concept est différent de le vivre.
+Lorsqu'une hypoglycémie soudaine se déclenche, le stress que les membres du personnel vit est intense.
+Ce n'est pas une situation "normale" pour ces personnes qui ont à coeur le développement et l'épanouissement de nos enfants.
+
+Du côté de l'école, même si notre fils ainé est plus stable et que la majorité du personnel est maintenant très comfortable avec les concepts et les méthodologies de gestion liées au diabète de type 1, il n'en demeure pas moins que c'est une source de stress supplémentaire.
+Le personnel enseignant et de soutien a vraiment beaucoup à gérer dans le cadre scolaire quotidien, introduire une variable de cette nature de plus à songer n'est pas une mince affaires.
+
+Mais comme toujours, toutes ces personnes ont levé la main sans aucune hésitation et ont répondu "Présente!" lorsqu'est venu le temps de prendre soin de nos garçons.
+Nous sommes tellement chanceux de pouvoir compter sur tous ces gens au quotidien!
+
+## Pour la famille
+
+Nous avons 3 enfants, les deux ainés étant maintenant diagnostiqués avec le diabete de type 1.
+Mais notre petit dernier, présentement âgé de 2 ans, doit lui aussi vivre avec le stress apporté par la condition de ses frères.
+
+Dans un scénario plus traditionnel, beaucoup d'attention doit être porté au petit dernier.
+Il est en effet moins autonome, communique moins efficacement que ces ainés, doit compte plus sur nous pour satisfaire ses besoins, etc.
+Mais comme nous devons prendre beaucoup plus de temps à préparer et gérer les différentes composantes du diabètes (hypoglycémies, repas, routines du soir, etc.), il doit souvent attendre plus qu'à son tour, ce qui est une source de frustration pour quelqu'un devant faire plus d'efforts pour communiquer et avec une moins grande maturité émotionnelle.
+
+De plus, en grandissant, il est fort possible qu'il commence à ressentir des émotions négatives par rapport à l'attention portée à ses frères.
+Il faudra donc porter une [grande attention](http://www.contact.ulaval.ca/article_magazine/5-besoins-de-fratrie-dun-enfant-malade/) à son développement émotionnel afin de l'accompagner dans son propre épanouissement.
+
+Pour les grands-parents, les tantes et les oncles, la venue de cette nouvelle condition a nécessairement été un choc.
+De savoir qu'une personne chère soit atteinte d'une maladie incurable est difficile et nous fait passer par toute une gamme d'émotions.
+
+Néanmoins, toute notre famille s'est relevé les manches et a pris les démarches nécessaire pour comprendre comment gérer la situation lorsque nos fils sont avec eux.
+Ainsi, ils savent reconnaître les symptômes d'hypoglycémie, ils conservent automatiquement les valeurs nutritives des aliments faisant partie des repas, ils gardent toujours des collations faibles en glucides au cas où, nous aident dans les calculs pour les repas, etc.
+
+Ils le font tous avec amour et compassion.
+Mais ces efforts sont en plus de tout ce qu'ils faisaient déjà pour nos garçons.
+C'est une source de stress supplémentaire, même s'ils ne le voient pas ainsi.
+
+En plus d'être des grands-parents, des oncles et des tantes, ces personnes chères à nos coeurs sont maintenant également des intervenants dans la gestion du diabète de nos petits coeurs.
+
+Les membres de notre famille sont précieux et c'est essentiel de comprendre à quel point nous ne serions pas capable de vivre aussi bien 
