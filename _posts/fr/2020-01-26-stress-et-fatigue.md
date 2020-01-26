@@ -3,7 +3,7 @@ layout: post
 title:  "Stress et fatigue"
 ref: stress-et-fatigue
 lang: fr
-date:   2020-01-2 22:00:00 -0500
+date:   2020-01-26 15:00:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
