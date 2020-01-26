@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sress et fatigue"
+title:  "Stress et fatigue"
 ref: stress-et-fatigue
 lang: fr
 date:   2020-01-2 22:00:00 -0500
@@ -12,7 +12,7 @@ Vivre avec une condition médicale est stressante et fatigante, pour la personne
 Lorsque notre fils aîné a été diagnostiqué avec le diabète de type 1 en 2018, il a fallu apporter beaucoup de changements à nos routines.
 Néanmoins, comme il était âgé de 8 ans, il ne lui a fallu qu'une journée pour être déjà capable de préparer et faire lui-même ses injections, sous notre supervision.
 
-Lorsque son jeune frère de 4 ans a été diagnostié en novembre 2019, la situation était quelque peu différente.
+Lorsque son jeune frère de 4 ans a été diagnostiqué en novembre 2019, la situation était quelque peu différente.
 Étant donné son jeune âge, il est presque totalement dépendant des adultes l'entourant malgré son grand désir de prendre lui-même en charge son diabète.
 
 ## Pour la personne elle-même
@@ -41,7 +41,7 @@ C'est ainsi pour la vie ou jusqu'à ce qu'une percée fulgurante de la science v
 
 ## Pour les adultes intervenants
 
-Nos enfants doivent également compter sur tout un réseau d'intervenants et d'intervenantes incroyables à longueure de journée.
+Nos enfants doivent également compter sur tout un réseau d'intervenants et d'intervenantes incroyables à longueur de journée.
 Lorsqu'ils sont à la garderie ou à l'école, le diabète ne reste pas à la maison...
 
 Toutes les personnes qui entourent nos garçons ont dûes être familiarisées et formées sur le diabète de type 1 ainsi qu'avec les méthodes et protocoles de traitements spécifiques à nos enfants.
@@ -56,7 +56,7 @@ Il n'empêche, apprendre un concept est différent de le vivre.
 Lorsqu'une hypoglycémie soudaine se déclenche, le stress que les membres du personnel vit est intense.
 Ce n'est pas une situation "normale" pour ces personnes qui ont à coeur le développement et l'épanouissement de nos enfants.
 
-Du côté de l'école, même si notre fils ainé est plus stable et que la majorité du personnel est maintenant très comfortable avec les concepts et les méthodologies de gestion liées au diabète de type 1, il n'en demeure pas moins que c'est une source de stress supplémentaire.
+Du côté de l'école, même si notre fils aîné est plus stable et que la majorité du personnel est maintenant très comfortable avec les concepts et les méthodologies de gestion liées au diabète de type 1, il n'en demeure pas moins que c'est une source de stress supplémentaire.
 Le personnel enseignant et de soutien a vraiment beaucoup à gérer dans le cadre scolaire quotidien, introduire une variable de cette nature de plus à songer n'est pas une mince affaire.
 
 Mais comme toujours, toutes ces personnes ont levé la main sans aucune hésitation et ont répondu "Présente!" lorsqu'est venu le temps de prendre soin de nos garçons.
@@ -64,11 +64,11 @@ Nous sommes tellement chanceux de pouvoir compter sur tous ces gens au quotidien
 
 ## Pour la famille
 
-Nous avons 3 enfants, les deux ainés étant maintenant diagnostiqués avec le diabete de type 1.
+Nous avons 3 enfants, les deux aînés étant maintenant diagnostiqués avec le diabete de type 1.
 Mais notre petit dernier, présentement âgé de 2 ans, doit lui aussi vivre avec le stress apporté par la condition de ses frères.
 
 Dans un scénario plus traditionnel, beaucoup d'attention doit être porté au plus jeune.
-Il est en effet moins autonome, communique moins efficacement que ces ainés, doit compte plus sur nous pour satisfaire ses besoins, etc.
+Il est en effet moins autonome, communique moins efficacement que ces aînés, doit compte plus sur nous pour satisfaire ses besoins, etc.
 Mais comme nous devons prendre beaucoup plus de temps à préparer et gérer les différentes composantes du diabètes (hypoglycémies, repas, routines du soir, etc.), il doit souvent attendre plus qu'à son tour, ce qui est une source de frustration pour quelqu'un devant faire plus d'efforts pour communiquer et avec une moins grande maturité émotionnelle.
 
 De plus, en grandissant, il est fort possible qu'il commence à ressentir des émotions négatives par rapport à l'attention portée à ses frères.
@@ -114,7 +114,7 @@ Nous avons donc préparé des gabarits pour que l'équipe de la cuisine puisse i
 On récolte le tout le soir et on transcrit les données dans notre chiffrier.
 
 Tout au long de la journée et de la nuit, nos deux garçons sont aussi à risque d'hypoglycémie et il faut donc continuellement être prêts à intervenir.
-Nous sommes chanceux de pouvoir compter sur le personel de l'école et du centre de la petite enfance pour s'occuper d'eux durant les jours de la semaine.
+Nous sommes chanceux de pouvoir compter sur le personnel de l'école et du centre de la petite enfance pour s'occuper d'eux durant les jours de la semaine.
 Mais il arrive fréquemment que nous devions nous lever en pleine nuit pour aller vérifier l'état de leur glycémie et parfois même intervenir.
 
 Malgré tous ces défis et le stress qu'ils nous procurent, je ne saurais dire à quel point nous aimons nos merveilleux garçons et combien nous sommes fiers d'eux!
