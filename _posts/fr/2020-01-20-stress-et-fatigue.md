@@ -9,17 +9,17 @@ excerpt_separator: <!--more-->
 ---
 Vivre avec une condition médicale est stressante et fatigante, pour la personne atteinte mais aussi pour tout son entourage.
 <!--more-->
-Lorsque notre fils aîné a été diagnostiqué avec le diabète de type 1 en 2018, il a fallu apporter beaucoup de changements à nos routines.
+Lorsque notre fils aîné a été diagnostiqué avec le diabète de type 1 en 2018, il a fallu apporter beaucoup de changements à nos routines familiales.
 Néanmoins, comme il était âgé de 8 ans, il ne lui a fallu qu'une journée pour être déjà capable de préparer et faire lui-même ses injections, sous notre supervision.
 
 Lorsque son jeune frère de 4 ans a été diagnostiqué en novembre 2019, la situation était quelque peu différente.
-Étant donné son jeune âge, il est presque totalement dépendant des adultes l'entourant malgré son grand désir de prendre lui-même en charge son diabète.
+Étant donné son jeune âge, il était presque totalement dépendant des adultes l'entourant, malgré son grand désir de prendre lui-même en charge son diabète.
 
 ## Pour la personne elle-même
 
 Si on considère nos vies d'adultes actives, force est de constater notre haut niveau de stress quotidien.
-Pour un enfant, il faut vivre avec les horaires imposés par les parents, par l'école, les activités parascolaires, etc.
-En ajoutant en plus le haut niveau de surveillance qu'apporte le diabète de type 1, il est évident que nos deux plus grands ont vue leur niveau de stress augmenter.
+Alors, si on s'arrête un instant pour considérer ce que vit à son tour un enfant, on réalise qu'il doit continuellement s'adapter aux horaires imposés par les parents, par l'école, les activités parascolaires, etc.
+En ajoutant en plus le haut niveau de surveillance qu'apporte le diabète de type 1, il est évident que nos deux plus grands ont vu leur niveau de stress augmenter.
 
 Non seulement on leur demande d'estimer avec le plus de précision possible ce qu'ils vont manger à chaque repas (pour pouvoir calculer les bonnes doses d'insulines), ils doivent maintenant être constamment à l'écoute de leur corps pour tenter de déceler des signes d'hypoglycémies.
 
