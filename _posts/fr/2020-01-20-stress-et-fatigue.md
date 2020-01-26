@@ -31,7 +31,7 @@ Imaginez devoir coller un objet d'un diamètre équivalent à un 2 dollars canad
 L'installation consiste à prendre un appareil doté d'une aiguille suffisamment grosse pour faire pénétrer une micro "paille" dans la peau.
 Puis, on recommence à la fin de vie de chaque capteur, soit entre 10 et 14 jours.
 
-Si la lecture par le capteur n'est pas suffisante, soit parce que celui-ci ne fonctionne pas ou encore que les symptômes semblent ne pas refléter la lecture, nos garçons doivent alors se piquer le doigt pour prendre une prise de sang.
+Si la lecture par le capteur n'est pas suffisamment claire, soit parce que celui-ci ne fonctionne pas correctement ou encore que les symptômes semblent ne pas refléter la lecture, nos garçons doivent alors se piquer le bout du doigt pour prendre une prise de sang.
 
 Et nous, les parents et bons anges-gardiens que nous sommes, allons prendre des lectures de glycémie durant la nuit afin de nous assurer qu'ils ne sont pas en situation d'hypoglycémie.
 S'ils le sont, il nous faut alors les réveiller et leur donner à manger, ce qui affecte nécessairement leur sommeil.
@@ -44,19 +44,20 @@ C'est ainsi pour la vie ou jusqu'à ce qu'une percée fulgurante de la science v
 Nos enfants doivent également compter sur tout un réseau d'intervenants et d'intervenantes incroyables à longueur de journée.
 Lorsqu'ils sont à la garderie ou à l'école, le diabète ne reste pas à la maison...
 
-Toutes les personnes qui entourent nos garçons ont dûes être familiarisées et formées sur le diabète de type 1 ainsi qu'avec les méthodes et protocoles de traitements spécifiques à nos enfants.
+Toutes les personnes qui entourent nos garçons ont dû être familiarisées et formées sur le diabète de type 1 ainsi qu'avec les méthodes et protocoles de traitements spécifiques à nos enfants.
 
 Au centre de la petite enfance où nos plus jeunes garçons vont, la cuisinière nous aide donc à bien calculer les glucides qui feront partie de ce que notre garçon de 4 ans va consommer comme repas.
 Nous avons établis un gabarit permettant de bien noter les informations et nous pouvons donc tout calculer le soir.
-(Pour le moment, notre garçon de 4 ans est sur régime "fixe", ce qui veut dire que le calcul est fait seulement en fonction du taux de sucre dans le sang et non par rapport aux glucides mangés directement.)
+(Pour le moment, notre garçon de 4 ans est sur un traitement d'insuline "fixe", ce qui veut dire que le calcul est fait seulement en fonction du taux de sucre dans le sang avant le repas et non par rapport aux glucides mangés directement.)
 
-L'éducatrice et toutes ses remplaçantes, la directrice générale et l'équipe de soutien ont toutes été formées et nous avons mis ensemble un protocole d'intervention avec des graphiques spécifiquement conçus pour notre fils.
+L'éducatrice et certaines de ses collègues désignées, la directrice générale et l'équipe de soutien ont toutes été formées et nous avons mis ensemble un protocole d'intervention avec des graphiques spécifiquement conçus pour notre fils.
+Elles sont réellement incroyables et ont relevé le défi d'accompagner notre fils, même jusqu'à apprendre à faire les injections avant le repas du midi puisqu'il est trop jeune pour le faire lui-même.
 
 Il n'empêche, apprendre un concept est différent de le vivre.
 Lorsqu'une hypoglycémie soudaine se déclenche, le stress que les membres du personnel vit est intense.
-Ce n'est pas une situation "normale" pour ces personnes qui ont à coeur le développement et l'épanouissement de nos enfants.
+Ce n'est pas une situation "normale" pour ces personnes qui ont à cœur le développement et l'épanouissement de nos enfants.
 
-Du côté de l'école, même si notre fils aîné est plus stable et que la majorité du personnel est maintenant très comfortable avec les concepts et les méthodologies de gestion liées au diabète de type 1, il n'en demeure pas moins que c'est une source de stress supplémentaire.
+Du côté de l'école, même si notre fils aîné est plus stable et que la majorité du personnel est maintenant beaucoup plus comfortable avec les concepts et les méthodologies de gestion liées au diabète de type 1, il n'en demeure pas moins que c'est une source de stress supplémentaire.
 Le personnel enseignant et de soutien a vraiment beaucoup à gérer dans le cadre scolaire quotidien, introduire une variable de cette nature de plus à songer n'est pas une mince affaire.
 
 Mais comme toujours, toutes ces personnes ont levé la main sans aucune hésitation et ont répondu "Présente!" lorsqu'est venu le temps de prendre soin de nos garçons.
@@ -68,15 +69,15 @@ Nous avons 3 enfants, les deux aînés étant maintenant diagnostiqués avec le 
 Mais notre petit dernier, présentement âgé de 2 ans, doit lui aussi vivre avec le stress apporté par la condition de ses frères.
 
 Dans un scénario plus traditionnel, beaucoup d'attention doit être porté au plus jeune.
-Il est en effet moins autonome, communique moins efficacement que ces aînés, doit compte plus sur nous pour satisfaire ses besoins, etc.
-Mais comme nous devons prendre beaucoup plus de temps à préparer et gérer les différentes composantes du diabètes (hypoglycémies, repas, routines du soir, etc.), il doit souvent attendre plus qu'à son tour, ce qui est une source de frustration pour quelqu'un devant faire plus d'efforts pour communiquer et avec une moins grande maturité émotionnelle.
+Il est en effet moins autonome, communique moins efficacement que ces aînés, doit compter plus sur nous pour satisfaire ses besoins, etc.
+Mais comme nous devons prendre beaucoup de temps à préparer et gérer les différentes composantes du diabètes (hypoglycémies, repas, routines du soir, etc.), il doit souvent attendre plus qu'à son tour, ce qui est une source de frustration pour quelqu'un devant faire plus d'efforts pour communiquer et avec une moins grande maturité émotionnelle.
 
-De plus, en grandissant, il est fort possible qu'il commence à ressentir des émotions négatives par rapport à l'attention portée à ses frères.
+De plus, en grandissant, il est possible qu'il commence à ressentir des émotions négatives par rapport à l'attention portée à ses frères.
 Il faudra donc porter une [grande attention](http://www.contact.ulaval.ca/article_magazine/5-besoins-de-fratrie-dun-enfant-malade/) à son développement émotionnel afin de l'accompagner dans son propre épanouissement.
 C'est également sans compter le stress qu'il pourrait vivre à l'idée de possiblement être diagnostiqué avec le diabète de type 1 à son tour.
-Il s'agit d'une possibilité que nous ne lui souhaitons pas.
+Il s'agit d'une possibilité que nous ne lui souhaitons pas mais qui pourrait tout de même être une source d'anxiété.
 
-Pour les grands-parents, les tantes et les oncles, la venue de cette nouvelle condition a nécessairement été un choc.
+Pour les grands-parents, les tantes et les oncles, l'arrivée de cette nouvelle condition a nécessairement été un choc.
 De savoir qu'une personne chère soit atteinte d'une maladie incurable est difficile et nous fait passer par toute une gamme d'émotions.
 
 Néanmoins, toute notre famille s'est relevé les manches et a pris les démarches nécessaire pour comprendre comment gérer la situation lorsque nos fils sont avec eux.
@@ -86,7 +87,7 @@ Ils le font tous avec amour et compassion.
 Mais ces efforts sont en plus de tout ce qu'ils faisaient déjà pour nos garçons.
 C'est une source de stress supplémentaire, même s'ils ne le voient pas ainsi.
 
-En plus d'être des grands-parents, des oncles et des tantes, ces personnes chères à nos coeurs sont maintenant également des intervenants dans la gestion du diabète de nos petits coeurs.
+En plus d'être des grands-parents, des oncles et des tantes, ces personnes chères à nos cœurs sont maintenant également des intervenants dans la gestion du diabète de nos petits cœurs.
 
 Les membres de notre famille sont précieux et nous ne serions pas capable de vivre aussi bien tous ses défis sans leur appui continu.
 
@@ -107,7 +108,7 @@ Le tout ajoute une quantité assez impressionnante d'étapes supplémentaires af
 Ce seront sensiblement les mêmes étapes pour tous les repas: déjeuner, dîner, souper.
 
 Les jours d'écoles, nous ne sommes pas avec notre plus vieux alors il nous faut préparer à l'avance une partie du calcul, selon ce que nous lui donneront comme repas.
-Il faut donc calculer le repas et préparer la feuille de calcul pour que le personnel de l'école puisse terminer le calcul de l'insuline.
+Il faut donc calculer les glucides du repas et préparer la feuille de calcul pour que le personnel de l'école puisse terminer le calcul de l'insuline.
 
 Du côté de son jeune frère, comme le calcul est plus simple pour le moment et que les repas sur place sont toujours préparés par la cuisine de l'établissement, il y a un peu moins de planification requise mais il faut néanmoins avoir une bonne notion de ce qu'il mange.
 Nous avons donc préparé des gabarits pour que l'équipe de la cuisine puisse inscrire exactement ce que notre garçon mange aux collations et au dîner.
