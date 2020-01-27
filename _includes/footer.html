@@ -2,7 +2,19 @@
   <div class="container">
     <span class="text-muted"><a target="_blank"
         href="https://github.com/gcharest/gcharest.github.io/tree/master/{{ page.path }}">{{ site.data.i18n.general.viewOnGithub[page.lang] }}</a></span>
-    <p class="text-muted" id="licence">{% include licence.html %}</p>
+    <p class="text-muted" id="licence">
+      {%- if page.licence -%}
+        {%- if page.licence == "ccbync" -%}
+          {%- include licence-nc.html -%}
+        {%- else -%}
+          {%- include licence.html -%}
+        {%- endif -%}
+      {%- elsif page.layout == "post" -%}
+        {%- include licence-nc.html -%}
+      {%- else -%}
+        {%- include licence.html -%}
+      {%- endif -%}
+    </p>
   </div>
 </footer>
 

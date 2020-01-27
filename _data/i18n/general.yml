@@ -74,15 +74,22 @@ construction:
 viewOnGithub:
   en: View on GitHub
   fr: Voir dans GitHub
-ccby1:
-  en: ©
-  fr: ©
-ccby2:
-  en: from
+copyright: © Guillaume Charest 2018-2020
+ccbyTitle:
+  en: Open Source Software & Diabetes
+  fr: Logiciels libres et Diabète
+ccbyIntro:
+  en: Except when indicated, the content on this page of
+  fr: Sauf si indiqué, le contenu de cette page de
+ccbyBy:
+  en: by
   fr: de
-ccby3:
-  en: Except where indicated, the content on this site is provided under the terms of the
-  fr: Sauf lorsqu'indiqué, le contenu de ce site est mis à disposition selon les termes de la
-ccby4:
+ccbyLicensedUnder:
+  en: is licensed under a
+  fr: est mis à disposition selon les termes de la
+ccbyLicense:
   en: Creative Commons Attribution 4.0 International licence
   fr: licence Creative Commons Attribution 4.0 International
+ccbyLicenseNC:
+  en:  Creative Commons Attribution-NonCommercial 4.0 International License
+  fr: licence Creative Commons Paternité - Pas d'Utilisation Commerciale 4.0 International
