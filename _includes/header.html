@@ -59,7 +59,9 @@
   
 <div class="jumbotron">
   <div class="container">
-    <h1 class="display-3">{{ site.data.i18n.general.title[page.lang] }}</h1>
+    <h1 class="display-4">{{ site.data.i18n.general.title[page.lang] }}</h1>
+    {%if page.ref == "home" %}
     <h2>{{ site.data.i18n.general.description[page.lang] }}</h2>
+    {% endif %}
   </div>
 </div>
