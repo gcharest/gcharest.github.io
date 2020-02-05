@@ -20,6 +20,8 @@ steps:
     displayName: "bundle install"
 
   - script: |
+      touch Gemfile.lock
+      chmod a+w Gemfile.lock
       bundle install
       jekyll build
     displayName: "jekyll"
