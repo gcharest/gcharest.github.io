@@ -223,3 +223,246 @@
             en: Tortillas, Wheat
             fr: Tortillas, blé
           factor: 0.52
+    - categorie:
+      name:
+        en: Prepared dishes
+        fr: Mets préparés
+      food:
+        - name:
+            en: Burrito, beef
+            fr: Burrito au boeuf
+          factor: 0.24
+        - name:
+            en: Lasagna, vegetarian
+            fr: Lasagne végétarienne
+          factor: 0.16
+        - name:
+            en: Lasagna, meat
+            fr: Lasagne à la viande
+          factor: 0.12
+        - name:
+            en: Macaroni and cheese
+            fr: Macaroni au fromage
+          factor: 0.22
+        - name:
+            en: Pie, chicken-pot
+            fr: Pâté au poulet
+          factor: 0.24
+        - name:
+            en: Pizza, cheese, thin-crust
+            fr: Pizza au fromage, croûte mince
+          factor: 0.27
+        - name:
+            en: Stew, beef and vegetable
+            fr: Mijoté de boeuf et légumes
+          factor: 0.06
+        - name:
+            en: Salad, coleslaw
+            fr: Salade de choux
+          factor: 0.11
+        - name:
+            en: Salad, potato
+            fr: Salade de patates
+          factor: 0.12
+        - name:
+            en: Shepherd's Pie (with corn aka Pâté chinois)
+            fr: Pâté chinois
+          factor: 0.12
+    - categorie:
+      name:
+        en: Fruits
+        fr: Fruits
+      food:
+        - name:
+            en: Apple, cored, seeded, not peeled
+            fr: Pomme, épépinée, avec la pelure
+          factor: 0.13
+        - name:
+            en: Apple, fresh, whole
+            fr: Pomme fraîche entière
+          factor: 0.11
+        - name:
+            en: Applesauce, unsweetened
+            fr: Compote de pomme sans sucre
+          factor: 0.10
+        - name:
+            en: Apricots, fresh
+            fr: Abricots, frais
+          factor: 0.09
+        - name:
+            en: Apricots, canned, light syrup
+            fr: Abricots en canne avec sirop léger
+          factor: 0.15
+        - name:
+            en: Apricots, dried, uncooked
+            fr: Abricots séchés, non-cuits
+          factor: 0.55
+        - name:
+            en: Banana, peeled
+            fr: Banane, pelée
+          factor: 0.21
+        - name:
+            en: Banana, whole, with peel
+            fr: Banane, entière avec la pelure
+          factor: 0.15
+        - name:
+            en: Blackberries, raw
+            fr: Mûres, crues
+          factor: 0.04
+        - name:
+            en: Blueberries, raw
+            fr: Bleuets, crus
+          factor: 0.12
+        - name:
+            en: Cherries, canned in water
+            fr: Cerises en conserve dans l'eau
+          factor: 0.10
+        - name:
+            en: Cherries, fresh, sour, whole
+            fr: Cerises sûres fraîches
+          factor: 0.10
+        - name:
+            en: Cherries, fresh, sweet, whole
+            fr: Cerises douces fraîches
+          factor: 0.15
+        - name:
+            en: Cherries Maraschino
+            fr: Cerises marasquin
+          factor: 0.39
+        - name:
+            en: Dates, dried and pited
+            fr: Dattes, séchées et dénoyautées
+          factor: 0.68
+        - name:
+            en: Fig, fresh
+            fr: Figues fraîches
+          factor: 0.16
+        - name:
+            en: Fig, dried
+            fr: Figues séchées
+          factor: 0.54
+        - name:
+            en: Fruit cocktail, canned in water
+            fr: Salad de fruit en conserve dans l'eau
+          factor: 0.08
+        - name:
+            en: Grapefruit, peeled
+            fr: Pamplemousse, épluché
+          factor: 0.07
+        - name:
+            en: Grapefruit, with peel
+            fr: Pamplemousse avec la pelure
+          factor: 0.04
+        - name:
+            en: Grapes, seedless
+            fr: Raisins épépinés
+          factor: 0.17
+        - name:
+            en: Grapes, with seeds
+            fr: Raisins avec pépins
+          factor: 0.15
+        - name:
+            en: Kiwi
+            fr: Kiwi
+          factor: 0.11
+        - name:
+            en: Lemon
+            fr: Citron
+          factor: 0.07
+        - name:
+            en: Lime
+            fr: Lime
+          factor: 0.08
+        - name:
+            en: Mango, sliced, cubed
+            fr: Mangue épluchée et en cube
+          factor: 0.15
+        - name:
+            en: Cantaloupe, peeled, seeded
+            fr: Cantaloup, pelée et épépinée
+          factor: 0.08
+        - name:
+            en: Cantaloupe, with peel and seeded
+            fr: Cantaloup, avec pelure et pépins
+          factor: 0.06
+        - name:
+            en: Honeydew, peeled, seeded
+            fr: Melon miel, pelé et épépinée
+          factor: 0.08
+        - name:
+            en: Honeydew, peeled, seeded
+            fr: Melon miel, avec pelure et pépins
+          factor: 0.09
+        - name:
+            en: Orange, peeled
+            fr: Orange pelée
+          factor: 0.10
+        - name:
+            en: Tangerine / Clementine, peeled
+            fr: Mandarine / Clémentine, pelée
+          factor: 0.12
+        - name:
+            en: Tangerine / Clementine, with peel
+            fr: Mandarine / Clémentine, avec pelure
+          factor: 0.09
+        - name:
+            en: Papaya, peeled, seeded
+            fr: Papaye, pelée et épépinée
+          factor: 0.08
+        - name:
+            en: Peach, whole, fresh
+            fr: Pêche fraîche entière
+          factor: 0.07
+        - name:
+            en: Peach, canned in juice
+            fr: Pêche en conserve dans le jus
+          factor: 0.10
+        - name:
+            en: Peach, canned in water
+            fr: Pêche en conserve dans l'eau
+          factor: 0.05
+        - name:
+            en: Pear, whole, fresh
+            fr: Poire fraîche entière
+          factor: 0.12
+        - name:
+            en: Pear, canned in juice
+            fr: Poire en conserve dans le jus
+          factor: 0.11
+        - name:
+            en: Pineapple, fresh, diced
+            fr: Ananas frais et coupés
+          factor: 0.11
+        - name:
+            en: Pineapple, canned in water
+            fr: Ananas en conserve dans l'eau
+          factor: 0.08
+        - name:
+            en: Pineapple, canned in juice
+            fr: Ananas en conserve dans le jus
+          factor: 0.15
+        - name:
+            en: Plum, fresh, whole
+            fr: Prune fraîche entière
+          factor: 0.11
+        - name:
+            en: Prunes, dried
+            fr: Prunes séchées
+          factor: 0.56
+        - name:
+            en: Raisins
+            fr: Raisins secs
+          factor: 0.77
+        - name:
+            en: Raspberries
+            fr: Framboises
+          factor: 0.06
+        - name:
+            en: Strawberries
+            fr: Fraises
+          factor: 0.05
+        - name:
+            en: Watermelon, cubed
+            fr: Melon d'eau en cube
+          factor: 
+
