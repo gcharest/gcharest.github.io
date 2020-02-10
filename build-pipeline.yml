@@ -12,7 +12,7 @@ pool:
 steps:
   - task: UseRubyVersion@0
     inputs:
-      versionSpec: ">= 2.5"
+      versionSpec: ">= 2.7"
 
   - script: |
       gem install jekyll bundler
@@ -20,8 +20,10 @@ steps:
     displayName: "bundle install"
 
   - script: |
+      touch Gemfile.lock
+      chmod a+w Gemfile.lock
       bundle install
-      jekyll build
+      bundle exec jekyll build
     displayName: "jekyll"
 
   - task: CopyFiles@2
