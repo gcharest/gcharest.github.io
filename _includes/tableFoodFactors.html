@@ -8,7 +8,7 @@
       <thead>
         <tr>
           <th>{{ site.data.i18n.tables.food[page.lang]}}</th>
-          <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+          <th colspan="2">{{ site.data.i18n.tables.factor[page.lang]}}</th>
           <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
           <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
         </tr>
@@ -39,13 +39,14 @@
         {% endfor %}
         {% endfor %}
         {% endfor %}
-        {% for recipe in site.data.diabetes.online_recipes %}
+        {% for recipes in site.data.diabetes.recipes %}
+        {% assign recipe = recipes[1] %}
         <tr>
           <td>
             <a href="{{ recipe.link[page.lang] }}">{{recipe.name[page.lang]}}</a>
           </td>
           <td>
-            {{ recipe.factor }}
+            <button class="fas fa-copy"></button>
           </td>
           <td>
             {{ site.data.i18n.tables.calculatedRecipe[page.lang] }}
