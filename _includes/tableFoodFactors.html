@@ -21,8 +21,11 @@
           <td>
             {{ food.name[page.lang] }}
           </td>
-          <td>
+          <td colspan="2" id="clip-{{food.factor}}">
             {{ food.factor }}
+          </td>
+          <td>
+            <button onclick="myFunction('clip-{{ food.factor }}')"><i class="far fa-copy"></i></button>
           </td>
           <td>
             {{ category.name[page.lang] }}
@@ -45,8 +48,11 @@
           <td>
             <a href="{{ recipe.link[page.lang] }}">{{recipe.name[page.lang]}}</a>
           </td>
+          <td colspan="2" id="clip-{{food.factor}}">
+            {{ food.factor }}
+          </td>
           <td>
-            {{ recipe.factor}}
+            <button onclick="myFunction('clip-{{ food.factor }}')"><i class="far fa-copy"></i></button>
           </td>
           <td>
             {{ site.data.i18n.tables.calculatedRecipe[page.lang] }}
