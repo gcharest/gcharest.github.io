@@ -15,21 +15,26 @@
         </tr>
       </thead>
       <tbody>
-        {% assign count = 0%}
-        {% for entry in site.data.diabetes.generic_food %}
-        {% for category in entry.source.categories %}
-        {% for food in category.food %}
-        {% assign count = count | plus: 1 %}
+        {%- assign count = 0 -%}
+        {%- for entry in site.data.diabetes.generic_food -%}
+        {%- for category in entry.source.categories -%}
+        {%- for food in category.food -%}
+        {%- assign count = count | plus: 1 -%}
         <tr>
           <td>
             {{ food.name[page.lang] }}
           </td>
           <td colspan="2">
-            {% assign factorID = "clip-" %}
+            {%- assign factorID = "clip-" -%}
+            {%- if page.lang == "fr" -%}
+            <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor | replace: ".", ","}}" readonly>
+            {%- else -%}
             <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor }}" readonly>
+            {%- endif -%}
           </td>
           <td>
-            <button onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
+            <button
+              onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
                 class="far fa-copy"></i></button>
           </td>
           <td>
@@ -44,22 +49,27 @@
             </a>
           </td>
         </tr>
-        {% endfor %}
-        {% endfor %}
-        {% endfor %}
-        {% for recipes in site.data.diabetes.recipes %}
-        {% assign count = count | plus: 1 %}
-        {% assign recipe = recipes[1] %}
+        {%- endfor -%}
+        {%- endfor -%}
+        {%- endfor -%}
+        {%- for recipes in site.data.diabetes.recipes -%}
+        {%- assign count = count | plus: 1 -%}
+        {%- assign recipe = recipes[1] -%}
         <tr>
           <td>
             <a href="{{ recipe.link[page.lang] }}">{{recipe.name[page.lang]}}</a>
           </td>
           <td colspan="2">
             {% assign factorID = "clip-" %}
-            <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor }}" readonly>
+            {%- if page.lang == "fr" -%}
+            <input type="text" id="{{ factorID | append: count }}" value="{{ recipe.factor | replace: ".", ","}}" readonly>
+            {%- else -%}
+            <input type="text" id="{{ factorID | append: count }}" value="{{ recipe.factor }}" readonly>
+            {%- endif-%}
           </td>
           <td>
-            <button onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
+            <button
+              onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
                 class="far fa-copy"></i></button>
           </td>
           <td>
