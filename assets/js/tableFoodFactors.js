@@ -66,7 +66,7 @@ $(document).ready(function () {
     return parametersValues;
   };
   
-  var groupColumn = 2;
+  var groupColumn = 3;
   var table = $('#tableFoodFactors').DataTable(parameters());
 
   // Order by the grouping
