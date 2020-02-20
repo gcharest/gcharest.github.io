@@ -11,6 +11,7 @@ $(document).ready(function () {
         [groupColumn, 'asc']
       ],
       "displayLength": 25,
+      "scrollX": true,
       "drawCallback": function (settings) {
         var api = this.api();
         var rows = api.rows({
