@@ -36,3 +36,6 @@ food:
 category:
   en: Category
   fr: Catégorie
+copiedValue:
+  en: "Copied the value: "
+  fr: "Copié la valeur: "
