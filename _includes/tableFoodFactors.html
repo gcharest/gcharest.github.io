@@ -9,23 +9,28 @@
         <tr>
           <th>{{ site.data.i18n.tables.food[page.lang]}}</th>
           <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
+          <th></th>
           <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
           <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
         </tr>
       </thead>
       <tbody>
+        {% assign count = 0%}
         {% for entry in site.data.diabetes.generic_food %}
         {% for category in entry.source.categories %}
         {% for food in category.food %}
+        {% assign count = count | plus: 1 %}
         <tr>
           <td>
             {{ food.name[page.lang] }}
           </td>
-          <td colspan="2" id="clip-{{food.factor}}">
-            {{ food.factor }}
+          <td colspan="2">
+            {% assign factorID = "clip-" %}
+            <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor }}" readonly>
           </td>
           <td>
-            <button onclick="myFunction('clip-{{ food.factor }}')"><i class="far fa-copy"></i></button>
+            <button onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
+                class="far fa-copy"></i></button>
           </td>
           <td>
             {{ category.name[page.lang] }}
@@ -43,16 +48,19 @@
         {% endfor %}
         {% endfor %}
         {% for recipes in site.data.diabetes.recipes %}
+        {% assign count = count | plus: 1 %}
         {% assign recipe = recipes[1] %}
         <tr>
           <td>
             <a href="{{ recipe.link[page.lang] }}">{{recipe.name[page.lang]}}</a>
           </td>
-          <td colspan="2" id="clip-{{food.factor}}">
-            {{ food.factor }}
+          <td colspan="2">
+            {% assign factorID = "clip-" %}
+            <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor }}" readonly>
           </td>
           <td>
-            <button onclick="myFunction('clip-{{ food.factor }}')"><i class="far fa-copy"></i></button>
+            <button onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
+                class="far fa-copy"></i></button>
           </td>
           <td>
             {{ site.data.i18n.tables.calculatedRecipe[page.lang] }}
