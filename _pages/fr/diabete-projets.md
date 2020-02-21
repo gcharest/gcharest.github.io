@@ -31,10 +31,6 @@ L'adulte responsable de l'accompagnement de l'enfant à l'école remplira les ca
 
 **[Version imprimable du canevas](../assets/docs/Canevas-Insuline.pdf)**
 
-Voici une courte présentation en version imprimable expliquant comment utiliser le canevas pour le calcul de l'insuline:
-
-**[Présentation du Calcul d'insuline](../assets/docs/Calcul-Insuline.pdf)**
-
 ### Outils
 
 (À venir)
