@@ -109,3 +109,7 @@ blockquote {
 table{
   width: 100% !important;
 }
+
+#tableFoodFactors th, td {
+white-space: nowrap;
+}
