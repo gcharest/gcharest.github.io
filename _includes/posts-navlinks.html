@@ -1,0 +1,16 @@
+{%- assign posts = site.posts | where:"lang", page.lang -%}
+{%- if posts.size > 1 -%}
+
+{%- for post in posts -%}
+
+{%- endfor -%}
+
+<div class="PageNavigation">
+{%- if prev -%}
+<a class="prev" href="{{post.previous.url}}">{{ site.data.i18n.general.prev[page.lang]}}: {{page.previous.title}}</a>
+{%- endif -%}
+{%- if next -%}
+<a class="next" href="{{post.next.url}}">{{ site.data.i18n.general.next[page.lang]}}: {{page.next.title}}</a>
+{%- endif -%}
+</div>
+{%- endif -%}
