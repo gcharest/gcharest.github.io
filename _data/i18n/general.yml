@@ -19,6 +19,12 @@ description:
 aPropos:
   en: About
   fr: À propos
+prev:
+  en: Previous
+  fr: Précédent
+next:
+  en: Next
+  fr: Suivant
 
 # Main
 
