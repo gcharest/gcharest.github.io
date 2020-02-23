@@ -1,16 +1,29 @@
-{%- assign posts = site.posts | where:"lang", page.lang -%}
-{%- if posts.size > 1 -%}
+{%- assign aPost = site.posts | where:"lang", page.lang -%}
+{%- assign aPost = aPost | sort %}
+{%- if aPost.size > 0 -%}
+{%- assign  counter = aPost.size -%}
 
-{%- for post in posts -%}
+    {%- for post in aPost -%}
+        {%- if post.ref == page.ref -%}
+            {%- unless forloop.first -%}
+                {%- assign prevPost_i = forloop.index0 | minus: 1 -%}
+                {%- assign prevPost = aPost[prevPost_i] -%}
+            {%- endunless -%}
+            {%- unless forloop.last -%}
+                {%- assign nextPost_i = forloop.index0 | plus: 1 -%}
+                {%- assign nextPost = aPost[nextPost_i] -%}
+            {%- endunless-%}
+        {%- endif -%}
+    {%- endfor -%}
 
-{%- endfor -%}
-
-<div class="PageNavigation">
-{%- if prev -%}
-<a class="prev" href="{{post.previous.url}}">{{ site.data.i18n.general.prev[page.lang]}}: {{page.previous.title}}</a>
-{%- endif -%}
-{%- if next -%}
-<a class="next" href="{{post.next.url}}">{{ site.data.i18n.general.next[page.lang]}}: {{page.next.title}}</a>
-{%- endif -%}
-</div>
+    <div class="PageNavigation">
+        {%- if prevPost -%}
+        <a class="prev" href="{{prevPost.url}}">{{ site.data.i18n.general.prev[page.lang]}}: {{prevPost.title}}</a>
+        {%- else -%}
+        <span class="pref"></span>
+        {%- endif -%}
+        {%- if nextPost -%}
+        <a class="next" href="{{nextPost.url}}">{{ site.data.i18n.general.next[page.lang]}}: {{nextPost.title}}</a>
+        {%- endif -%}
+    </div>
 {%- endif -%}
