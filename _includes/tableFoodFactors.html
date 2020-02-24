@@ -7,10 +7,10 @@
     <table class="display" id="tableFoodFactors">
       <thead>
         <tr>
-          <th>{{ site.data.i18n.tables.food[page.lang]}}</th>
-          <th>{{ site.data.i18n.tables.factor[page.lang]}}</th>
-          <th>{{ site.data.i18n.tables.category[page.lang]}}</th>
-          <th>{{ site.data.i18n.tables.source[page.lang]}}</th>
+          <th scope="col">{{ site.data.i18n.tables.food[page.lang]}}</th>
+          <th scope="col">{{ site.data.i18n.tables.factor[page.lang]}}</th>
+          <th scope="col">{{ site.data.i18n.tables.category[page.lang]}}</th>
+          <th scope="col">{{ site.data.i18n.tables.source[page.lang]}}</th>
         </tr>
       </thead>
       <tbody>
@@ -27,12 +27,16 @@
             <span class="table-factor">
               {%- assign factorID = "clip-" -%}
               {%- if page.lang == "fr" -%}
-              <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor | replace: ".", ","}}"
-                readonly>
+              <input type="text" aria-label="{{ site.data.i18n.tables.factor[page.lang] }}"
+                alt="{{ site.data.i18n.tables.factor[page.lang] }}" id="{{ factorID | append: count }}"
+                value="{{ food.factor | replace: ".", ","}}" readonly>
               {%- else -%}
-              <input type="text" id="{{ factorID | append: count }}" value="{{ food.factor }}" readonly>
+              <input type="text" aria-label="{{ site.data.i18n.tables.factor[page.lang] }}"
+                alt="{{ site.data.i18n.tables.factor[page.lang] }}" id="{{ factorID | append: count }}"
+                value="{{ food.factor }}" readonly>
               {%- endif -%}
-              <button
+              <button aria-label="{{ site.data.i18n.tables.copyValue[page.lang] }}"
+                alt="{{ site.data.i18n.tables.copyValue[page.lang] }}"
                 onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
                   class="far fa-copy"></i></button>
             </span>
@@ -63,12 +67,16 @@
             <span class="table-factor">
               {% assign factorID = "clip-" %}
               {%- if page.lang == "fr" -%}
-              <input type="text" id="{{ factorID | append: count }}" value="{{ recipe.factor | replace: ".", ","}}"
-                readonly>
+              <input type="text" aria-label="{{ site.data.i18n.tables.factor[page.lang] }}"
+                alt="{{ site.data.i18n.tables.factor[page.lang] }}" id="{{ factorID | append: count }}"
+                value="{{ recipe.factor | replace: ".", ","}}" readonly>
               {%- else -%}
-              <input type="text" id="{{ factorID | append: count }}" value="{{ recipe.factor }}" readonly>
+              <input type="text" aria-label="{{ site.data.i18n.tables.factor[page.lang] }}"
+                alt="{{ site.data.i18n.tables.factor[page.lang] }}" id="{{ factorID | append: count }}"
+                value="{{ recipe.factor }}" readonly>
               {%- endif-%}
-              <button
+              <button aria-label="{{ site.data.i18n.tables.copyValue[page.lang] }}"
+                alt="{{ site.data.i18n.tables.copyValue[page.lang] }}"
                 onclick="copyText('{{ factorID | append: count}}', '{{ site.data.i18n.tables.copiedValue[page.lang]}}')"><i
                   class="far fa-copy"></i></button>
             </span>
