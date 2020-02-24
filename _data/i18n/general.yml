@@ -4,6 +4,12 @@
 home:
   en: Home
   fr: Accueil
+homeNav:
+  en: Home button
+  fr: Bouton accueil
+toggleButton:
+  en: Toggle navigation
+  fr: Basculer la navigation
 index:
   en: home.html
   fr: index.html
