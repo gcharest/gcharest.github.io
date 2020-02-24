@@ -39,3 +39,6 @@ category:
 copiedValue:
   en: "Copied the value: "
   fr: "Copié la valeur: "
+copyValue:
+  en: "Copy the factor"
+  fr: "Copier le facteur"
