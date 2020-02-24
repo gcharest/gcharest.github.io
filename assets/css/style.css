@@ -86,6 +86,10 @@ body {
   background-color: #E2F3E7;
 }
 
+.container a {
+  color: #004FA8;
+}
+
 .footer a {
   color: #004FA8;
 }
