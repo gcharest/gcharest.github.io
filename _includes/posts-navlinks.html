@@ -16,14 +16,16 @@
         {%- endif -%}
     {%- endfor -%}
 
-    <div class="PageNavigation">
+    <div class="post-nav">
+        <p>
         {%- if prevPost -%}
-        <a class="prev" href="{{prevPost.url}}">{{ site.data.i18n.general.prev[page.lang]}}: {{prevPost.title}}</a>
-        {%- else -%}
-        <span class="pref"></span>
+        <a class="prev" href="{{prevPost.url}}" title="{{ prevPost.title }}">{{ site.data.i18n.general.prev[page.lang]}}: {{prevPost.title}}</a>
         {%- endif -%}
+        </p>
+        <p class="post-nav-next">
         {%- if nextPost -%}
-        <a class="next" href="{{nextPost.url}}">{{ site.data.i18n.general.next[page.lang]}}: {{nextPost.title}}</a>
+        <a class="next" href="{{nextPost.url}}" title="{{ nextPost.title }}">{{ site.data.i18n.general.next[page.lang]}}: {{nextPost.title}}</a>
         {%- endif -%}
+        </p>
     </div>
 {%- endif -%}
