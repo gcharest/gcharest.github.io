@@ -15,9 +15,9 @@
     <h2>{{ page.title }}</h2>
     {%- endif -%}
     {{ content }}
+    {% include notice.html %}
   </main>
 
-  {% include notice.html %}
   {% include footer.html %}
 
 </body>
