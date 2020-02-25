@@ -6,6 +6,7 @@ lang: fr
 status: posted
 permalink: apropos.html
 ---
+{%- include profile-picture.html -%}
 Comme je le mentionne en ouverture, j'ai conçu ce site dans le but de rassembler mes projets liées aux logiciels libres et diverses informations utiles pour la gestion du diabète de type 1 et de les rendre rapidement utilisables.
 Il y a de nombreuses ressources fiables disponibles sur le Web mais j'ai trouvé que celles-ci étaient parfois peu accessibles ou qu'elles n'étaient disponibles qu'en anglais.
 Mon objectif est donc de regrouper le tout dans un format qui soit facile à utiliser pour tous au quotidien.
