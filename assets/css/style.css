@@ -122,3 +122,16 @@ table{
 #tableFoodFactors th, td {
 white-space: nowrap;
 }
+
+/*Pictures*/
+#profile-picture {
+  padding: .5em;
+  float: right;
+  max-width: 25%;
+}
+
+@media (max-width: 800px) {
+  #profile-picture{
+    max-width: 45%;
+  }
+}
