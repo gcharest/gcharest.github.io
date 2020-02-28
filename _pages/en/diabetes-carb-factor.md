@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Carb Factors
+title: Carb Factors
 ref: facteur-glycémique
 lang: en
 sections: Diabetes
