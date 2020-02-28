@@ -9,13 +9,13 @@
 
   <main class="container">
     {%- if page.ref != "home" -%}
-    {% if page.layout == "post"%}
+    {%- if page.layout == "post" -%}
     {%- include posts-navlinks.html -%}
-    {% endif %}
+    {%- endif -%}
     <h2>{{ page.title }}</h2>
     {%- endif -%}
     {{ content }}
-    {% include notice.html %}
+    {%- include notice.html -%}
   </main>
 
   {% include footer.html %}
