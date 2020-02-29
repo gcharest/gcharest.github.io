@@ -1,13 +1,9 @@
 <footer class="footer">
   <div class="container">
     <div class="row">
-      <div class="col">
-      <span class="text-muted"><a target="_blank"
-          href="https://github.com/gcharest/gcharest.github.io/tree/master/{{ page.path }}">{{ site.data.i18n.general.viewOnGithub[page.lang] }}</a></span>
-          </div>
-    </div>
-    <div class="row">
       <div class="col-md">
+              <span class="text-muted"><a target="_blank"
+                  href="https://github.com/gcharest/gcharest.github.io/tree/master/{{ page.path }}">{{ site.data.i18n.general.viewOnGithub[page.lang] }}</a></span>
         <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="fas fa-rss">
@@ -15,22 +11,19 @@
             <span>{{site.data.i18n.general.subscribe[page.lang]}}</span>
           </a>
         </p>
-        <ul>
-
-        </ul>
       </div>
       <div class="col-md">
         <p class="text-muted" id="licence">
           {%- if page.licence -%}
-          {%- if page.licence == "ccbync" -%}
-          {%- include licence-nc.html -%}
-          {%- else -%}
-          {%- include licence.html -%}
-          {%- endif -%}
+            {%- if page.licence == "ccbync" -%}
+              {%- include licence-nc.html -%}
+            {%- else -%}
+              {%- include licence.html -%}
+            {%- endif -%}
           {%- elsif page.layout == "post" -%}
-          {%- include licence-nc.html -%}
+            {%- include licence-nc.html -%}
           {%- else -%}
-          {%- include licence.html -%}
+            {%- include licence.html -%}
           {%- endif -%}
         </p>
       </div>
