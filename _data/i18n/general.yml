@@ -19,8 +19,11 @@ language:
 title:
   en: Open Source Software & Diabetes
   fr: Logiciels libres & Diabète
+subTitle:
+  en: Resources and Blog Posts
+  fr: Ressources et billets
 description:
-  en: Resources and blog posts
+  en: Resources and Blog Posts
   fr: Ressources et billets
 aPropos:
   en: About
@@ -108,6 +111,9 @@ ccbyLicense:
 ccbyLicenseNC:
   en:  Creative Commons Attribution-NonCommercial 4.0 International License
   fr: licence Creative Commons Paternité - Pas d'Utilisation Commerciale 4.0 International
+subscribe:
+  en: Subscribe
+  fr: S'abonner
 
   # About
 
