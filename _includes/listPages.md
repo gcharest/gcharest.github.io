@@ -1,12 +1,10 @@
-### {{ site.data.i18n.general.topicsTitle[page.lang] }}
-
 {% assign sections = site.data.i18n.general.sectionsList[page.lang] %}
 {% for section in sections %}
 {% assign aPage = site.pages | where:"sections", section | where:"lang", page.lang | sort: "title" %}
 
 {%- if aPage.size > 0 -%}
 
-#### {{ section }}
+### {{ section }}
 
 <ul>
   {%- for page in aPage -%}
