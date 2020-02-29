@@ -71,7 +71,8 @@ body {
 }
 
 #licence {
-  line-height: 2;
+  line-height: 1.5;
+  padding-top: 1.5rem;
 }
 
 /*Navigation links for accessibility*/
@@ -85,6 +86,7 @@ body {
 }
 
 .alert-success {
+  margin-top: 1rem;
   background-color: #E2F3E7;
 }
 
