@@ -8,14 +8,30 @@
   {% include header.html %}
 
   <main class="container">
-    {%- if page.ref != "home" -%}
-    {%- if page.layout == "post" -%}
-    {%- include posts-navlinks.html -%}
+    <div class="row">
+      <div class="col">
+        {%- if page.ref != "home" -%}
+        {%- if page.layout == "post" -%}
+        {%- include posts-navlinks.html -%}
+        {%- endif -%}
+        <h2>{{ page.title }}</h2>
+        {%- endif -%}
+      </div>
+    </div>
+    {%- if page.ref != "facteur-glycémique"-%}
+    <div class="row">
+      <div class="col">
+        {{ content }}
+      </div>
+    </div>
+    {%- else -%}
+    {{ content}}
     {%- endif -%}
-    <h2>{{ page.title }}</h2>
-    {%- endif -%}
-    {{ content }}
-    {%- include notice.html -%}
+    <div class="row">
+      <div class="col">
+        {%- include notice.html -%}
+      </div>
+    </div>
   </main>
 
   {% include footer.html %}
