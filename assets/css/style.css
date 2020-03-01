@@ -121,6 +121,10 @@ table{
   width: 100% !important;
 }
 
+#tableFoodFactors_wrapper {
+  padding: 1rem 0;
+}
+
 #tableFoodFactors th, td {
 white-space: nowrap;
 }
