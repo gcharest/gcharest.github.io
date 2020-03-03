@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Calculating a recipe's carb factor
+title: Calculating a recipe's carb factor
 ref: calcul-facteur-glycémique
 lang: en
 sections: Diabetes

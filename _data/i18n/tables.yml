@@ -2,15 +2,15 @@
 recipe:
   fr: Recette
   en: Recipe
-calculatedRecipe:
-  fr: Recettes calculées
-  en: Calculated Recipes
+recipes:
+  fr: Recettes
+  en: Recipes
 author:
   fr: Auteur/Auteure
   en: Author
 factor:
-  fr: Facteur glycémique*
-  en: Glycemic Ratio*
+  fr: Facteur glycémique
+  en: Carb Factor
 source:
   fr: Source
   en: Source
@@ -27,6 +27,12 @@ sourceType:
   document:
     fr: Document
     en: Document
+  calculatedRecipe:
+    en: Calculated Recipes
+    fr: Recettes calculées
+  external:
+    en: External
+    fr: Externe
 notes:
   fr: Notes
   en: Notes

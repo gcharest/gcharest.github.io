@@ -6,7 +6,7 @@
 
 # Site settings
 baseurl: ""
-url: "https://gcharest.github.io/"
+url: "https://www.gcharest.ca/"
 
 # Build settings
 markdown: kramdown
