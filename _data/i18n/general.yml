@@ -115,8 +115,10 @@ subscribe:
   en: Subscribe
   fr: S'abonner
 
-# About
-
+# About/Meta
+pathDefaultOpenGraphImage:
+  en: /assets/images/open-graph/oss-diabetes-default-en.png
+  fr: /assets/images/open-graph/oss-diabetes-default-fr.png
 profilePicture:
   en: Profile picture
   fr: Photo de profil
