@@ -45,12 +45,7 @@
             {{ category.name[page.lang] }}
           </td>
           <td>
-            <a href="{{ entry.source.URL[page.lang]}}">{{ entry.source.name[page.lang] }}
-              {%- if entry.source.type == "PDF"-%}
-              {%- assign suffix = " (PDF)" -%}
-              {{ suffix }}
-              {%- endif -%}
-            </a>
+            {{ site.data.i18n.tables.sourceType.external[page.lang] }}
           </td>
         </tr>
         {%- endfor -%}
@@ -82,10 +77,10 @@
             </span>
           </td>
           <td>
-            {{ site.data.i18n.tables.calculatedRecipe[page.lang] }}
+            {{ site.data.i18n.tables.recipes[page.lang] }}
           </td>
           <td>
-            {{ recipe.author }}
+            {{ site.data.i18n.tables.sourceType.calculatedRecipe[page.lang] }}
           </td>
         </tr>
         {% endfor%}
