@@ -1,0 +1,28 @@
+<button class="btn btn-primary" type="button" data-toggle="modal" data-target="#avis-facteurs" aria-expanded="false"
+    aria-controls="avis-facteurs">
+    {{ site.data.i18n.general.noticeButton[page.lang] }}
+</button>
+<div class="modal fade" id="avis-facteurs" tabindex="-1" role="dialog" aria-labelledby="avis-facteurLongModal"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">{{ site.data.i18n.general.noticeButton[page.lang] }}</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>{{ site.data.i18n.general.noticeIntro[page.lang] }}</p>
+                <ul>
+                    <li>{{ site.data.i18n.general.noticeSource1[page.lang] }}</li>
+                    <li>{{ site.data.i18n.general.noticeSource2[page.lang] }}</li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
