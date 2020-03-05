@@ -116,9 +116,16 @@ subscribe:
   fr: S'abonner
 
 # About/Meta
-pathDefaultOpenGraphImage:
+openGraphDefaultImagePath:
   en: /assets/images/open-graph/oss-diabetes-default-en.jpg
   fr: /assets/images/open-graph/oss-diabetes-default-fr.jpg
+openGraphDefaultImageType: jpeg
+openGraphDefaultImageWidth: 1200px
+openGraphDefaultImageHeight: 627px
+openGraphDefaultImageAlt:
+  en: White text on blue background; Open Source software and Diabetes, resources and blog posts
+  fr: Texte blanc sur arrière-fond bleu; Logiciels libres et diabète, ressources et billets
+
 profilePicture:
   en: Profile picture
   fr: Photo de profil
