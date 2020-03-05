@@ -32,7 +32,6 @@ Et je tiens d'ailleurs à préciser que je ne suis pas un spécialiste en matiè
 En revanche, je suis un professionnel des technologies et me tourner vers celles-ci est un réflexe rassurant dans cette transition personnelle et familiale.
 De plus, ce site est créé de façon ouverte et est généré automatiquement à partir du contenu situé dans ce [dépôt de projet](https://github.com/gcharest/gcharest.github.io)!
 
-
 Je tiendrai également une liste des projets de logiciels libres qui semblent intéressants à suivre.
 J'ai déjà réuni quelques-uns de ceux-ci et ils semblent tous être organisés en fonction de sauvegarder l'information plutôt que de faciliter la planification proactive, surtout au niveau de la gestion de la diète conjointement avec le traitement de la personne diabétique.
 Il y a peut-être une opportunité d'amener la communauté à améliorer cette dimension.
