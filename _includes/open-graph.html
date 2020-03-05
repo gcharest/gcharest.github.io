@@ -24,7 +24,12 @@
 <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-<meta content="{{ site.url }}/assets/images/posts/{{ page.image }}" property="og:image">
+<meta property="og:image" content="{{ site.url }}/assets/images/posts/{{ page.image }}">
+<meta property="og:image:secure_url" content="{{ site.url }}/assets/images/posts/{{ page.image }}">
+<meta property="og:image:type" content="image/{{ page.imageType }}">
+<meta property="og:image:width" content="{{ page.imageWidth }}">
+<meta property="og:image:height" content="{{ page.imageHeight }}">
+<meta property="og:image:alt" content="{{ page.imageAlt }}">
 {% else %}
 <meta content="{{site.url}}{{ site.data.i18n.general.pathDefaultOpenGraphImage[page.lang] }}" property="og:image">
 {% endif %}
