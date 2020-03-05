@@ -117,8 +117,8 @@ subscribe:
 
 # About/Meta
 pathDefaultOpenGraphImage:
-  en: /assets/images/open-graph/oss-diabetes-default-en.png
-  fr: /assets/images/open-graph/oss-diabetes-default-fr.png
+  en: /assets/images/open-graph/oss-diabetes-default-en.jpg
+  fr: /assets/images/open-graph/oss-diabetes-default-fr.jpg
 profilePicture:
   en: Profile picture
   fr: Photo de profil
