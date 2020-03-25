@@ -6,14 +6,15 @@
 
 ### {{ section }}
 
-<ul>
+<ul class="list-group list-group-flush">
   {%- for page in aPage -%}
-    <li>
-      <strong>
+    <li class="list-group-item">
+      <h4>
         <a href="{{ page.url | relative_url }}">
           {{ page.title | escape }}
         </a>
-      </strong>
+      </h4>
+      {{ page.description }}
     </li>
   {%- endfor -%}
 </ul>
