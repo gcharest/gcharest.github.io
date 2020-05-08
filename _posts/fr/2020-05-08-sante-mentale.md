@@ -11,7 +11,7 @@ Malgré les campagnes de sensibilisations au travail sur la santé mentale, les 
 On se dit souvent: "Ça arrive aux autres, j'ai les choses bien en mains".
 Enfin, c'est ce que je pensais...
 <!--more-->
-Comme l'indique ce site et mon premier billet, mon fils ainé a été diagnostiqué avec le diabète de type 1 en novembre 2019.
+Comme l'indique ce site et mon premier billet, mon fils aîné a été diagnostiqué avec le diabète de type 1 en novembre 2019.
 Immédiatement, nous sommes entrés en mode "solution".
 Je me suis mis à designer des outils pour nous faciliter la vie.
 
@@ -22,7 +22,7 @@ Il fallait accepter que nous ne pourrions plus faire les choses exactement comme
 Qu'il allait falloir se lever la nuit, pas pour rendormir un bébé mais pour gérer une hypoglycémie ou une hyperglycémie de notre grand garçon, en attendant qu'il doive à son tour prendre en charge cette condition si envahissante et méconnue.
 (En effet, beaucoup de gens confondent diabète de type 1 et de type 2)
 
-Puis, un an après notre ainé, son frère est à son tour diagnostiqué.
+Puis, un an après notre aîné, son frère est à son tour diagnostiqué.
 
 Encore une fois, on se dit: "Bon, on sait très bien comment ça se passe, on est des pros!".
 
