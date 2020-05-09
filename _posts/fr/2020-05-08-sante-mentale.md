@@ -23,19 +23,15 @@ Qu'il allait falloir se lever la nuit, pas pour rendormir un bébé mais pour g�
 (En effet, beaucoup de gens confondent diabète de type 1 et de type 2)
 
 Puis, un an après notre aîné, son frère est à son tour diagnostiqué.
-
 Encore une fois, on se dit: "Bon, on sait très bien comment ça se passe, on est des pros!".
-
 Enfin, c'est ce que je me disais...
 
 La vérité est que ça commence à faire beaucoup de gestion supplémentaire et de pression sur tout le monde (parents et enfants).
-
 Au lieu de peser les assiettes et calculer les glucides d'un seul enfant avant le repas, il faut désormais le faire pour deux des garçons sur trois.
 Et le petit dernier n'y comprend pas grand-chose à 2 ans.
 Alors, c'est de plus en plus stressant.
 
 Finalement, 3 mois plus tard, mon père décède.
-
 Lorsque j'ai pris congé pour gérer la situation et vivre le deuil de son départ, je suis resté en contact avec mes amis et collègues du travail.
 Je les connais depuis longtemps et ça m'a fait du bien de pouvoir les côtoyer malgré les événements.
 
@@ -48,7 +44,6 @@ D'arrêter de travailler pendant quelques semaines, ce que j'avoue avoir de la d
 
 Comme je devais commencer à me déconnecter, j'ai tout coupé.
 Réseaux sociaux, plateformes de communication et de messagerie, etc.
-
 En temps normal, j'aurais probablement noté le "vide" créé dans mon quotidien.
 La diminution drastique de notifications.
 Le manque d'interaction avec tant de personnes passionnées et passionnantes!
@@ -59,7 +54,6 @@ Tout le monde ou presque s'est retrouvé obligé de rester confiner à la maison
 Sacrée pandémie...
 
 Et ça incluait mes propres garçons!
-
 Coups sur coups, je suis passé de quelqu'un plein d'adrénaline en "mode solution" à quelqu'un devant prendre du recul et du temps pour soi tout en s'occupant à temps plein du développement scolaire et éducatif de ses trois enfants.
 En plus de devoir m'occuper de leur gestion du diabète 24 heures sur 24.
 
