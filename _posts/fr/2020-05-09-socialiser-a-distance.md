@@ -25,6 +25,8 @@ Puis, on ajout un mot de passe au besoin et voilà, votre vidéoconférence roul
 
 La qualité vidéo et audio était relativement bonne, bien que sujette à la vitesse de votre machine et de votre réseau personnel.
 
+Avec une chaise, quelques boîtes de carton, un écran d'ordinateur et un portable, on a fini par avoir une configuration nous permettant de voir tout le monde à côté de la table à manger pour le souper!
+
 Au final, nous étions 6 ménages en direct et malgré quelques petites anicroches possiblement liées à la préconfiguration des ordinateurs de chacun, nous avons réussis à célébrer un anniversaire à distance!
 
-C'est définitivement un anniversaire qui marquera nos garçons!
+C'est définitivement un anniversaire dont les garçons se souviendront!
