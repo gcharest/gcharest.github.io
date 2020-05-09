@@ -13,7 +13,7 @@ Mais doit-on pour autant nous abandonner au monde des logiciels propriétaires?
 Pas forcément!
 <!--more-->
 En effet, j'ai entendu parler par de nombreux groupes de services propriétaires de vidéoconférence.
-Même les cours d'arts martiaux de mon fils ainé ont été transposés sur une des plateformes les plus populaires.
+Même les cours d'arts martiaux de mon fils aîné ont été transposés sur une des plateformes les plus populaires.
 
 De mon côté, j'ai utilisé le service en ligne gratuit et libre [Jitsi](https://meet.jit.si/) pour organiser à distance l'anniversaire de notre garçon de 5 ans avec la famille.
 
@@ -27,6 +27,6 @@ La qualité vidéo et audio était relativement bonne, bien que sujette à la vi
 
 Avec une chaise, quelques boîtes de carton, un écran d'ordinateur et un portable, on a fini par avoir une configuration nous permettant de voir tout le monde à côté de la table à manger pour le souper!
 
-Au final, nous étions 6 ménages en direct et malgré quelques petites anicroches possiblement liées à la préconfiguration des ordinateurs de chacun, nous avons réussis à célébrer un anniversaire à distance!
+Au final, nous étions 6 ménages en direct et malgré quelques petites anicroches possiblement liées à la pré-configuration des ordinateurs de chacun, nous avons réussis à célébrer un anniversaire à distance!
 
 C'est définitivement un anniversaire dont les garçons se souviendront!
