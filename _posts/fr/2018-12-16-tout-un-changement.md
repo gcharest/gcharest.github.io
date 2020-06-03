@@ -28,4 +28,4 @@ En tant que parents, en attendant que notre fils soit complètement autonome, il
 
 Calculer la quantité exacte de sucre ingérée dans un repas demande une certaine minutie et une méthode de calcul précise pour pouvoir administrer la bonne dose d'insuline. Il faut également prendre de nombreuses notes (taux de sucre dans le sang, quantité de sucre aux repas, insuline administrée, etc.) afin de pouvoir fournir de l'information pertinente à l'équipe médicale pour l'ajustement du traitement en fonction du corps de mon fils.
 
-Afin de nous aider à mieux gérer les calculs répétés, j'ai créé une [liste des recettes]({{ site.baseurl }}/recettes-facteur-glycemique.html) que nous faisons souvent avec un facteur glycémique approximatif. J'y explique également la méthode utilisée pour faire le calcul des recettes.
+Afin de nous aider à mieux gérer les calculs répétés, j'ai créé une [liste des recettes]({{ site.baseurl }}/diabete/facteurs-glucidiques.html) que nous faisons souvent avec un facteur glucidique approximatif. J'y explique également la méthode utilisée pour faire le calcul des recettes.
