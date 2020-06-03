@@ -3,9 +3,8 @@ layout: default
 title: Facteurs glycémiques
 ref: facteur-glycémique
 lang: fr
-sections: Diabète
 permalink: diabete/facteurs-glycemiques.html
+redirect: diabete/facteurs-glycemiques.html
+redirect_to: diabete/facteurs-glycemiques.html
 ---
-{% include important-notice-factors.html %}
-
-{% include tableFoodFactors.html %}
+{% include page-redirect.md %}

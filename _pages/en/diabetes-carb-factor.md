@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carb Factors
-ref: facteur-glycémique
+ref: facteurs-glucidiques
 lang: en
 sections: Diabetes
 permalink: diabetes/carb-factor.html
