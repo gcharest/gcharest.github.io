@@ -143,10 +143,10 @@ noticeButton:
   fr: Avis important
 noticeIntro:
   en: "In the table below, I've gathered carb factor data from two types of sources"
-  fr: "Dans le tableau ici-bas, j'ai rassemblé des valeurs de facteur glycémique provenant de deux types de sources"
+  fr: "Dans le tableau ici-bas, j'ai rassemblé des valeurs de facteur glucidique provenant de deux types de sources"
 noticeSource1:
   en: "Certain data found in the table are from external sources and, as such, are under their respective sources' copyright. When that is the case, the source will be identified in the table."
   fr: "Certaines données trouvées dans le tableau proviennent de sources externes que je considère fiables et sont par conséquent sous leur droit d'auteur respectif. Lorsque c'est le cas, les sources seront indiquées dans le tableau."
 noticeSource2:
   en: "The other data is for recipes I have calculated myself. They are approximative and may vary based on quantities used. They are offered without any guarantee of exactitude. See the page Calculating a recipe's carb factor for more information on the method used to obtain the factor values. All other glycemic factors have their source identified as well for you to validate."
-  fr: "Les autres données sont pour des recettes que nous faisons à la maison et pour lesquelles j'ai calculé le facteur glycémique. Ces facteurs sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes; ils sont donc offerts sans garanties d'exactitude. Voir la page Calcul du facteur glycémique de recettes pour plus de détails sur la méthode utilisée pour calculer les valeurs des facteurs."
+  fr: "Les autres données sont pour des recettes que nous faisons à la maison et pour lesquelles j'ai calculé le facteur glucidique. Ces facteurs sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes; ils sont donc offerts sans garanties d'exactitude. Voir la page Calcul du facteur glucidique de recettes pour plus de détails sur la méthode utilisée pour calculer les valeurs des facteurs."

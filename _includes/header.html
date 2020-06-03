@@ -31,7 +31,7 @@
       {%- endif -%}
       {%- endfor -%}
 
-      {%- assign pages=site.pages | where:"ref", "facteur-glycémique" | sort: 'lang' -%}
+      {%- assign pages=site.pages | where:"ref", "facteurs-glucidiques" | sort: 'lang' -%}
       {%- for my_page in pages -%}
       {% if my_page.lang == page.lang %}
       <li class="nav-item"><a class="nav-link" lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}"
