@@ -3,7 +3,6 @@ layout: default
 title:  Calcul du facteur glycémique de recettes
 ref: calcul-facteur-glycémique
 lang: fr
-sections: Diabète
 permalink: diabete/calcul-facteur-glycemique.html
 redirect_to: diabete/calcul-facteur-glucidique.html
 ---
