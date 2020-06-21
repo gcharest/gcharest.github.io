@@ -1,19 +1,20 @@
 ---
-name:
-  en: Montreal Children's Hospital - McGill University Health Center
-  fr: Hôpital de Montréal pour enfants - Centre universitaire de santé McGill
-sourceType: onlinePDF
-URL:
-  en: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
-  fr: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
-date:
-  access: 2019-12-20
-categories:
-  - categorie:
+source:
+  name:
+    en: Montreal Children's Hospital - McGill University Health Center
+    fr: Hôpital de Montréal pour enfants - Centre universitaire de santé McGill
+  sourceType: onlinePDF
+  URL:
+    en: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
+    fr: https://www.thechildren.com/sites/default/files/PDFs/Diabetes/carb_factors_for_various_foods_pt.pdf
+  date:
+    access: 2019-12-20
+  categories:
+  - category:
     name:
       en: Beverages
       fr: Breuvages
-    food:
+    food_list:
       - name:
           en: Soft Drinks
           fr: Boissons gazeuses
@@ -34,11 +35,11 @@ categories:
           en: Fruit Punch
           fr: Punch aux fruits
         factor: 0.13
-  - categorie:
+  - category:
     name:
       en: Alcoholic Beverages
       fr: Breuvages alcoolisés
-    food:
+    food_list:
       - name:
           en: Beer, de-alcoholized
           fr: Bière désalcoolisée
@@ -59,11 +60,11 @@ categories:
           en: Wine, Sweet
           fr: Vin, Sucré
         factor: 0.14
-  - categorie:
+  - category:
     name:
       en: Cereal, cold, ready-to-eat
       fr: Céréales, froides, prêtes à manger
-    food:
+    food_list:
       - name:
           en: All Bran
           fr: All Bran
@@ -100,11 +101,11 @@ categories:
           en: Special K
           fr: Special K
         factor: 0.74
-  - categorie:
+  - category:
     name:
       en: Cereal, hot, cooked in water
       fr: Céréales, froides, prêtes à manger
-    food:
+    food_list:
       - name:
           en: Oatmeal, minute
           fr: Gruau, minute
@@ -113,18 +114,18 @@ categories:
           en: Cream of Wheat, quick
           fr: Crème de maïs, rapide
         factor: 0.10
-  - categorie:
+  - category:
     name:
       en: Grains and Cereals
       fr: Grains et céréales
-    food:
+    food_list:
       - name:
           en: Bagel
           fr: Bagel
         factor: 0.51
       - name:
           en: Bread, Crumbs
-          fr: Chapelure
+          fr: Chapelure 
         factor: 0.67
       - name:
           en: Bread, French
@@ -203,7 +204,7 @@ categories:
           fr: Riz sauvage, cuit
         factor: 0.42
       - name:
-          en: Pasta, Cooked, Plain
+          en: Pasta, Cooked, Plain 
           fr: Pâtes cuites, sans sauce
         factor: 0.26
       - name:
@@ -222,11 +223,11 @@ categories:
           en: Tortillas, Wheat
           fr: Tortillas, blé
         factor: 0.52
-  - categorie:
+  - category:
     name:
       en: Prepared dishes
       fr: Mets préparés
-    food:
+    food_list:
       - name:
           en: Burrito, beef
           fr: Burrito au boeuf
@@ -267,11 +268,11 @@ categories:
           en: Shepherd's Pie (with corn aka Pâté chinois)
           fr: Pâté chinois
         factor: 0.12
-  - categorie:
+  - category:
     name:
       en: Fruits
       fr: Fruits
-    food:
+    food_list:
       - name:
           en: Apple, cored, seeded, not peeled
           fr: Pomme, épépinée, avec la pelure
