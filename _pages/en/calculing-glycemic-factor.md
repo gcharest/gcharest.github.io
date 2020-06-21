@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calculating a recipe's glycemic factor
-ref: calcul-facteur-glycémique
+ref: calcul-facteur-glucidique
 lang: en
 permalink: calculating-glycemic-factor.html
 redirect: diabetes/calculating-glycemic-factor.html
