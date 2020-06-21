@@ -15,9 +15,10 @@
       </thead>
       <tbody>
         {%- assign count = 0 -%}
-        {%- for entry in site.data.diabetes.generic_food -%}
+        {%- for data_file in site.data.diabetes.generic_food -%}
+        {%- assign entry = data_file[1] -%}
         {%- for category in entry.source.categories -%}
-        {%- for food in category.food -%}
+        {%- for food in category.food_list -%}
         {%- assign count = count | plus: 1 -%}
         <tr>
           <td>
