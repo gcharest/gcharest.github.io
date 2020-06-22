@@ -465,3 +465,205 @@ source:
           en: Watermelon, cubed
           fr: Melon d'eau en cube
         factor: 0.07
+  - category:
+    name:
+      en: Juice
+      fr: Jus
+    food_list:
+      - name:
+          en: Apple Juice
+          fr: Jus de pommes
+        factor: 0.12
+      - name:
+          en: Apple Cider
+          fr: Cidre de pommes
+        factor: 0.14
+      - name:
+          en: Apricot, Nectar
+          fr: Nectar d'abricot
+        factor: 0.14
+      - name:
+          en: Carrot
+          fr: Carrotte
+        factor: 0.08
+      - name:
+          en: Cranberry, Cocktail
+          fr: Cocktail de canneberges
+        factor: 0.14
+      - name:
+          en: Grape, frozen from concentrate
+          fr: Raisin, glacé, concentré
+        factor: 0.13
+      - name:
+          en: Grape, Bottled
+          fr: Raisin, en bouteille
+        factor: 0.15
+      - name:
+          en: Grapefruit, fresh or canned, unsweet
+          fr: Pamplemousse, frais ou en canne, non sucré
+        factor: 0.09
+      - name:
+          en: Grapefruit, from frozen / with orange
+          fr: Pamplemousse, glacé / avec orange
+        factor: 0.10
+      - name:
+          en: Lemon Fresh
+          fr: Citron frais
+        factor: 0.09
+      - name:
+          en: Lemonade, from concentrate
+          fr: Limonade, concentré
+        factor: 0.10
+      - name:
+          en: Orange, all types, unsweetened
+          fr: Orange, non-sucré
+        factor: 0.10
+      - name:
+          en: Orange, Canned, unsweetened
+          fr: Orange, en canne, non-sucré
+        factor: 0.10
+      - name:
+          en: Papaya
+          fr: Papaye
+        factor: 0.12
+      - name:
+          en: Pineapple, canned
+          fr: Ananas, en canne
+        factor: 0.14
+      - name:
+          en: Prune
+          fr: Prune
+        factor: 0.16
+      - name:
+          en: Tomato
+          fr: Tomate
+        factor: 0.04
+      - name:
+          en: V-8
+          fr: V-8
+        factor: 0.04
+  - category:
+    name:
+      en: Vegetables and Legumes
+      fr: Légumes et Légumineuses
+    food_list:
+      - name:
+          en: Artichoke, hearts
+          fr: Coeur d'artichauts
+        factor: 0.06
+      - name:
+          en: Asparagus
+          fr: Asperge
+        factor: 0.02
+      - name:
+          en: Avocado
+          fr: Avocat
+        factor: 0.02
+      - name:
+          en: Bamboo, sprouts
+          fr: Pousse de bambou
+        factor: 0.02
+      - name:
+          en: Beans, black, kidney, cooked
+          fr: Fèves noires, haricots rouges, cuits
+        factor: 0.13
+      - name:
+          en: Garbanzo (chick peas), cooked
+          fr: Pois chiche
+        factor: 0.23
+      - name:
+          en: Green Beans / string
+          fr: Fèves vertes
+        factor: 0.05
+      - name:
+          en: Lima Beans, cooked
+          fr: Fève de Lima
+        factor: 0.18
+      - name:
+          en: Navy Beans, cooked
+          fr: Haricots blancs, cuits
+        factor: 0.19
+      - name:
+          en: Pinto Beans, cooked 
+          fr: Haricots Pinto, cuits
+        factor: 0.17
+      - name:
+          en: Soy Beans, cooked
+          fr: Fèves de soja, cuites
+        factor: 0.04
+      - name:
+          en: Beets, boiled and drained
+          fr: Betterave, cuite et égouttée
+        factor: 0.06
+      - name:
+          en: Broccoli
+          fr: Brocoli
+        factor: 0.05
+      - name:
+          en: Cabbage, raw
+          fr: Chou, cru
+        factor: 0.04
+      - name:
+          en: Cabbage, cooked
+          fr: Chou, cuit
+        factor: 0.03
+      - name:
+          en: Cabbage, chinese, raw
+          fr: Chou chinois, cru
+        factor: 0.02
+      - name:
+          en: Cabbage, chinese, cooked
+          fr: Chou chinois, cuit
+        factor: 0.02
+      - name:
+          en: Brussels sprouts, cooked
+          fr: Choux de Bruxelles
+        factor: 0.04
+      - name:
+          en: Carrot, raw
+          fr: Carrotte, crue
+        factor: 0.06
+      - name:
+          en: Carrot, cooked
+          fr: Carrotte, cuite
+        factor: 0.06
+      - name:
+          en: Cauliflower, raw
+          fr: Chou-fleur
+        factor: 0.04
+      - name:
+          en: Cauliflower, cooked
+          fr: Chou-fleur, cuit
+        factor: 0.01
+      - name:
+          en: Celery
+          fr: Céleri
+        factor: 0.01
+      - name:
+          en: Corn, kernels, canned
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
+      - name:
+          en: 
+          fr: 
+        factor: 
