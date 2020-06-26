@@ -641,29 +641,113 @@ source:
         factor: 0.01
       - name:
           en: Corn, kernels, canned
-          fr: 
-        factor: 
+          fr: Maïs, grains, en canne
+        factor: 0.16
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Corn, on the cob, cooked
+          fr: Épi de maïs, cuits
+        factor: 0.09
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Corn, cream style, canned
+          fr: Maïs en crème, en canne
+        factor: 0.17
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Cucumber
+          fr: Concombre
+        factor: 0.01
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Eggplant, cooked
+          fr: Aubergines, cuites
+        factor: 0.06
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Lentils
+          fr: Lentilles
+        factor: 0.16
       - name:
-          en: 
-          fr: 
-        factor: 
+          en: Lettuce, romaine
+          fr: Laitue romaine
+        factor: 0.01
+      - name:
+          en: Lettuce, iceberg
+          fr: Laitue iceberg
+        factor: 0.02
+      - name:
+          en: Mushrooms, cooked
+          fr: Champignons cuits
+        factor: 0.02
+      - name:
+          en: Onion, raw
+          fr: Oignon
+        factor: 0.07
+      - name:
+          en: Parsnip, cooked
+          fr: Panais, cuit
+        factor: 0.14
+      - name:
+          en: Peas, green
+          fr: Pois verts
+        factor: 0.10
+      - name:
+          en: Peppers, green, raw, seeded
+          fr: Poivrons verts crus, épépinés
+        factor: 0.03
+      - name:
+          en: Peppers, red, raw, seeded
+          fr: Poivrons rouges crus, épépinés
+        factor: 0.05
+      - name:
+          en: Potato, baked, flesh and peel
+          fr: Patates, cuites, chaire et pelure
+        factor: 0.19
+      - name:
+          en: Potato, boiled, peeled
+          fr: Patate, bouillie, pelées
+        factor: 0.19
+      - name:
+          en: Potato, hashbrown
+          fr: Patates rissolées
+        factor: 0.26
+      - name:
+          en: Potato, French Fries
+          fr: Patates frites
+        factor: 0.28
+      - name:
+          en: Pumpkin, cooked, canned
+          fr: Citrouille cuite, en canne
+        factor: 0.05
+      - name:
+          en: Radish
+          fr: Radis
+        factor: 0.02
+      - name:
+          en: Sauerkraut
+          fr: Choucroute
+        factor: 0.02
+      - name:
+          en: Spinach
+          fr: Épinard
+        factor: 0.01
+      - name:
+          en: Squash, summer, cooked
+          fr: Courge d'été, cuite
+        factor: 0.03
+      - name:
+          en: Squash, winter, cooked
+          fr: Courge d'hiver, cuite
+        factor: 0.07
+      - name:
+          en: Tomato, slices, cherry
+          fr: Tomates en tranche ou cerises
+        factor: 0.03
+      - name:
+          en: Tomato, whole, raw
+          fr: Tomate crue entière
+        factor: 0.02
+      - name:
+          en: Turnip, cooked
+          fr: Navet, cuit
+        factor: 0.03
+      - name:
+          en: Yams, peeled, boiled
+          fr: Patate douce, bouillie
+        factor: 0.24
