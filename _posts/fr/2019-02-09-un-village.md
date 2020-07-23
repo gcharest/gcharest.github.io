@@ -23,7 +23,7 @@ Au quotidien, la proximité et la disponibilité des parents dans la région fai
 Chacun de ces gestes nous donnes le souffle de continuer!
 
 Et lorsque nous sommes en visite chez nos parents qui habitent plus loin, tout est organisé pour que le moindre soucis nous soit épargné.
-Ils s'assurent d'avoir des aliments pour lesquels il est facile de connaître les valeurs glycémiques, cuisinent et s'occupent des enfants.
+Ils s'assurent d'avoir des aliments pour lesquels il est facile de connaître les valeurs glucidiques, cuisinent et s'occupent des enfants.
 Nous sommes extrêmement gâtés!
 
 ## L'équipe médicale
