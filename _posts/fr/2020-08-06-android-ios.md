@@ -3,7 +3,7 @@ layout: post
 title:  "De Android à iOS"
 ref: android-ios
 lang: fr
-date:   2020-07-29 16:00:00 -0500
+date:   2020-08-06 16:00:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
