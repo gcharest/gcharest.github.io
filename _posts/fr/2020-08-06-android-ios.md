@@ -7,7 +7,7 @@ date:   2020-08-06 16:30:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
-Depuis la sortie du Nexus One de Google, j'ai eu presqu'exclusivement des téléphones Android, avec de très courts essais de certains modèles de iPhones. Lorsque mes deux aînés ont été diagnostiqués avec le diabète de type 1, j'ai dû revoir mon allégeance au système d'opération de Google.
+Depuis la sortie du Nexus One de Google, j'ai eu presque exclusivement des téléphones Android, avec de très courts essais de certains modèles de iPhones. Lorsque mes deux aînés ont été diagnostiqués avec le diabète de type 1, j'ai dû revoir mon allégeance au système d'opération de Google.
 <!--more-->
 
 Bon, je dois dire que le terme "allégeance" est un peu fort mais disons que j'ai longtemps préféré la grande flexibilité que Android offrait au niveau de la personnalisation de l'expérience.
