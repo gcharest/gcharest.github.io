@@ -41,7 +41,7 @@ Pour une quantité de 87g, on retrouve 18g de glucides, dont 2g de fibres.
 Au total, il y a donc 16g de glucides qui ont une incidence sur la glycémie d'un diabétique.
 Pour les fins de cet exercice, il faut soustraire la quantité de fibre, ce qui donne un total final de glucides de 16.
 
-Le facteur glycémique est donc 16g / 87g:
+Le facteur glucidique est donc 16g / 87g:
 
 > 0,183908046 (on peut arrondir ici et utiliser 0,184)
 

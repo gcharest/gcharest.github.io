@@ -8,7 +8,7 @@ author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
 Wow...
-Dans mon dernier [billet]({{ site.baseurl }}/2019/02/15/équilibre.html) datant d'il y a près de 7 mois, je mentionnais que d'avoir un enfant diabétique nécessite non seulement un excellent réseau d'aide, mais aussi un travail qui nous permet de trouver un équilibre.
+Dans mon dernier billet datant d'il y a près de 7 mois, je mentionnais que d'avoir un enfant diabétique nécessite non seulement un excellent réseau d'aide, mais aussi un travail qui nous permet de trouver un équilibre.
 <!--more-->
 Ça devrait être un objectif pour chacune et chacun d'entre nous mais cela prend une toute autre dimension lorsqu'il faut en plus prendre soin d'une personne proche, que ce soit de son enfant ou d'un parent.
 

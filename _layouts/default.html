@@ -7,14 +7,21 @@
 
   {% include header.html %}
 
-  <main class="container">
+  <main role="main" class="container">
+    <section class="jumbotron d-print-none">
+        <p class="site-title">{{ site.data.i18n.general.title[page.lang] }}</p>
+        {%if page.ref == "home" %}
+        <p class="site-subtitle">{{ site.data.i18n.general.subTitle[page.lang] }}</p>
+        {% endif %}
+    </section>
+    <article id="maincontent">
     <div class="row">
       <div class="col">
         {%- if page.ref != "home" -%}
         {%- if page.layout == "post" -%}
         {%- include posts-navlinks.html -%}
         {%- endif -%}
-        <h2>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
         {%- endif -%}
       </div>
     </div>
@@ -27,11 +34,14 @@
     {%- else -%}
     {{ content}}
     {%- endif -%}
+    </article>
+    <aside>
     <div class="row">
       <div class="col">
         {%- include notice.html -%}
       </div>
     </div>
+    </aside>
   </main>
 
   {% include footer.html %}
