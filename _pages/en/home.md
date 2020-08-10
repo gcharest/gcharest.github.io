@@ -16,5 +16,3 @@ One of the most useful tool I have put together for myself is the [carb factor t
 If you have questions, found mistakes or simply would like to get in touch, please feel free to jump in the [Issues](https://github.com/gcharest/gcharest.github.io/issues) and start chatting with me!
 
 ~ [Guillaume](https://twitter.com/GuillCharest)
-
-{% include construction-notice.html %}

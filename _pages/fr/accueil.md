@@ -16,5 +16,3 @@ L'objectif est de faciliter la vie des gens devant vivre avec le diabète de typ
 Si vous avez des questions, trouvez des erreurs ou vous êtes simplement intéressés à entrer en contact, n'hésitez pas à me rejoindre dans les [Enjeux (Issues)](https://github.com/gcharest/gcharest.github.io/issues) et commencer à échanger avec moi!
 
 ~ [Guillaume](https://twitter.com/GuillCharest)
-
-{% include construction-notice.html %}
