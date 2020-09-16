@@ -61,7 +61,7 @@ Malgré tout, il a réussi à passer au travers de cette première grande étape
 Quelques semaines avant le diagnostic de notre fils, ma conjointe et moi avions été invités à assister à une conférence donnée par une jeune diabétique et sa mère.
 Le sujet était passionnant et poignant: la dualité des perspectives d'une personne atteinte de diabète par rapport à un parent qui ne l'est pas.
 
-Étant donné que nous étions déjà très assez à l'aise avec la gestion du diabète et que notre petit coco de 4 ans était déjà plus stable, nous avons décidé d'y assister.
+Étant donné que nous étions déjà très à l'aise avec la gestion du diabète et que notre petit coco de 4 ans était déjà plus stable, nous avons décidé d'y assister.
 Quelle ne fut pas notre surprise de voir toute notre équipe médicale présente!
 À tour de rôle, elles sont venues nous voir, nous parler, nous écouter.
 J'ai déjà mentionné dans un billet précédent combien l'entourage fait toute la différence.
