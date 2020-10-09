@@ -90,7 +90,7 @@ Heather Meeker, _Open (Source) for Business: A Practical Guide to Open Source So
 
 Depends on:
 
-* the open source components your using
+* the open source components you are using
 * your business goals
 
 ---
