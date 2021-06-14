@@ -202,7 +202,7 @@ source:
       - name:
           en: Rice, Wild, Cooked
           fr: Riz sauvage, cuit
-        factor: 0.42
+        factor: 0.24
       - name:
           en: Pasta, Cooked, Plain 
           fr: Pâtes cuites, sans sauce
