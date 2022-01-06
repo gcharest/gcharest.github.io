@@ -7,7 +7,7 @@ date:   2022-01-05 21:30:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
-Des personnes de mon entourage m'ont récemment demandé s'il était possible d'utiliser une application conçue uniquement pour Windows sur un ordinateur Apple, ceux-ci utilisant le système d'opérations macOS.
+Des personnes de mon entourage m'ont récemment demandé s'il était possible d'utiliser une application conçue uniquement pour Windows sur un ordinateur Mac conçu par Apple, ceux-ci utilisant le système d'opérations macOS.
 C'est techniquement possible d'utiliser de telles applications, mais il y a parfois certaines contraintes.
 <!--more-->
 Dans les faits, à moins que l'application n'est été conçue spécifiquement pour un système d'opérations comme macOS, il n'est pas possible d'installer directement celle-ci.
