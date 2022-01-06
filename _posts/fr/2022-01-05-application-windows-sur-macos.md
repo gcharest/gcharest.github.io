@@ -13,7 +13,7 @@ C'est techniquement possible d'utiliser de telles applications, mais il y a parf
 Dans les faits, à moins que l'application n'est été conçue spécifiquement pour un système d'opérations comme macOS, il n'est pas possible d'installer directement celle-ci.
 Il faut donc utiliser Windows sur votre ordinateur Mac.
 
-L'application spécifiquement mentionnée lors de mes échanges est essentiellement Internet Explorer, l'ancien navigateur web exclusif et propriétaire de Microsoft, requis pour utiliser un site web compatible uniquement avec ce navigateur.
+L'application spécifiquement mentionnée lors de mes échanges était Internet Explorer, l'ancien navigateur web exclusif et propriétaire de Microsoft, requis pour utiliser un site web compatible uniquement avec ce navigateur.
 Cette application considérée vétuste même par Microsoft, qui [recommande d'éviter son utilisation pour des raisons de sécurité](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-perils-of-using-internet-explorer-as-your-default-browser/ba-p/331732) et [abandonnera officiallement sa maintenance en juin 2022](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), est disponible uniquement sur Windows.
 
 Ce faisant, il n'est donc pas possible d'installer et d'utiliser Internet Explorer sur macOS directement. Par contre, il y a quelques options permettant au propriétaire d'un ordinateur Apple d'utiliser Windows sur leur appareil.
