@@ -14,7 +14,7 @@ Dans les faits, à moins que l'application n'est été conçue spécifiquement p
 Il faut donc utiliser Windows sur votre ordinateur Mac.
 
 L'application spécifiquement mentionnée lors de mes échanges était Internet Explorer, l'ancien navigateur web exclusif et propriétaire de Microsoft, requis pour utiliser un site web compatible uniquement avec ce navigateur.
-Cette application considérée vétuste même par Microsoft, qui [recommande d'éviter son utilisation pour des raisons de sécurité](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-perils-of-using-internet-explorer-as-your-default-browser/ba-p/331732) et [abandonnera officiallement sa maintenance en juin 2022](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), est disponible uniquement sur Windows.
+Cette application considérée vétuste même par Microsoft, qui [recommande d'éviter son utilisation pour des raisons de sécurité](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-perils-of-using-internet-explorer-as-your-default-browser/ba-p/331732) et [abandonnera officiellement sa maintenance en juin 2022](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), est disponible uniquement sur Windows.
 
 Ce faisant, il n'est donc pas possible d'installer et d'utiliser Internet Explorer sur macOS directement. Par contre, il y a quelques options permettant au propriétaire d'un ordinateur Apple d'utiliser Windows sur leur appareil.
 Les approches les plus fréquentes sont:
@@ -71,7 +71,7 @@ Si vous avez un disque d'installation ou une clé USB avec un assistant d'instal
 
 Il existe aussi un logiciel libre, [Wine](https://www.winehq.org/), qui simule l'environnement Windows et permet d'installer certaines applications sur macOS.
 
-En général, le succès dépend beaucoup de l'application Windows et si les développeurs ont pris le temps de supporter celle-ci pour débugger sont utilisation.
+En général, le succès dépend beaucoup de l'application Windows et si les développeurs ont pris le temps de supporter celle-ci et déboguer son utilisation.
 
 Dans la plus part des cas, si on cherche à utiliser une application très peu connue sur le marché, cette option n'est généralement pas possible.
 
