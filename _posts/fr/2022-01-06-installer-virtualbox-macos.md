@@ -22,6 +22,7 @@ Ensuite, il faudra télécharger les différents logiciels suivants (il est reco
 
 - VirtualBox
   - La dernière version est généralement clairement identifiée sur la [page d'accueil](https://www.virtualbox.org/) avec un très gros bouton indiquant "Download VirtualBox" ainsi que le numéro de la version (e.g.: Download VirtualBox 6.1)
+  - En cliquant sur le lien, vous vous retrouverez dans une nouvelle page où vous devrez télécharger la version correspondant à votre ordinateur actuel, soit **OS X Hosts**.
 - Windows
   - Au moment d'écrire cet article, Microsoft offre 4 versions de Windows 11 Entreprise, dont une spécifiquement conçue pour VirtualBox.
   Il s'agit donc ici de télécharger la machine virtuelle nommée VirtualBox.
