@@ -47,17 +47,18 @@ Cependant, ces images ont une utilisation limitée dans le temps ce qui veut dir
 Apple offre la possibilité d'installer deux système d'opérations en parallèle sur un ordinateur Mac.
 
 Cette option est différente de la première car l'utilisateur doit redémarrer sa machine d'un système d'opérations à l'autre entre chaque utilisation, contrairement à utiliser Windows dans un bureau virtuel sur macOS.
+Comme on installe Windows directement sur l'ordinateur, les performances sont généralement bien meilleures qu'avec un bureau virtuel car les ressources matérielles comme la mémoire vive et le processeur sont entièrement dédiées à Windows au lieu d'être partagées avec macOS.
 
 Pour pouvoir utiliser Windows en parallèle, Boot Camp permet de diviser l'espace libre du disque dur de l'ordinateur en deux et d'ensuite installer Windows directement sur l'ordinateur.
 Votre ordinateur Apple peut désormais démarrer soit en macOS, soit en Windows.
 
 Cette option est relativement simple à utiliser puisque Apple la supporte activement.
-Il suffit de démarrer l'ordinateur et suivre les [instructions fournies par Apple](https://support.apple.com/fr-ca/HT201468)
+Il suffit de suivre les [instructions fournies par Apple](https://support.apple.com/fr-ca/HT201468)
 
 Une fois Windows installé, il est important de bien installer le programme d'installation de Boot Camp car celui-ci sera utile pour pouvoir redémarrer en macOS ainsi que pour installer les pilotes Windows compatibles avec votre Mac.
 
 Comme pour l'utilisation du bureau virtuel, il faut cependant acheter une licence Windows complète car il s'agit d'un logiciel propriétaire.
-On peut tout de même faire des essais avec les images pour environnement de développement mentionnés précédemment.
+On peut tout de même faire des essais avec les images pour environnement de développement mentionnées précédemment.
 
 ## Application tierce
 
