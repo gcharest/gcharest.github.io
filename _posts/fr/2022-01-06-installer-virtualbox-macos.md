@@ -35,7 +35,7 @@ Ensuite, il faudra télécharger les différents logiciels suivants (il est reco
   - Un autre détail important à noter est que ces machines virtuelles ont une durée de vie utilisables de 90 jours à partir du moment de l'installation.
   Passé ce délai, il faut soit activer une licence ou réinstaller la machine virtuelle à partir de zéro.
 - Les applications Windows que vous voulez tester
-  - Par exemple, une application conçue uniquement pour Windows telle que le [visualiseur DSQ](https://www.ti.msss.gouv.qc.ca/dsq-documents-de-soutien/UtilitaireDSQ.aspx) ou encore une version Windows d'une application populaire comme [Firefox](https://www.mozilla.org/fr/firefox/windows/).
+  - Par exemple, une application conçue uniquement pour Windows telle que le [visualiseur DSQ](http://www.ti.msss.gouv.qc.ca/DSQ-Documents-de-soutien/UtilitaireDSQ.aspx) ou encore une version Windows d'une application populaire comme [Firefox](https://www.mozilla.org/fr/firefox/windows/).
   Dans les deux cas, tenter d'installer ces applications directement sur votre Mac ne serait pas possible.
 
 ## Installation de VirtualBox
