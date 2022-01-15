@@ -34,9 +34,6 @@ Ensuite, il faudra télécharger les différents logiciels suivants (il est reco
   Comme le fichier est très volumineux, cela peut prendre de nombreuses minutes avant de compléter l'extraction.
   - Un autre détail important à noter est que ces machines virtuelles ont une durée de vie utilisables de 90 jours à partir du moment de l'installation.
   Passé ce délai, il faut soit activer une licence ou réinstaller la machine virtuelle à partir de zéro.
-- Les applications Windows que vous voulez tester
-  - Par exemple, une application conçue uniquement pour Windows telle que le [visualiseur DSQ](http://www.ti.msss.gouv.qc.ca/DSQ-Documents-de-soutien/UtilitaireDSQ.aspx) ou encore une version Windows d'une application populaire comme [Firefox](https://www.mozilla.org/fr/firefox/windows/).
-  Dans les deux cas, tenter d'installer ces applications directement sur votre Mac ne serait pas possible.
 
 ## Installation de VirtualBox
 
@@ -138,6 +135,10 @@ Pour ajouter une langue, vous pouvez suivre ces instructions (en [anglais](https
    Cliquez sur **Yes** et suivez les instructions de l'installateur.
    1. Lorsque l'installation sera complétée, votre machine virtuelle devrait automatiquement demander à être redémarrée. Si ce n'est pas le cas, vous pouvez le faire manuellement en cliquant sur le bouton **Start** de Windows au bas à gauche de votre écran, puis en cliquant sur le symbole d'un cercle avec une barre verticale dans la partie supérieure.
    Finalement, cliquez sur **Restart**.
+1. C'est maintenant le moment de télécharger les applications Windows que vous voulez tester:
+   - Par exemple, une application conçue uniquement pour Windows telle que le [visualiseur DSQ](http://www.ti.msss.gouv.qc.ca/DSQ-Documents-de-soutien/UtilitaireDSQ.aspx) qui nécessite Internet Explorer 11.
+   - Ou encore une version Windows d'une application populaire comme [Firefox](https://www.mozilla.org/fr/firefox/windows/).
+  Dans les deux cas, tenter d'installer ces applications directement sur votre Mac ne serait pas possible.
 
 ## Conclusion
 
