@@ -91,8 +91,9 @@ Cliquez sur sur **Optical Drive**.
 1. Une nouvelle fenêtre devrait s'ouvrir avec une liste d'au moins un élément nommé "VBoxGuestAdditions.iso".
 Sélectionnez cet élément et cliquez sur **Choose**.
 (Cette étape sert à ajouter à la machine virtuelle un disque virtuel qui sera utilisé plus tard pour améliorer les fonctionnalités de la machine virtuelle sous Windows.)
-1. Cliquez sur l'onglet **Ports** puis sur l'onglet USB, situé juste en dessous.
-1. Lorsque tous les changements sont effectués, cliquez sur OK situé en bas à droite pour sauvegarder les nouvelles configurations.
+1. Cliquez sur l'onglet **Ports** puis sur l'onglet **USB**, situé juste en dessous.
+Cochez l'option **Enable USB Controller**.
+1. Lorsque tous les changements ici-haut sont effectués, cliquez sur **OK** situé en bas à droite pour sauvegarder les nouvelles configurations.
 Vous devriez maintenant être de retour sur la fenêtre principale avec la liste des machines virtuelles installées dans la colonne de gauche.
 
 ## Utilisation de la machine virtuelle Windows
