@@ -3,7 +3,7 @@ layout: post
 title:  "Installer VirtualBox et Windows sur un Mac"
 ref: installer-virtualbox-windows-mac
 lang: fr
-date:   2022-01-06 21:30:00 -0500
+date:   2022-01-15 09:30:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
