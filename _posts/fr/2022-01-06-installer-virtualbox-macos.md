@@ -119,7 +119,7 @@ Par exemple, si vous double-cliquez dans la partie supérieure de la fenêtre o�
    Cliquez sur **Update & Security**, ce qui devrait ouvrir l'écran **Windows Update**.
    Cliquez sur **Check for Updates** et lancez l'installation des mises à jour.
    - Un redémarrage de la machine virtuelle sera probablement requis pour finaliser toutes les mises à jour.
-1. Comme votre souris et votre clavier de votre Mac sont utilisés pour interragir avec la machine virtuelle Windows et que celle-ci peut également demander accès à certains dossiers de votre ordinateur local pour bien fonctionner, il est possible que VirtualBox vous demande d'ajouter des permissions dans votre Mac pour pouvoir les utiliser.
+1. Comme votre souris et votre clavier de votre Mac sont utilisés pour interagir avec la machine virtuelle Windows et que celle-ci peut également demander accès à certains dossiers de votre ordinateur local pour bien fonctionner, il est possible que VirtualBox vous demande d'ajouter des permissions dans votre Mac pour pouvoir les utiliser.
    - Une boîte de dialogue pourrait s'ouvrir lorsque ces permissions sont requises.
    Si c'est le cas, suivez les instructions et autorisez les accès.
    - Sinon, vous pouvez aller dans les **Préférences système**, dans la section **Sécurité et vie privée**, sous l'onglet **Vie privée** et déverrouillez l'accès en cliquant sur le cadenas situé en bas à gauche.
