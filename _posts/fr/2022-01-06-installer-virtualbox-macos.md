@@ -82,17 +82,19 @@ Avant d'utiliser la machine virtuelle Windows 10, les paramètres devraient êtr
 En glissant le curseur vers la droite sur la ligne, la valeur devrait s'arrondir à **8192 MB**, sinon vous pouvez l'entrer manuellement.
 1. Cliquez sur l'onglet **Display**, puis changez la valeur de **Video Memory** pour le maximum disponible, qui devrait être **128 MB**.
 1. Toujours dans le même onglet **Display**, changez la valeur de **Graphics Controller** pour **VBoxSVGA** (la valeur originale étant normalement *VBoxVGA)*.
-1. **Étape modifiée**:Cliquez sur l'onglet **Storage** puis sur le bouton avec l'icône d'une disquette ayant le symbole "+".
+1. **Étape modifiée**:
+Cliquez sur l'onglet **Storage** puis sur le bouton avec l'icône d'une disquette ayant le symbole "+".
 Cliquez sur **Leave Empty**.
 
    ~~En survolant l'icône, le texte affiché devrait indiquer "Adds a new storage attachment".
    Lorsque vous aurez cliqué, un menu devrait afficher deux options: "Optical Drive" et "Hard Disk".
    Cliquez sur sur **Optical Drive**.~~
-1. *Mise à jour:*
+1. **Étape retirée:**
 Cette étape est remplacée par une manipulation différente lorsque la machine virtuelle sera démarrée.
-~~Une nouvelle fenêtre devrait s'ouvrir avec une liste d'au moins un élément nommé "VBoxGuestAdditions.iso".
-Sélectionnez cet élément et cliquez sur **Choose**.
-(Cette étape sert à ajouter à la machine virtuelle un disque virtuel qui sera utilisé plus tard pour améliorer les fonctionnalités de la machine virtuelle sous Windows.)~~
+
+   ~~Une nouvelle fenêtre devrait s'ouvrir avec une liste d'au moins un élément nommé "VBoxGuestAdditions.iso".
+   Sélectionnez cet élément et cliquez sur **Choose**.
+   (Cette étape sert à ajouter à la machine virtuelle un disque virtuel qui sera utilisé plus tard pour améliorer les fonctionnalités de la machine virtuelle sous Windows.)~~
 1. Cliquez sur l'onglet **Ports** puis sur l'onglet **USB**, situé juste en dessous.
 Cochez l'option **Enable USB Controller**.
 1. Lorsque tous les changements ici-haut sont effectués, cliquez sur **OK** situé en bas à droite pour sauvegarder les nouvelles configurations.
@@ -132,7 +134,7 @@ Par exemple, si vous double-cliquez dans la partie supérieure de la fenêtre o�
 1. Comme la machine virtuelle de Windows est en anglais, vous pourriez vouloir ajouter une langue de saisie ou même des interfaces tel que le français.
 Pour ajouter une langue, vous pouvez suivre ces instructions (en [anglais](https://support.microsoft.com/en-us/windows/install-a-language-for-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a) ou en [français](https://support.microsoft.com/fr-fr/windows/installer-une-langue-pour-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a)).
 1. Lorsque votre machine virtuelle sera bien configurée et que les performances seront acceptables, il sera temps d'installer les outils fournis par VirtualBox pour améliorer les fonctionnalités.
-   1. *Étape ajoutée:* Dans la partie supérieure gauche de votre Mac, vous devriez voir le logo de Apple, soit une pomme.
+   1. **Étape ajoutée:** Dans la partie supérieure gauche de votre Mac, vous devriez voir le logo de Apple, soit une pomme.
    À sa droite, vous devriez voir le nom de l'application **VirtualBox VM**.
    Plus loin sur la droite, cliquez sur Devices, puis sur **Insert Guest Additions CD image...**
    1. À partir de votre machine virtuelle Windows, ouvrez le **File Explorer** en cliquant sur l'icône ressemblant à un fichier beige en bas à gauche ou en faisant une recherche.
