@@ -3,7 +3,7 @@ layout: post
 title:  "Windows, VirtualBox et besoins particuliers liés aux ports USB"
 ref: virtualbox-windows-usb
 lang: fr
-date:   2022-01-165 15:30:00 -0500
+date:   2022-01-16 15:30:00 -0500
 author: Guillaume Charest
 excerpt_separator: <!--more-->
 ---
