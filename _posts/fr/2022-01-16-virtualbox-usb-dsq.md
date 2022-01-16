@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows, VirtualBox et besoins particuliers liés aux ports USB"
-ref: installer-virtualbox-windows-mac
+ref: virtualbox-windows-usb
 lang: fr
 date:   2022-01-165 15:30:00 -0500
 author: Guillaume Charest
