@@ -16,7 +16,7 @@ Or, au quotidien, il arrive que l'accès à un ordinateur de bureau ne soit pas 
 En effet, si on regarde quelques sites spécialisés dans le marketing, on constate que le support sur lequel les gens naviguent a sérieusement changé au cours des 10 dernières années:
 
 * [Les chiffres du numérique au Canada en 2017](https://www.kabane.ca/chiffres-numerique-canada-2017), Kabane, agence marketing.
-* [Mobile vs Desktop Usage in 2018: Mobile takes the lead](https://www.stonetemple.com/mobile-vs-desktop-usage-study/), Stone Temple, Digital Marketing.
+* Mobile vs Desktop Usage in 2018: Mobile takes the lead, Stone Temple, Digital Marketing.
 
 Avant même de considérer l'accessibilité comme un besoin pour les personnes ayant un handicap ou des besoins spécifiques, il faut voir l'accessibilité comme la possibilité pour toutes personnes à utiliser le service ou à consulter l'information.
 Je dois dire que le fait d'accéder à des fichiers PDF pour consulter de l'information m'horripile si ce n'était pas l'intention de l'imprimer.
