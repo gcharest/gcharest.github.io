@@ -11,6 +11,17 @@ Guide pour installer et tester Windows sur un ordinateur conçu par Apple, commu
 La durée totale d'installation peut varier entre 45 et 60 minutes selon votre connexion internet pour les téléchargements et de votre niveau de confort avec les différents logiciels présentés.
 <!--more-->
 
+> Mises à jour:
+>
+> *2022-01-27* : Grâce à la rétroaction de personnes ayant utilisé le guide suivant, j'ai modifié quelques étapes pour corriger des problèmes qu'elles ont rencontrés.
+> Les changements apportés depuis la première publication sont au niveau des sections suivantes:
+>
+> - Configuration de la machine virtuelle Windows
+>   - Étape 6 modifiée
+>   - Étape 7 retirée
+> - Utilisation de la  machine virtuelle Windows
+>   - Étape 8.1 ajoutée
+
 ## Préparation
 
 Tout d'abord, pour pouvoir utiliser VirtualBox avec Windows, il faut que votre Mac ait:
