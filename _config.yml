@@ -1,17 +1,54 @@
+# Jekyll configuration for gcharest.github.io
+# Note: This file is NOT reloaded automatically when using 'bundle exec jekyll serve'.
+# Changes require restarting the server process.
 
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+# ========== SITE SETTINGS ==========
+title: "Guillaume Charest"
+description: "Personal website and blog"
+author:
+  name: Guillaume Charest
 baseurl: ""
 url: "https://www.gcharest.ca/"
+lang: "en"
+timezone: "America/Toronto"
+encoding: "utf-8"
 
-# Build settings
+# ========== BUILD SETTINGS ==========
 markdown: kramdown
-include: ["_pages"]
-exclude: ["wip-tec", "CONTRIBUTING.md", "cspell.json", "LICENSE", "link-check.js", "package.json", "package-lock.json", "README.md"]
+highlighter: rouge
 
+# Include directories in the conversion
+include:
+  - _pages
+
+# Exclude files and directories from conversion
+# Note: excludes are added to Jekyll's defaults, not replacing them
+exclude:
+  - wip-tec
+  - CONTRIBUTING.md
+  - cspell.json
+  - link-check.js
+  - .editorconfig
+  - .gitignore
+
+# ========== OUTPUT SETTINGS ==========
+permalink: /:categories/:year/:month/:day/:title/
+future: false
+unpublished: false
+show_drafts: false
+
+# ========== PLUGINS ==========
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# ========== SASS/SCSS ==========
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+
+# ========== CUSTOM VARIABLES ==========
 wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
 wet_cdts_version: "v4_0_30"
+
