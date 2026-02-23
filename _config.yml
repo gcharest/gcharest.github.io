@@ -1,7 +1,3 @@
-# Jekyll configuration for gcharest.github.io
-# Note: This file is NOT reloaded automatically when using 'bundle exec jekyll serve'.
-# Changes require restarting the server process.
-
 # ========== SITE SETTINGS ==========
 title: "Guillaume Charest"
 description: "Personal website and blog"
@@ -47,8 +43,4 @@ sass:
   style: compressed
   load_paths:
     - _sass
-
-# ========== CUSTOM VARIABLES ==========
-wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
-wet_cdts_version: "v4_0_30"
 
