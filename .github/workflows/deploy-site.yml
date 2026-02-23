@@ -1,0 +1,108 @@
+name: Deploy Jekyll Site
+
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - "_config.yml"
+            - "_data/**"
+            - "_includes/**"
+            - "_layouts/**"
+            - "_pages/**"
+            - "_posts/**"
+            - "assets/**"
+            - "presentations/**"
+            - "Gemfile"
+            - "Gemfile.lock"
+            - ".github/workflows/deploy-site.yml"
+    workflow_dispatch:
+
+permissions:
+    id-token: write
+    contents: read
+
+env:
+    AWS_REGION: us-east-1
+    S3_BUCKET: gcharest-ca-website
+    RUBY_VERSION: "3.2"
+
+concurrency:
+    group: deploy-site
+    cancel-in-progress: false
+
+jobs:
+    deploy:
+        name: Build and Deploy Site
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Setup Ruby
+              uses: ruby/setup-ruby@v1
+              with:
+                  ruby-version: ${{ env.RUBY_VERSION }}
+                  bundler-cache: true
+
+            - name: Install dependencies
+              run: |
+                  bundle install
+
+            - name: Build Jekyll site
+              run: |
+                  JEKYLL_ENV=production bundle exec jekyll build
+
+            - name: Configure AWS credentials
+              uses: aws-actions/configure-aws-credentials@v4
+              with:
+                  role-to-assume: arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/github-actions-terragrunt-role
+                  aws-region: ${{ env.AWS_REGION }}
+                  role-session-name: github-deploy-site
+
+            - name: Upload to S3
+              run: |
+                  aws s3 sync _site/ s3://${{ env.S3_BUCKET }}/ \
+                    --delete \
+                    --cache-control "public, max-age=3600" \
+                    --exclude "*.html" \
+                    --exclude "manifest.json"
+
+                  # Upload HTML files with shorter cache
+                  aws s3 sync _site/ s3://${{ env.S3_BUCKET }}/ \
+                    --exclude "*" \
+                    --include "*.html" \
+                    --cache-control "public, max-age=300"
+
+                  # Upload manifest with no cache
+                  aws s3 sync _site/ s3://${{ env.S3_BUCKET }}/ \
+                    --exclude "*" \
+                    --include "manifest.json" \
+                    --cache-control "no-cache, no-store, must-revalidate"
+
+            - name: Get CloudFront Distribution ID
+              id: cloudfront
+              run: |
+                  DISTRIBUTION_ID=$(aws cloudfront list-distributions \
+                    --query "DistributionList.Items[?Comment=='Blog distribution for gcharest'].Id | [0]" \
+                    --output text)
+                  echo "distribution_id=$DISTRIBUTION_ID" >> $GITHUB_OUTPUT
+
+            - name: Invalidate CloudFront cache
+              if: steps.cloudfront.outputs.distribution_id != 'None' && steps.cloudfront.outputs.distribution_id != ''
+              run: |
+                  aws cloudfront create-invalidation \
+                    --distribution-id ${{ steps.cloudfront.outputs.distribution_id }} \
+                    --paths "/*"
+
+            - name: Deployment summary
+              if: success()
+              run: |
+                  echo "## ✅ Site Deployed Successfully" >> $GITHUB_STEP_SUMMARY
+                  echo "" >> $GITHUB_STEP_SUMMARY
+                  echo "**Website URL:** https://www.gcharest.ca/" >> $GITHUB_STEP_SUMMARY
+                  echo "" >> $GITHUB_STEP_SUMMARY
+                  echo "**S3 Bucket:** ${{ env.S3_BUCKET }}" >> $GITHUB_STEP_SUMMARY
+                  if [ -n "${{ steps.cloudfront.outputs.distribution_id }}" ]; then
+                    echo "**CloudFront Distribution:** ${{ steps.cloudfront.outputs.distribution_id }}" >> $GITHUB_STEP_SUMMARY
+                  fi
