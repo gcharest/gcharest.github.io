@@ -2,7 +2,7 @@
 
 ## Site web personnel
 
-La base du site a été générée à partir du [site de l'équipe de la Stratégie TI de EDSC](https://github.com/sara-sabr/ITStrategy), qui est disponible sous la licence MIT.
+La base du site a été générée à partir du [site de l'équipe de la Stratégie TI de EDSC](https://github.com/sara-sebr/ITStrategy), qui est disponible sous la licence MIT.
 
 Tout le contenu trouvé dans le site généré à gcharest.github.io et gcharest.ca, sauf exception, est partagé sous la licence CC-BY. Par exemple, certaines présentations ont été créées pour mon travail au Gouvernement du Canada et sont donc par défaut sous le droit d’auteur de la Couronne.
 
@@ -22,3 +22,28 @@ For example, certain presentations were created for my work at the Government of
 Also, all blog posts located in the "_posts" folder are released under CC-BY-NC.
 
 The project also includes multiple other dependencies, notably the [Jekyll](https://jekyllrb.com/) (MIT) and [Reveal.js](https://revealjs.com/#/) (MIT) projects.
+
+---
+
+## Development
+
+### Setup
+```bash
+bundle install
+npm install
+```
+
+### Run locally
+```bash
+bundle exec jekyll serve --livereload
+```
+
+### Build for production
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+### Tests
+```bash
+npm run test
+```

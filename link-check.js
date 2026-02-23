@@ -12,9 +12,14 @@ var chalk = require("chalk");
 var files = glob.sync("**/*.md", {ignore: ["_includes/**/*.md", "node_modules/**/*.md", "_site/**/*.md"]})
 
 var config = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
-config.timeout = '30s'
+config.timeout = 60000;
+config.headers = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+};
+config.retryOn = [429, 503];
+config.retries = 2;
 
-var opts = JSON.parse(fs.readFileSync(".markdown-link-check.json"));
+var opts = Object.assign({}, config);
 
 files.forEach(function(file) {
   var markdown = fs.readFileSync(file).toString();
@@ -35,12 +40,19 @@ files.forEach(function(file) {
         if (result.statusCode == 500) {
           console.log(chalk.yellow("Server error on target: " + result.link));
         }
+        else if (result.statusCode == 403 || result.statusCode == 429) {
+          console.log(chalk.yellow("Access restricted (Cloudflare/rate-limit): " + result.link));
+        }
         else {
           process.exitCode = 1
           console.log(chalk.red("Dead: " + result.link));
         }
       } else if (result.status === "error") {
-        console.log(chalk.yellow("Warning: " + result.link));
+        if (result.message && result.message.includes("ETIMEDOUT")) {
+          console.log(chalk.yellow("Timeout (slow server): " + result.link));
+        } else {
+          console.log(chalk.yellow("Warning: " + result.link));
+        }
       }
     });
   });
