@@ -29,7 +29,8 @@ jobs:
           - s3
           - acm
           - cloudfront
-          - route53
+          - route53-zone
+          - route53-records
 
     steps:
       - name: Checkout code
