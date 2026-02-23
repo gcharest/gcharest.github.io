@@ -26,6 +26,8 @@ exclude:
   - link-check.js
   - .editorconfig
   - .gitignore
+  - terragrunt/
+  - .github/
 
 # ========== OUTPUT SETTINGS ==========
 permalink: /:categories/:year/:month/:day/:title/
