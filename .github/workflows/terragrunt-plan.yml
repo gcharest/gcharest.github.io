@@ -51,12 +51,12 @@ jobs:
             - name: Terragrunt Init All
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --all init
+                  terragrunt run  --non-interactive --all init
 
             - name: Terragrunt Plan All
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --all plan -no-color 2>&1 | tee plan.txt
+                  terragrunt run --non-interactive --all plan -- -no-color 2>&1 | tee plan.txt
 
             - name: Comment Plan on PR
               if: github.event_name == 'pull_request'
