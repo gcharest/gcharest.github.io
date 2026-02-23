@@ -19,6 +19,8 @@ resource "aws_cloudfront_distribution" "website" {
   comment             = "Blog distribution for ${var.distribution_name}"
   default_root_object = "index.html"
 
+  aliases = [var.domain_name, "www.${var.domain_name}"]
+
   custom_error_response {
     error_code         = 404
     response_code      = 200
@@ -160,14 +162,14 @@ resource "aws_s3_bucket_policy" "cloudfront_access" {
 }
 
 resource "aws_cloudfront_cache_policy" "immutable_assets" {
-  name            = "${var.distribution_name}-immutable-assets"
-  comment         = "Cache policy for hashed JS/CSS files (1 year)"
-  default_ttl     = 31536000
-  max_ttl         = 31536000
-  min_ttl         = 0
+  name        = "${var.distribution_name}-immutable-assets"
+  comment     = "Cache policy for hashed JS/CSS files (1 year)"
+  default_ttl = 31536000
+  max_ttl     = 31536000
+  min_ttl     = 0
 
   parameters_in_cache_key_and_forwarded_to_origin {
-    enable_accept_encoding_gzip = true
+    enable_accept_encoding_gzip   = true
     enable_accept_encoding_brotli = true
     query_strings_config {
       query_string_behavior = "none"
@@ -182,14 +184,14 @@ resource "aws_cloudfront_cache_policy" "immutable_assets" {
 }
 
 resource "aws_cloudfront_cache_policy" "index_html" {
-  name            = "${var.distribution_name}-index-html"
-  comment         = "Cache policy for index.html (1 hour)"
-  default_ttl     = 3600
-  max_ttl         = 3600
-  min_ttl         = 0
+  name        = "${var.distribution_name}-index-html"
+  comment     = "Cache policy for index.html (1 hour)"
+  default_ttl = 3600
+  max_ttl     = 3600
+  min_ttl     = 0
 
   parameters_in_cache_key_and_forwarded_to_origin {
-    enable_accept_encoding_gzip = true
+    enable_accept_encoding_gzip   = true
     enable_accept_encoding_brotli = true
     query_strings_config {
       query_string_behavior = "none"
@@ -204,11 +206,11 @@ resource "aws_cloudfront_cache_policy" "index_html" {
 }
 
 resource "aws_cloudfront_cache_policy" "no_cache" {
-  name            = "${var.distribution_name}-no-cache"
-  comment         = "No cache policy for manifest.json"
-  default_ttl     = 0
-  max_ttl         = 0
-  min_ttl         = 0
+  name        = "${var.distribution_name}-no-cache"
+  comment     = "No cache policy for manifest.json"
+  default_ttl = 0
+  max_ttl     = 0
+  min_ttl     = 0
 
   parameters_in_cache_key_and_forwarded_to_origin {
     query_strings_config {
@@ -224,14 +226,14 @@ resource "aws_cloudfront_cache_policy" "no_cache" {
 }
 
 resource "aws_cloudfront_cache_policy" "data_shards" {
-  name            = "${var.distribution_name}-data-shards"
-  comment         = "Cache policy for data shards (24 hours)"
-  default_ttl     = 86400
-  max_ttl         = 86400
-  min_ttl         = 0
+  name        = "${var.distribution_name}-data-shards"
+  comment     = "Cache policy for data shards (24 hours)"
+  default_ttl = 86400
+  max_ttl     = 86400
+  min_ttl     = 0
 
   parameters_in_cache_key_and_forwarded_to_origin {
-    enable_accept_encoding_gzip = true
+    enable_accept_encoding_gzip   = true
     enable_accept_encoding_brotli = true
     query_strings_config {
       query_string_behavior = "none"
