@@ -9,7 +9,7 @@ dependency "route53_zone" {
     hosted_zone_id = "Z1234567890ABC"
   }
 
-  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
+  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init", "apply"]
 }
 
 locals {

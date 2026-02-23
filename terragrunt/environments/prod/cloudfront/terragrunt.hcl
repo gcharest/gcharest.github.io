@@ -11,7 +11,7 @@ dependency "s3" {
     bucket_regional_domain_name    = "gcharest-ca-website.s3.us-east-1.amazonaws.com"
   }
 
-  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
+  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init", "apply"]
 }
 
 dependency "acm" {
@@ -21,7 +21,7 @@ dependency "acm" {
     certificate_arn = "arn:aws:acm:us-east-1:123456789012:certificate/12345678-1234-1234-1234-123456789012"
   }
 
-  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
+  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init", "apply"]
 }
 
 locals {

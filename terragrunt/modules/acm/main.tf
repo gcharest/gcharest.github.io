@@ -43,7 +43,7 @@ resource "aws_acm_certificate_validation" "website" {
   certificate_arn = aws_acm_certificate.website.arn
 
   timeouts {
-    create = "5m"
+    create = "45m"
   }
 
   depends_on = [aws_route53_record.cert_validation]
