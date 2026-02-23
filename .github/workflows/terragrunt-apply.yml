@@ -58,7 +58,7 @@ jobs:
             - name: Terragrunt Apply All Modules
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --all apply -auto-approve
+                  terragrunt run --all apply -- -auto-approve
 
             - name: Output Route53 Nameservers
               if: success()
