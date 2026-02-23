@@ -53,12 +53,12 @@ jobs:
             - name: Terragrunt Init All
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --terragrunt-non-interactive --all init
+                  terragrunt run --non-interactive -- apply -auto-approve
 
             - name: Terragrunt Apply All Modules
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --terragrunt-non-interactive --all apply -- -auto-approve
+                  terragrunt run --non-interactive --all apply -- -auto-approve
 
             - name: Output Route53 Nameservers
               if: success()
