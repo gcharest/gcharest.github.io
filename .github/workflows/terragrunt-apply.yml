@@ -53,21 +53,9 @@ jobs:
             - name: Terragrunt Init All
               working-directory: terragrunt/environments/prod
               run: |
-                  terragrunt run --non-interactive -- apply -auto-approve
+                  terragrunt run --non-interactive --all init
 
             - name: Terragrunt Apply All Modules
               working-directory: terragrunt/environments/prod
               run: |
                   terragrunt run --non-interactive --all apply -- -auto-approve
-
-            - name: Output Route53 Nameservers
-              if: success()
-              working-directory: terragrunt/environments/prod/route53-zone
-              run: |
-                  echo "## ✅ Infrastructure Deployed Successfully" >> $GITHUB_STEP_SUMMARY
-                  echo "" >> $GITHUB_STEP_SUMMARY
-                  echo "**Update your domain registrar with these nameservers:**" >> $GITHUB_STEP_SUMMARY
-                  echo "" >> $GITHUB_STEP_SUMMARY
-                  echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-                  terragrunt output -raw nameservers_string >> $GITHUB_STEP_SUMMARY
-                  echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
