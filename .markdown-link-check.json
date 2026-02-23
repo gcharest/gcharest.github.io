@@ -1,29 +1,14 @@
 {
+  "timeout": 60000,
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  "retryOn": [
+    429,
+    503
+  ],
+  "retries": 2,
   "ignorePatterns": [
-    {
-      "pattern": "http://esdc.prv"
-    },
-    {
-      "pattern": "http://edsc.prv"
-    },
-    {
-      "pattern": "http://www.esdc.prv"
-    },
-    {
-      "pattern": "http://iservice.prv"
-    },
-    {
-      "pattern": "http://dialogue"
-    },
-    {
-      "pattern": "https://gcconnex.gc.ca"
-    },
-    {
-      "pattern": "http://www.gcpedia.gc.ca"
-    },
-    {
-      "pattern": "http://localhost"
-    },
     {
       "pattern": "mailto"
     },
