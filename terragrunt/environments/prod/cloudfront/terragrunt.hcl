@@ -6,9 +6,9 @@ dependency "s3" {
   config_path = "../s3"
 
   mock_outputs = {
-    bucket_id                      = "gcharest-github-io"
-    bucket_arn                     = "arn:aws:s3:::gcharest-github-io"
-    bucket_regional_domain_name    = "gcharest-github-io.s3.us-east-1.amazonaws.com"
+    bucket_id                      = "gcharest-ca-website"
+    bucket_arn                     = "arn:aws:s3:::gcharest-ca-website"
+    bucket_regional_domain_name    = "gcharest-ca-website.s3.us-east-1.amazonaws.com"
   }
 
   mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
