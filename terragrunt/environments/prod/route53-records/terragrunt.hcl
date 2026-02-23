@@ -9,7 +9,7 @@ dependency "route53_zone" {
     hosted_zone_id = "Z1234567890ABC"
   }
 
-  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init", "apply"]
+  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
 }
 
 dependency "cloudfront" {
@@ -20,7 +20,7 @@ dependency "cloudfront" {
     distribution_id   = "E123ABC"
   }
 
-  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init", "apply"]
+  mock_outputs_allowed_terraform_commands = ["plan", "validate", "init"]
 }
 
 locals {
