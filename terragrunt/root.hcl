@@ -1,5 +1,5 @@
 terraform {
-  source = "${get_parent_terragrunt_dir()}/modules//${path_relative_to_include()}"
+  source = "${get_parent_terragrunt_dir()}/modules//${basename(get_terragrunt_dir())}"
 }
 
 remote_state {

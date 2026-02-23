@@ -8,3 +8,10 @@ node_modules/
 *.log
 .DS_Store
 Gemfile.lock
+
+# terragrunt
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terragrunt-cache/
