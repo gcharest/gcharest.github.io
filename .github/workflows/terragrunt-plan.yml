@@ -57,28 +57,3 @@ jobs:
               working-directory: terragrunt/environments/prod
               run: |
                   terragrunt run --non-interactive --all plan -- -no-color 2>&1 | tee plan.txt
-
-            - name: Comment Plan on PR
-              if: github.event_name == 'pull_request'
-              uses: actions/github-script@v7
-              with:
-                  script: |
-                      const fs = require('fs');
-                      const plan = fs.readFileSync('terragrunt/environments/prod/plan.txt', 'utf8');
-                      const output = `### Terragrunt Plan Results
-
-                      <details>
-                      <summary>Show Plan Output</summary>
-
-                      \`\`\`
-                      ${plan.slice(0, 60000)}
-                      \`\`\`
-
-                      </details>`;
-
-                      github.rest.issues.createComment({
-                          issue_number: context.issue.number,
-                          owner: context.repo.owner,
-                          repo: context.repo.repo,
-                          body: output
-                      });
